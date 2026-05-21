@@ -1,0 +1,6 @@
+# Python-Abhängigkeiten für optionale semantische Suche und API
+torch==2.9.0+cu128
+sentence-transformers>=2.2.2
+faiss-cpu>=1.7.4
+fastapi>=0.101
+uvicorn>=0.22

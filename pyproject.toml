@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "taufspruch_finder_backend"
+version = "0.1.0"
+description = "Optionale serverlose API für den Taufspruch Finder"
+authors = ["Benjamin <email@example.com>"]
+requires-python = ">=3.11"
+
+[project.dependencies]
+torch = "==2.9.0+cu128"
+sentence-transformers = ">=2.2.2"
+faiss-cpu = ">=1.7.4"
+fastapi = ">=0.101"
+uvicorn = ">=0.22"
+

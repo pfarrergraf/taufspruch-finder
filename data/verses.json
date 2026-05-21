@@ -1,0 +1,1318 @@
+[
+  {
+    "id": "joh-3-16",
+    "book": "Johannes",
+    "chapter": 3,
+    "verse": 16,
+    "translations": {
+      "luther2017": "Denn so hat Gott die Welt geliebt, dass er seinen eingeborenen Sohn gab, damit alle, die an ihn glauben, nicht verloren werden, sondern das ewige Leben haben.",
+      "gute_nachricht": "Gott hat die Menschen so sehr geliebt, dass er seinen einzigen Sohn für sie hergab. Jeder, der an ihn glaubt, wird nicht zugrunde gehen, sondern ewig leben.",
+      "elberfelder": "Denn so hat Gott die Welt geliebt, dass er seinen einziggeborenen Sohn gab, damit jeder, der an ihn glaubt, nicht verloren geht, sondern ewiges Leben hat."
+    },
+    "categories": ["von-guten-maechten-geborgen"],
+    "traits": ["froehlich-dankbar", "vertrauend"],
+    "keywords": ["Liebe", "Gott", "Sohn", "Glaube", "ewiges Leben"]
+  },
+  {
+    "id": "ps-23-1",
+    "book": "Psalmen",
+    "chapter": 23,
+    "verse": 1,
+    "translations": {
+      "luther2017": "Der HERR ist mein Hirte, mir wird nichts mangeln.",
+      "gute_nachricht": "Der HERR ist mein Hirte, ich habe alles, was ich brauche.",
+      "elberfelder": "Der HERR ist mein Hirte, mir wird nichts fehlen."
+    },
+    "categories": ["von-guten-maechten-geborgen"],
+    "traits": ["vertrauend", "froehlich-dankbar"],
+    "keywords": ["Hirte", "HERR", "Fürsorge", "Geborgenheit", "Vertrauen"]
+  },
+  {
+    "id": "jer-29-11",
+    "book": "Jeremia",
+    "chapter": 29,
+    "verse": 11,
+    "translations": {
+      "luther2017": "Denn ich weiß, was ich für Gedanken über euch habe, spricht der HERR: Gedanken des Friedens und nicht des Leides, euch eine Zukunft und eine Hoffnung zu geben.",
+      "gute_nachricht": "Ich allein weiß, was ich mit euch vorhabe – Heil und nicht Unheil will ich euch bringen. Ich will euch eine Zukunft und eine Hoffnung geben. Das ist mein Beschluss.",
+      "elberfelder": "Denn ich kenne die Gedanken, die ich über euch hege, spricht der HERR: Gedanken des Friedens und nicht des Unheils, um euch eine Zukunft und eine Hoffnung zu geben."
+    },
+    "categories": ["von-guten-maechten-geborgen", "mutig"],
+    "traits": ["vertrauend", "mutig"],
+    "keywords": ["Zukunft", "Hoffnung", "Frieden", "Gottes Plan", "Fürsorge"]
+  },
+  {
+    "id": "jes-43-1",
+    "book": "Jesaja",
+    "chapter": 43,
+    "verse": 1,
+    "translations": {
+      "luther2017": "Fürchte dich nicht, denn ich habe dich erlöst; ich habe dich bei deinem Namen gerufen; du bist mein!",
+      "gute_nachricht": "Hab keine Angst! Ich habe dich befreit, ich habe dich bei deinem Namen gerufen – du gehörst mir!",
+      "elberfelder": "Fürchte dich nicht, denn ich habe dich erlöst; ich habe dich bei deinem Namen gerufen; du bist mein!"
+    },
+    "categories": ["von-guten-maechten-geborgen"],
+    "traits": ["mutig", "vertrauend"],
+    "keywords": ["Name", "Erlösung", "Zugehörigkeit", "Furcht", "Geborgenheit"]
+  },
+  {
+    "id": "roem-8-28",
+    "book": "Römer",
+    "chapter": 8,
+    "verse": 28,
+    "translations": {
+      "luther2017": "Wir wissen aber, dass denen, die Gott lieben, alle Dinge zum Besten dienen, denen, die nach seinem Ratschluss berufen sind.",
+      "gute_nachricht": "Wir wissen: Denen, die Gott lieben, lässt er alles zum Guten dienen – denen, die er nach seinem Plan berufen hat.",
+      "elberfelder": "Wir wissen aber, dass denen, die Gott lieben, alle Dinge zum Guten mitwirken, denen, die nach Vorsatz berufen sind."
+    },
+    "categories": ["von-guten-maechten-geborgen", "verantwortungsvoll"],
+    "traits": ["vertrauend", "mutig"],
+    "keywords": ["Gottes Wille", "Vertrauen", "Berufung", "Liebe", "Fürsorge"]
+  },
+  {
+    "id": "phil-4-7",
+    "book": "Philipper",
+    "chapter": 4,
+    "verse": 7,
+    "translations": {
+      "luther2017": "Und der Friede Gottes, der allen Verstand übersteigt, wird eure Herzen und eure Sinne in Christus Jesus bewahren.",
+      "gute_nachricht": "Dann wird der Friede Gottes, der alles menschliche Verstehen übersteigt, eure Herzen und Gedanken in der Gemeinschaft mit Christus Jesus bewahren.",
+      "elberfelder": "Und der Friede Gottes, der allen Verstand übersteigt, wird eure Herzen und eure Gedanken in Christus Jesus bewahren."
+    },
+    "categories": ["von-guten-maechten-geborgen", "mit-sich-anderen-im-reinen"],
+    "traits": ["vertrauend", "froehlich-dankbar"],
+    "keywords": ["Friede", "Herz", "Bewahrung", "Christus", "Verstand"]
+  },
+  {
+    "id": "ps-139-14",
+    "book": "Psalmen",
+    "chapter": 139,
+    "verse": 14,
+    "translations": {
+      "luther2017": "Ich danke dir dafür, dass ich wunderbar gemacht bin; wunderbar sind deine Werke; das erkennt meine Seele.",
+      "gute_nachricht": "Ich danke dir, dass du mich so wunderbar und einzigartig geschaffen hast. Was du tust, ist wunderbar – das weiß ich genau.",
+      "elberfelder": "Ich preise dich dafür, dass ich auf erstaunliche Weise wunderbar gemacht bin; wunderbar sind deine Werke, meine Seele weiß es sehr wohl."
+    },
+    "categories": ["froehlich-dankbar"],
+    "traits": ["froehlich-dankbar", "vertrauend"],
+    "keywords": ["Dankbarkeit", "Schöpfung", "Wunder", "Einzigartigkeit", "Lob"]
+  },
+  {
+    "id": "ps-121-2",
+    "book": "Psalmen",
+    "chapter": 121,
+    "verse": 2,
+    "translations": {
+      "luther2017": "Meine Hilfe kommt vom HERRN, der Himmel und Erde gemacht hat.",
+      "gute_nachricht": "Meine Hilfe kommt von Gott, dem Herrn, der Himmel und Erde gemacht hat.",
+      "elberfelder": "Meine Hilfe kommt von dem HERRN, dem Schöpfer des Himmels und der Erde."
+    },
+    "categories": ["von-guten-maechten-geborgen"],
+    "traits": ["vertrauend", "mutig"],
+    "keywords": ["Hilfe", "HERR", "Schöpfer", "Schutz", "Vertrauen"]
+  },
+  {
+    "id": "matt-28-20",
+    "book": "Matthäus",
+    "chapter": 28,
+    "verse": 20,
+    "translations": {
+      "luther2017": "Und siehe, ich bin bei euch alle Tage bis an der Welt Ende.",
+      "gute_nachricht": "Und ich bin jeden Tag bei euch, bis zum Ende der Welt.",
+      "elberfelder": "Und siehe, ich bin bei euch alle Tage bis zur Vollendung des Zeitalters."
+    },
+    "categories": ["von-guten-maechten-geborgen", "verantwortungsvoll"],
+    "traits": ["vertrauend", "mutig"],
+    "keywords": ["Gegenwart", "Christus", "Begleitung", "Trost", "Treue"]
+  },
+  {
+    "id": "joh-10-10",
+    "book": "Johannes",
+    "chapter": 10,
+    "verse": 10,
+    "translations": {
+      "luther2017": "Ich bin gekommen, damit sie das Leben haben und es in Fülle haben.",
+      "gute_nachricht": "Ich bin gekommen, damit die Menschen das Leben in seiner Fülle haben.",
+      "elberfelder": "Ich bin gekommen, damit sie Leben haben und es im Überfluss haben."
+    },
+    "categories": ["froehlich-dankbar", "von-guten-maechten-geborgen"],
+    "traits": ["froehlich-dankbar", "vertrauend"],
+    "keywords": ["Leben", "Fülle", "Christus", "Freude", "Verheißung"]
+  },
+  {
+    "id": "roem-8-38-39",
+    "book": "Römer",
+    "chapter": 8,
+    "verse": 38,
+    "translations": {
+      "luther2017": "Denn ich bin gewiss, dass weder Tod noch Leben, weder Engel noch Mächte noch Gewalten, weder Gegenwärtiges noch Zukünftiges, weder Hohes noch Tiefes noch irgendeine andere Kreatur uns scheiden kann von der Liebe Gottes, die in Christus Jesus ist, unserm Herrn.",
+      "gute_nachricht": "Ich bin ganz sicher: Weder Tod noch Leben, weder Engel noch übernatürliche Mächte, weder Gegenwart noch Zukunft, weder himmlische noch irdische Kräfte, ja nichts in der ganzen Schöpfung kann uns von der Liebe Gottes trennen, die er uns in Christus Jesus, unserem Herrn, geschenkt hat.",
+      "elberfelder": "Denn ich bin überzeugt, dass weder Tod noch Leben, weder Engel noch Fürstentümer, weder Gegenwärtiges noch Zukünftiges noch Mächte, weder Höhe noch Tiefe noch irgendein anderes Geschöpf uns zu trennen vermag von der Liebe Gottes, die in Christus Jesus ist, unserem Herrn."
+    },
+    "categories": ["von-guten-maechten-geborgen"],
+    "traits": ["vertrauend", "mutig"],
+    "keywords": ["Liebe Gottes", "Trennung", "Gewissheit", "Christus", "Unvergänglichkeit"]
+  },
+  {
+    "id": "eph-2-10",
+    "book": "Epheser",
+    "chapter": 2,
+    "verse": 10,
+    "translations": {
+      "luther2017": "Denn wir sind sein Werk, geschaffen in Christus Jesus zu guten Werken, die Gott zuvor bereitet hat, dass wir darin wandeln sollen.",
+      "gute_nachricht": "Denn Gott hat uns geschaffen – in der Gemeinschaft mit Christus Jesus. Er hat uns dazu bestimmt, Gutes zu tun, wie er es von Anfang an für uns vorgesehen hat.",
+      "elberfelder": "Denn wir sind sein Werk, in Christus Jesus geschaffen zu guten Werken, die Gott zuvor bereitet hat, damit wir in ihnen wandeln sollen."
+    },
+    "categories": ["einen-unterschied-machen", "verantwortungsvoll"],
+    "traits": ["verantwortungsvoll", "froehlich-dankbar"],
+    "keywords": ["Werk Gottes", "gute Werke", "Berufung", "Schöpfung", "Bestimmung"]
+  },
+  {
+    "id": "1petr-3-9",
+    "book": "1. Petrus",
+    "chapter": 3,
+    "verse": 9,
+    "translations": {
+      "luther2017": "Vergeltet nicht Böses mit Bösem noch Schelten mit Schelten, sondern segnet vielmehr, weil ihr dazu berufen seid, dass ihr Segen erbt.",
+      "gute_nachricht": "Vergelt Böses nicht mit Bösem und Beleidigung nicht mit Beleidigung! Gebt lieber Segen – dazu seid ihr berufen, damit ihr Segen empfangt.",
+      "elberfelder": "Vergeltet nicht Böses mit Bösem noch Schmähung mit Schmähung, sondern segnet vielmehr, da ihr ja dazu berufen seid, damit ihr Segen erbt."
+    },
+    "categories": ["mit-sich-anderen-im-reinen"],
+    "traits": ["verantwortungsvoll", "mutig"],
+    "keywords": ["Segen", "Vergeltung", "Berufung", "Friede", "Versöhnung"]
+  },
+  {
+    "id": "matt-5-14",
+    "book": "Matthäus",
+    "chapter": 5,
+    "verse": 14,
+    "translations": {
+      "luther2017": "Ihr seid das Licht der Welt. Es kann die Stadt, die auf einem Berg liegt, nicht verborgen bleiben.",
+      "gute_nachricht": "Ihr seid das Licht der Welt. Eine Stadt, die auf einem Berg liegt, kann man nicht verstecken.",
+      "elberfelder": "Ihr seid das Licht der Welt. Eine Stadt, die oben auf einem Berg liegt, kann nicht verborgen bleiben."
+    },
+    "categories": ["einen-unterschied-machen"],
+    "traits": ["verantwortungsvoll", "mutig"],
+    "keywords": ["Licht", "Welt", "Zeugnis", "Sichtbarkeit", "Berufung"]
+  },
+  {
+    "id": "matt-5-13",
+    "book": "Matthäus",
+    "chapter": 5,
+    "verse": 13,
+    "translations": {
+      "luther2017": "Ihr seid das Salz der Erde.",
+      "gute_nachricht": "Ihr seid das Salz der Welt.",
+      "elberfelder": "Ihr seid das Salz der Erde."
+    },
+    "categories": ["einen-unterschied-machen"],
+    "traits": ["verantwortungsvoll", "mutig"],
+    "keywords": ["Salz", "Erde", "Zeugnis", "Berufung", "Wirkung"]
+  },
+  {
+    "id": "gal-5-22",
+    "book": "Galater",
+    "chapter": 5,
+    "verse": 22,
+    "translations": {
+      "luther2017": "Die Frucht aber des Geistes ist Liebe, Freude, Friede, Geduld, Freundlichkeit, Güte, Treue, Sanftmut, Keuschheit.",
+      "gute_nachricht": "Der Heilige Geist aber bringt in unserem Leben folgende Früchte hervor: Liebe, Freude und Frieden, Geduld, Freundlichkeit und Güte, Treue, Sanftmut und Selbstbeherrschung.",
+      "elberfelder": "Die Frucht des Geistes aber ist: Liebe, Freude, Friede, Langmut, Freundlichkeit, Güte, Treue, Sanftmut, Enthaltsamkeit."
+    },
+    "categories": ["mit-sich-anderen-im-reinen", "froehlich-dankbar"],
+    "traits": ["froehlich-dankbar", "verantwortungsvoll"],
+    "keywords": ["Geist", "Früchte", "Liebe", "Freude", "Friede"]
+  },
+  {
+    "id": "1kor-13-13",
+    "book": "1. Korinther",
+    "chapter": 13,
+    "verse": 13,
+    "translations": {
+      "luther2017": "Nun aber bleiben Glaube, Hoffnung, Liebe, diese drei; aber die Liebe ist die größte unter ihnen.",
+      "gute_nachricht": "Drei Dinge haben Bestand: Glaube, Hoffnung und Liebe. Aber die Größte von ihnen ist die Liebe.",
+      "elberfelder": "Nun aber bleiben Glaube, Hoffnung, Liebe, diese drei; die größte aber von diesen ist die Liebe."
+    },
+    "categories": ["mit-sich-anderen-im-reinen"],
+    "traits": ["froehlich-dankbar", "verantwortungsvoll"],
+    "keywords": ["Liebe", "Glaube", "Hoffnung", "Bestand", "Größe"]
+  },
+  {
+    "id": "jes-40-31",
+    "book": "Jesaja",
+    "chapter": 40,
+    "verse": 31,
+    "translations": {
+      "luther2017": "Aber die auf den HERRN harren, kriegen neue Kraft, dass sie auffahren mit Flügeln wie Adler, dass sie laufen und nicht matt werden, dass sie wandeln und nicht müde werden.",
+      "gute_nachricht": "Wer aber auf den HERRN hofft, gewinnt neue Kraft. Solche Menschen erheben sich mit Flügeln wie Adler, laufen und werden nicht müde, gehen und werden nicht matt.",
+      "elberfelder": "Doch die auf den HERRN harren, schöpfen neue Kraft; sie erheben die Schwingen wie Adler, laufen und werden nicht müde, wandern und werden nicht matt."
+    },
+    "categories": ["mutig", "von-guten-maechten-geborgen"],
+    "traits": ["mutig", "vertrauend"],
+    "keywords": ["Kraft", "Hoffnung", "Adler", "Stärke", "Ausdauer"]
+  },
+  {
+    "id": "jos-1-9",
+    "book": "Josua",
+    "chapter": 1,
+    "verse": 9,
+    "translations": {
+      "luther2017": "Hab ich dir nicht geboten: Sei stark und mutig? Erschrick nicht und verzage nicht; denn der HERR, dein Gott, ist mit dir bei allem, was du tun wirst.",
+      "gute_nachricht": "Denk daran, was ich dir aufgetragen habe: Sei stark und mutig! Hab keine Angst und lass dich nicht entmutigen! Denn der HERR, dein Gott, ist bei dir in allem, was du tust.",
+      "elberfelder": "Habe ich dir nicht geboten: Sei stark und mutig? Erschrick nicht und fürchte dich nicht, denn der HERR, dein Gott, ist mit dir überall, wohin du gehst."
+    },
+    "categories": ["mutig"],
+    "traits": ["mutig", "vertrauend"],
+    "keywords": ["Mut", "Stärke", "Furcht", "Gottes Gegenwart", "Durchhalten"]
+  },
+  {
+    "id": "ps-46-2",
+    "book": "Psalmen",
+    "chapter": 46,
+    "verse": 2,
+    "translations": {
+      "luther2017": "Gott ist unsre Zuversicht und Stärke, eine Hilfe in den großen Nöten, die uns getroffen haben.",
+      "gute_nachricht": "Gott ist unsere Zuflucht und Stärke, als Helfer in der Not hat er sich stets bewährt.",
+      "elberfelder": "Gott ist unsere Zuflucht und Stärke, als Hilfe in Nöten hat er sich sehr bewährt."
+    },
+    "categories": ["von-guten-maechten-geborgen", "mutig"],
+    "traits": ["vertrauend", "mutig"],
+    "keywords": ["Zuversicht", "Stärke", "Hilfe", "Schutz", "Not"]
+  },
+  {
+    "id": "ps-91-4",
+    "book": "Psalmen",
+    "chapter": 91,
+    "verse": 4,
+    "translations": {
+      "luther2017": "Er wird dich mit seinen Fittichen decken, und Zuflucht wirst du haben unter seinen Flügeln.",
+      "gute_nachricht": "Er beschützt dich unter seinen Flügeln und birgt dich in seinem Gefieder.",
+      "elberfelder": "Mit seinen Fittichen bedeckt er dich, und unter seinen Flügeln findest du Zuflucht."
+    },
+    "categories": ["von-guten-maechten-geborgen"],
+    "traits": ["vertrauend", "froehlich-dankbar"],
+    "keywords": ["Schutz", "Flügel", "Geborgenheit", "Zuflucht", "Fürsorge"]
+  },
+  {
+    "id": "ps-27-1",
+    "book": "Psalmen",
+    "chapter": 27,
+    "verse": 1,
+    "translations": {
+      "luther2017": "Der HERR ist mein Licht und mein Heil; vor wem sollte ich mich fürchten? Der HERR ist die Kraft meines Lebens; vor wem sollte mir grauen?",
+      "gute_nachricht": "Der HERR ist mein Licht und meine Rettung – wen sollte ich fürchten? Der HERR ist die Kraft meines Lebens – vor wem sollte mir bangen?",
+      "elberfelder": "Der HERR ist mein Licht und meine Rettung; vor wem sollte ich mich fürchten? Der HERR ist die Stärke meines Lebens; vor wem sollte mir bange sein?"
+    },
+    "categories": ["mutig", "von-guten-maechten-geborgen"],
+    "traits": ["mutig", "vertrauend"],
+    "keywords": ["Licht", "Heil", "Furcht", "Kraft", "Stärke"]
+  },
+  {
+    "id": "joh-1-12",
+    "book": "Johannes",
+    "chapter": 1,
+    "verse": 12,
+    "translations": {
+      "luther2017": "Wie viele ihn aber aufnahmen, denen gab er Macht, Gottes Kinder zu werden, die an seinen Namen glauben.",
+      "gute_nachricht": "Allen aber, die ihn annahmen und an ihn glaubten, gab er das Recht, Kinder Gottes zu werden.",
+      "elberfelder": "Aber allen, die ihn aufnahmen, gab er das Recht, Kinder Gottes zu werden, denen, die an seinen Namen glauben."
+    },
+    "categories": ["von-guten-maechten-geborgen", "froehlich-dankbar"],
+    "traits": ["froehlich-dankbar", "vertrauend"],
+    "keywords": ["Kinder Gottes", "Glaube", "Aufnahme", "Name", "Recht"]
+  },
+  {
+    "id": "1joh-4-16",
+    "book": "1. Johannes",
+    "chapter": 4,
+    "verse": 16,
+    "translations": {
+      "luther2017": "Gott ist Liebe; und wer in der Liebe bleibt, der bleibt in Gott und Gott in ihm.",
+      "gute_nachricht": "Gott ist Liebe, und wer in der Liebe lebt, der lebt in Gott und Gott in ihm.",
+      "elberfelder": "Gott ist Liebe, und wer in der Liebe bleibt, bleibt in Gott, und Gott bleibt in ihm."
+    },
+    "categories": ["mit-sich-anderen-im-reinen"],
+    "traits": ["froehlich-dankbar", "vertrauend"],
+    "keywords": ["Liebe", "Gott", "Bleiben", "Gemeinschaft", "Verbundenheit"]
+  },
+  {
+    "id": "matt-5-9",
+    "book": "Matthäus",
+    "chapter": 5,
+    "verse": 9,
+    "translations": {
+      "luther2017": "Selig sind, die Frieden stiften, denn sie werden Gottes Kinder heißen.",
+      "gute_nachricht": "Glücklich, die Frieden stiften: Gott wird sie seine Kinder nennen.",
+      "elberfelder": "Glückselig die Friedensstifter, denn sie werden Söhne Gottes genannt werden."
+    },
+    "categories": ["mit-sich-anderen-im-reinen", "einen-unterschied-machen"],
+    "traits": ["verantwortungsvoll", "froehlich-dankbar"],
+    "keywords": ["Frieden", "Selig", "Kinder Gottes", "Versöhnung", "Gemeinschaft"]
+  },
+  {
+    "id": "spr-3-5-6",
+    "book": "Sprüche",
+    "chapter": 3,
+    "verse": 5,
+    "translations": {
+      "luther2017": "Vertrau auf den HERRN von ganzem Herzen und verlass dich nicht auf deinen Verstand, sondern gedenke an ihn in allen deinen Wegen, so wird er dich recht führen.",
+      "gute_nachricht": "Vertrau dem HERRN mit ganzem Herzen, verlass dich nicht auf deine eigene Einsicht. Halte dich immer an ihn, dann wird er dir den richtigen Weg zeigen.",
+      "elberfelder": "Vertrau auf den HERRN von ganzem Herzen und stütz dich nicht auf deinen Verstand; erkenne ihn auf allen deinen Wegen, so wird er deine Pfade ebnen."
+    },
+    "categories": ["von-guten-maechten-geborgen"],
+    "traits": ["vertrauend", "mutig"],
+    "keywords": ["Vertrauen", "HERR", "Führung", "Weg", "Herz"]
+  },
+  {
+    "id": "ps-36-6",
+    "book": "Psalmen",
+    "chapter": 36,
+    "verse": 6,
+    "translations": {
+      "luther2017": "HERR, deine Güte reicht so weit der Himmel ist, und deine Wahrheit so weit die Wolken gehen.",
+      "gute_nachricht": "HERR, deine Güte reicht so weit wie der Himmel, deine Treue bis zu den Wolken.",
+      "elberfelder": "HERR, bis in die Himmel reicht deine Gnade, deine Treue bis zu den Wolken."
+    },
+    "categories": ["froehlich-dankbar", "von-guten-maechten-geborgen"],
+    "traits": ["froehlich-dankbar", "vertrauend"],
+    "keywords": ["Güte", "Treue", "Himmel", "Lob", "Größe Gottes"]
+  },
+  {
+    "id": "joh-15-9",
+    "book": "Johannes",
+    "chapter": 15,
+    "verse": 9,
+    "translations": {
+      "luther2017": "Wie mich der Vater geliebt hat, so habe ich euch geliebt. Bleibt in meiner Liebe!",
+      "gute_nachricht": "Wie der Vater mich geliebt hat, so habe ich euch geliebt. Bleibt in meiner Liebe!",
+      "elberfelder": "Wie der Vater mich geliebt hat, habe auch ich euch geliebt; bleibt in meiner Liebe!"
+    },
+    "categories": ["mit-sich-anderen-im-reinen", "von-guten-maechten-geborgen"],
+    "traits": ["froehlich-dankbar", "vertrauend"],
+    "keywords": ["Liebe", "Bleiben", "Vater", "Christus", "Gemeinschaft"]
+  },
+  {
+    "id": "eph-3-17",
+    "book": "Epheser",
+    "chapter": 3,
+    "verse": 17,
+    "translations": {
+      "luther2017": "damit Christus durch den Glauben in euren Herzen wohne und ihr in der Liebe eingewurzelt und gegründet seid.",
+      "gute_nachricht": "Er soll durch euren Glauben in euren Herzen zu Hause sein. Dann werdet ihr in Liebe verwurzelt und gegründet sein.",
+      "elberfelder": "damit Christus durch den Glauben in euren Herzen wohnt – in der Liebe gewurzelt und gegründet."
+    },
+    "categories": ["von-guten-maechten-geborgen", "mit-sich-anderen-im-reinen"],
+    "traits": ["vertrauend", "froehlich-dankbar"],
+    "keywords": ["Christus", "Herz", "Liebe", "Wurzel", "Fundament"]
+  },
+  {
+    "id": "ps-8-2",
+    "book": "Psalmen",
+    "chapter": 8,
+    "verse": 2,
+    "translations": {
+      "luther2017": "HERR, unser Herrscher, wie herrlich ist dein Name auf der ganzen Erde, der du zeigst deine Hoheit am Himmel!",
+      "gute_nachricht": "HERR, unser Gott, dein Name ist Ruhm und Herrlichkeit auf der ganzen Erde!",
+      "elberfelder": "HERR, unser Herr, wie herrlich ist dein Name auf der ganzen Erde! Du hast deine Majestät über die Himmel erhoben."
+    },
+    "categories": ["froehlich-dankbar"],
+    "traits": ["froehlich-dankbar", "vertrauend"],
+    "keywords": ["Lob", "Name Gottes", "Herrlichkeit", "Schöpfung", "Ehrfurcht"]
+  },
+  {
+    "id": "ps-100-3",
+    "book": "Psalmen",
+    "chapter": 100,
+    "verse": 3,
+    "translations": {
+      "luther2017": "Erkennet, dass der HERR Gott ist! Er hat uns gemacht, und nicht wir selbst, zu seinem Volk und zu Schafen seiner Weide.",
+      "gute_nachricht": "Bedenkt: Der HERR ist Gott! Er hat uns geschaffen, wir gehören ihm, wir sind sein Volk und die Herde auf seiner Weide.",
+      "elberfelder": "Erkennet, dass der HERR Gott ist! Er hat uns gemacht, und sein sind wir, sein Volk und die Schafe seiner Weide."
+    },
+    "categories": ["froehlich-dankbar"],
+    "traits": ["froehlich-dankbar", "vertrauend"],
+    "keywords": ["Lob", "Schöpfung", "Zugehörigkeit", "Volk", "Herde"]
+  },
+  {
+    "id": "roem-15-13",
+    "book": "Römer",
+    "chapter": 15,
+    "verse": 13,
+    "translations": {
+      "luther2017": "Der Gott der Hoffnung aber erfülle euch mit aller Freude und Frieden im Glauben, dass ihr überströmend seid in der Hoffnung durch die Kraft des Heiligen Geistes.",
+      "gute_nachricht": "Gott aber, der uns Hoffnung gibt, erfülle euch durch euren Glauben mit aller Freude und mit Frieden, damit ihr immer reicher werdet an Hoffnung durch die Kraft des Heiligen Geistes.",
+      "elberfelder": "Der Gott der Hoffnung aber erfülle euch mit aller Freude und mit Frieden im Glauben, sodass ihr überströmt in der Hoffnung durch die Kraft des Heiligen Geistes."
+    },
+    "categories": ["froehlich-dankbar", "von-guten-maechten-geborgen"],
+    "traits": ["froehlich-dankbar", "vertrauend"],
+    "keywords": ["Hoffnung", "Freude", "Frieden", "Glaube", "Heiliger Geist"]
+  },
+  {
+    "id": "phil-4-4",
+    "book": "Philipper",
+    "chapter": 4,
+    "verse": 4,
+    "translations": {
+      "luther2017": "Freuet euch in dem HERRN allewege, und abermals sage ich: Freuet euch!",
+      "gute_nachricht": "Freut euch im Herrn zu jeder Zeit! Nochmals sage ich: Freut euch!",
+      "elberfelder": "Freut euch im Herrn allezeit! Wiederum werde ich sagen: Freut euch!"
+    },
+    "categories": ["froehlich-dankbar"],
+    "traits": ["froehlich-dankbar", "vertrauend"],
+    "keywords": ["Freude", "Herr", "Jubel", "Beständigkeit", "Lob"]
+  },
+  {
+    "id": "matt-22-37-39",
+    "book": "Matthäus",
+    "chapter": 22,
+    "verse": 37,
+    "translations": {
+      "luther2017": "Du sollst den HERRN, deinen Gott, lieben von ganzem Herzen, von ganzer Seele und von ganzem Gemüte. Das andere aber ist dem gleich: Du sollst deinen Nächsten lieben wie dich selbst.",
+      "gute_nachricht": "Liebe Gott, deinen Herrn, mit deinem ganzen Herzen, mit deiner ganzen Seele und mit deinem ganzen Verstand! Das andere Gebot ist genauso wichtig: Liebe deinen Mitmenschen wie dich selbst!",
+      "elberfelder": "Du sollst den Herrn, deinen Gott, lieben von deinem ganzen Herzen und mit deiner ganzen Seele und mit deinem ganzen Denken. Das zweite ist ihm ähnlich: Du sollst deinen Nächsten lieben wie dich selbst."
+    },
+    "categories": ["mit-sich-anderen-im-reinen", "einen-unterschied-machen"],
+    "traits": ["verantwortungsvoll", "froehlich-dankbar"],
+    "keywords": ["Liebe", "Gott", "Nächster", "Herz", "Gebot"]
+  },
+  {
+    "id": "eph-4-32",
+    "book": "Epheser",
+    "chapter": 4,
+    "verse": 32,
+    "translations": {
+      "luther2017": "Seid aber untereinander freundlich, herzlich und vergebt einer dem andern, wie auch Gott euch vergeben hat in Christus.",
+      "gute_nachricht": "Seid gütig zueinander, habt ein offenes Herz füreinander und vergebt einander – so wie Gott euch durch Christus vergeben hat.",
+      "elberfelder": "Seid aber gütig gegeneinander, mitleidig, einander vergebend, so wie auch Gott euch in Christus vergeben hat."
+    },
+    "categories": ["mit-sich-anderen-im-reinen"],
+    "traits": ["verantwortungsvoll", "froehlich-dankbar"],
+    "keywords": ["Vergebung", "Güte", "Freundlichkeit", "Gemeinschaft", "Christus"]
+  },
+  {
+    "id": "kol-3-14",
+    "book": "Kolosser",
+    "chapter": 3,
+    "verse": 14,
+    "translations": {
+      "luther2017": "Über alles aber zieht an die Liebe, die da ist das Band der Vollkommenheit.",
+      "gute_nachricht": "Vor allem aber liebt einander! Die Liebe hält alles zusammen und macht es vollkommen.",
+      "elberfelder": "Über alles diesem aber die Liebe, die das Band der Vollkommenheit ist."
+    },
+    "categories": ["mit-sich-anderen-im-reinen"],
+    "traits": ["verantwortungsvoll", "froehlich-dankbar"],
+    "keywords": ["Liebe", "Band", "Vollkommenheit", "Gemeinschaft", "Zusammenhalt"]
+  },
+  {
+    "id": "1petr-4-10",
+    "book": "1. Petrus",
+    "chapter": 4,
+    "verse": 10,
+    "translations": {
+      "luther2017": "Und dienet einander, ein jeder mit der Gabe, die er empfangen hat, als die guten Haushalter der mancherlei Gnade Gottes.",
+      "gute_nachricht": "Jeder von euch hat von Gott besondere Gaben empfangen. Stellt diese Gaben in den Dienst der Gemeinschaft, wie es Gottes vielfältige Gnade verlangt.",
+      "elberfelder": "Dient einander, jeder mit der Gnadengabe, die er empfangen hat, als gute Haushalter der vielfältigen Gnade Gottes."
+    },
+    "categories": ["verantwortungsvoll", "einen-unterschied-machen"],
+    "traits": ["verantwortungsvoll", "froehlich-dankbar"],
+    "keywords": ["Gabe", "Dienst", "Gemeinschaft", "Gnade", "Fähigkeiten"]
+  },
+  {
+    "id": "mich-6-8",
+    "book": "Micha",
+    "chapter": 6,
+    "verse": 8,
+    "translations": {
+      "luther2017": "Es ist dir gesagt, Mensch, was gut ist und was der HERR von dir fordert: nichts als Gottes Wort halten und Liebe üben und demütig sein vor deinem Gott.",
+      "gute_nachricht": "Es ist dir ja gesagt worden, Mensch, was gut ist und was Gott von dir erwartet: Recht tue, Güte liebe und bescheiden gehe mit deinem Gott.",
+      "elberfelder": "Es ist dir bekannt gemacht worden, Mensch, was gut ist und was der HERR von dir fordert: nichts als Recht tun, Güte lieben und demütig wandeln mit deinem Gott."
+    },
+    "categories": ["verantwortungsvoll", "einen-unterschied-machen"],
+    "traits": ["verantwortungsvoll", "mutig"],
+    "keywords": ["Gerechtigkeit", "Güte", "Demut", "Gott", "Forderung"]
+  },
+  {
+    "id": "jes-58-7",
+    "book": "Jesaja",
+    "chapter": 58,
+    "verse": 7,
+    "translations": {
+      "luther2017": "Brich dem Hungrigen dein Brot, und die im Elend ohne Obdach sind, führe ins Haus! Wenn du einen nackt siehst, so kleide ihn.",
+      "gute_nachricht": "Teile dein Brot mit dem Hungernden, nimm die armen Obdachlosen in dein Haus auf. Wenn du einen nackten Menschen siehst, kleide ihn.",
+      "elberfelder": "Teile dein Brot mit dem Hungernden, und die elenden Heimatlosen bringe ins Haus! Wenn du einen Nackten siehst, bekleide ihn."
+    },
+    "categories": ["einen-unterschied-machen", "verantwortungsvoll"],
+    "traits": ["verantwortungsvoll", "mutig"],
+    "keywords": ["Nächstenliebe", "Hilfe", "Hunger", "Fürsorge", "Gerechtigkeit"]
+  },
+  {
+    "id": "luk-4-18",
+    "book": "Lukas",
+    "chapter": 4,
+    "verse": 18,
+    "translations": {
+      "luther2017": "Der Geist des HERRN ist auf mir, weil er mich gesalbt hat, Armen das Evangelium zu verkündigen; er hat mich gesandt zu heilen, die zerbrochenen Herzens sind.",
+      "gute_nachricht": "Der Geist des Herrn ruht auf mir, denn er hat mich gesalbt. Er hat mich gesandt, den Armen die Gute Nachricht zu bringen, Gefangenen die Freiheit anzukündigen.",
+      "elberfelder": "Der Geist des Herrn ist auf mir, weil er mich gesalbt hat, Armen das Evangelium zu verkündigen; er hat mich gesandt, Gefangenen Freiheit zu predigen."
+    },
+    "categories": ["einen-unterschied-machen"],
+    "traits": ["verantwortungsvoll", "mutig"],
+    "keywords": ["Geist", "Sendung", "Arme", "Evangelium", "Freiheit"]
+  },
+  {
+    "id": "ps-103-13",
+    "book": "Psalmen",
+    "chapter": 103,
+    "verse": 13,
+    "translations": {
+      "luther2017": "Wie sich ein Vater über Kinder erbarmt, so erbarmt sich der HERR über die, die ihn fürchten.",
+      "gute_nachricht": "Wie ein Vater sich seiner Kinder erbarmt, so erbarmt sich der HERR derer, die ihn ehren.",
+      "elberfelder": "Wie ein Vater sich über die Kinder erbarmt, erbarmt sich der HERR über die, die ihn fürchten."
+    },
+    "categories": ["von-guten-maechten-geborgen"],
+    "traits": ["vertrauend", "froehlich-dankbar"],
+    "keywords": ["Erbarmen", "Vater", "Kinder", "Güte", "Fürsorge"]
+  },
+  {
+    "id": "jes-49-15-16",
+    "book": "Jesaja",
+    "chapter": 49,
+    "verse": 15,
+    "translations": {
+      "luther2017": "Kann auch eine Frau ihr Kindlein vergessen, dass sie sich nicht erbarme über den Sohn ihres Leibes? Und selbst wenn sie es vergäße, so will ich doch dein nicht vergessen. Sieh, in die Hände habe ich dich gezeichnet.",
+      "gute_nachricht": "Kann eine Mutter ihr kleines Kind vergessen? Kann es sein, dass sie kein Mitgefühl hat für das Kind, das sie geboren hat? Selbst wenn eine Mutter ihr Kind vergessen sollte – ich vergesse dich nicht! Sieh, in meine Hände habe ich dich eingezeichnet.",
+      "elberfelder": "Kann denn eine Frau ihr Kleinkind vergessen, dass sie sich nicht über den Sohn ihres Mutterleibes erbarmt? Auch wenn diese vergäßen, ich vergesse dich nicht. Sieh, auf meine Hände habe ich dich gezeichnet."
+    },
+    "categories": ["von-guten-maechten-geborgen"],
+    "traits": ["vertrauend", "froehlich-dankbar"],
+    "keywords": ["Mutter", "Vergessen", "Liebe", "Hände", "Geborgenheit"]
+  },
+  {
+    "id": "2tim-1-7",
+    "book": "2. Timotheus",
+    "chapter": 1,
+    "verse": 7,
+    "translations": {
+      "luther2017": "Denn Gott hat uns nicht einen Geist der Furcht gegeben, sondern den Geist der Kraft, der Liebe und der Besonnenheit.",
+      "gute_nachricht": "Denn Gott hat uns nicht einen Geist gegeben, der uns ängstlich und feige macht, sondern einen Geist, der uns Kraft, Liebe und Besonnenheit schenkt.",
+      "elberfelder": "Denn Gott hat uns nicht einen Geist der Furchtsamkeit gegeben, sondern der Kraft und der Liebe und der Besonnenheit."
+    },
+    "categories": ["mutig"],
+    "traits": ["mutig", "verantwortungsvoll"],
+    "keywords": ["Mut", "Geist", "Kraft", "Liebe", "Besonnenheit"]
+  },
+  {
+    "id": "hebr-13-8",
+    "book": "Hebräer",
+    "chapter": 13,
+    "verse": 8,
+    "translations": {
+      "luther2017": "Jesus Christus gestern und heute und derselbe auch in Ewigkeit.",
+      "gute_nachricht": "Jesus Christus ist derselbe gestern, heute und für alle Zeit.",
+      "elberfelder": "Jesus Christus ist derselbe gestern und heute und in Ewigkeit."
+    },
+    "categories": ["von-guten-maechten-geborgen"],
+    "traits": ["vertrauend", "mutig"],
+    "keywords": ["Jesus Christus", "Treue", "Unveränderlichkeit", "Ewigkeit", "Beständigkeit"]
+  },
+  {
+    "id": "ps-34-9",
+    "book": "Psalmen",
+    "chapter": 34,
+    "verse": 9,
+    "translations": {
+      "luther2017": "Schmecket und sehet, wie freundlich der HERR ist. Wohl dem, der auf ihn traut!",
+      "gute_nachricht": "Schmeckt und seht, wie gütig der HERR ist! Glücklich, wer ihm vertraut.",
+      "elberfelder": "Kostet und seht, dass der HERR gütig ist! Glückselig der Mann, der bei ihm Zuflucht sucht!"
+    },
+    "categories": ["froehlich-dankbar", "von-guten-maechten-geborgen"],
+    "traits": ["froehlich-dankbar", "vertrauend"],
+    "keywords": ["Güte", "Freundlichkeit", "Vertrauen", "Freude", "Segen"]
+  },
+  {
+    "id": "joh-8-12",
+    "book": "Johannes",
+    "chapter": 8,
+    "verse": 12,
+    "translations": {
+      "luther2017": "Da redete Jesus abermals zu ihnen und sprach: Ich bin das Licht der Welt. Wer mir nachfolgt, der wird nicht wandeln in der Finsternis, sondern wird das Licht des Lebens haben.",
+      "gute_nachricht": "Jesus wandte sich wieder an sie und sagte: Ich bin das Licht der Welt. Wer mir nachfolgt, wird nicht in der Dunkelheit umherirren, sondern das Licht des Lebens haben.",
+      "elberfelder": "Da redete Jesus wieder zu ihnen und sprach: Ich bin das Licht der Welt; wer mir nachfolgt, wird nicht in der Finsternis wandeln, sondern wird das Licht des Lebens haben."
+    },
+    "categories": ["einen-unterschied-machen", "von-guten-maechten-geborgen"],
+    "traits": ["mutig", "vertrauend"],
+    "keywords": ["Licht", "Nachfolge", "Finsternis", "Leben", "Christus"]
+  },
+  {
+    "id": "roem-5-5",
+    "book": "Römer",
+    "chapter": 5,
+    "verse": 5,
+    "translations": {
+      "luther2017": "Die Hoffnung aber lässt nicht zuschanden werden; denn die Liebe Gottes ist ausgegossen in unsre Herzen durch den Heiligen Geist, der uns gegeben ist.",
+      "gute_nachricht": "Diese Hoffnung enttäuscht uns nicht, denn Gott hat seine Liebe durch den Heiligen Geist, den er uns geschenkt hat, in unsere Herzen gegossen.",
+      "elberfelder": "Die Hoffnung aber macht nicht zuschanden, weil die Liebe Gottes in unsere Herzen ausgegossen worden ist durch den Heiligen Geist, der uns gegeben worden ist."
+    },
+    "categories": ["von-guten-maechten-geborgen", "froehlich-dankbar"],
+    "traits": ["vertrauend", "froehlich-dankbar"],
+    "keywords": ["Hoffnung", "Liebe Gottes", "Heiliger Geist", "Herz", "Enttäuschung"]
+  },
+  {
+    "id": "ps-16-11",
+    "book": "Psalmen",
+    "chapter": 16,
+    "verse": 11,
+    "translations": {
+      "luther2017": "Du tust mir kund den Weg zum Leben: Vor dir ist Freude die Fülle und Wonne zu deiner Rechten ewiglich.",
+      "gute_nachricht": "Du zeigst mir den Weg des Lebens. Bei dir ist Freude in Fülle, Glück und Heil für immer und ewig.",
+      "elberfelder": "Du lässt mich den Weg des Lebens kennen; Freudenfülle ist vor deinem Angesicht, liebliche Dinge in deiner Rechten für immer."
+    },
+    "categories": ["froehlich-dankbar", "von-guten-maechten-geborgen"],
+    "traits": ["froehlich-dankbar", "vertrauend"],
+    "keywords": ["Leben", "Freude", "Weg", "Fülle", "Wonne"]
+  },
+  {
+    "id": "1kor-2-9",
+    "book": "1. Korinther",
+    "chapter": 2,
+    "verse": 9,
+    "translations": {
+      "luther2017": "Was kein Auge gesehen hat und kein Ohr gehört hat und in keines Menschen Herz gedrungen ist, was Gott bereitet hat denen, die ihn lieben.",
+      "gute_nachricht": "Was kein Auge gesehen und kein Ohr gehört hat, was keinem Menschen in den Sinn gekommen ist – das hat Gott denen bereitet, die ihn lieben.",
+      "elberfelder": "Was kein Auge gesehen und kein Ohr gehört hat und in keines Menschen Herz aufgestiegen ist, was Gott denen bereitet hat, die ihn lieben."
+    },
+    "categories": ["froehlich-dankbar", "von-guten-maechten-geborgen"],
+    "traits": ["froehlich-dankbar", "vertrauend"],
+    "keywords": ["Gottes Verheißung", "Liebe", "Herrlichkeit", "Zukunft", "Überraschung"]
+  },
+  {
+    "id": "eph-1-4",
+    "book": "Epheser",
+    "chapter": 1,
+    "verse": 4,
+    "translations": {
+      "luther2017": "Wie er uns denn auserwählt hat durch ihn vor Grundlegung der Welt, dass wir heilig und untadelig seien vor ihm in Liebe.",
+      "gute_nachricht": "Denn er hat uns schon vor der Erschaffung der Welt in Christus auserwählt, damit wir ihm gehören und vor ihm ein heiliges und untadeliges Leben führen.",
+      "elberfelder": "wie er uns in ihm auserwählt hat vor Grundlegung der Welt, damit wir heilig und tadellos vor ihm seien in Liebe."
+    },
+    "categories": ["von-guten-maechten-geborgen"],
+    "traits": ["froehlich-dankbar", "vertrauend"],
+    "keywords": ["Erwählung", "Heiligkeit", "Liebe", "Gott", "Bestimmung"]
+  },
+  {
+    "id": "ps-62-2",
+    "book": "Psalmen",
+    "chapter": 62,
+    "verse": 2,
+    "translations": {
+      "luther2017": "Meine Seele ist stille zu Gott, der mir hilft.",
+      "gute_nachricht": "Ich vertraue auf Gott und schweige still; bei ihm ist meine Rettung.",
+      "elberfelder": "Nur bei Gott ist meine Seele still; von ihm kommt meine Rettung."
+    },
+    "categories": ["von-guten-maechten-geborgen"],
+    "traits": ["vertrauend", "mutig"],
+    "keywords": ["Stille", "Vertrauen", "Seele", "Hilfe", "Ruhe"]
+  },
+  {
+    "id": "matt-11-28",
+    "book": "Matthäus",
+    "chapter": 11,
+    "verse": 28,
+    "translations": {
+      "luther2017": "Kommt her zu mir, alle, die ihr mühselig und beladen seid; ich will euch erquicken.",
+      "gute_nachricht": "Kommt alle zu mir, die ihr euch abmüht und die ihr schwere Lasten tragt! Ich werde euch Erholung und Erquickung geben.",
+      "elberfelder": "Kommt her zu mir, alle ihr Mühseligen und Beladenen, und ich werde euch Ruhe geben."
+    },
+    "categories": ["von-guten-maechten-geborgen", "mutig"],
+    "traits": ["vertrauend", "mutig"],
+    "keywords": ["Ruhe", "Erquickung", "Einladung", "Last", "Erholung"]
+  },
+  {
+    "id": "jes-41-10",
+    "book": "Jesaja",
+    "chapter": 41,
+    "verse": 10,
+    "translations": {
+      "luther2017": "Fürchte dich nicht, ich bin mit dir; weiche nicht, denn ich bin dein Gott. Ich stärke dich, ich helfe dir auch, ich halte dich durch die rechte Hand meiner Gerechtigkeit.",
+      "gute_nachricht": "Hab keine Angst, ich bin bei dir! Lass dich nicht entmutigen, ich bin dein Gott! Ich gebe dir Kraft und helfe dir, ich halte dich mit meiner starken Hand.",
+      "elberfelder": "Fürchte dich nicht, denn ich bin mit dir; sieh dich nicht ängstlich um, denn ich bin dein Gott. Ich stärke dich, ja, ich helfe dir, ja, ich halte dich aufrecht mit meiner rechten Hand der Gerechtigkeit."
+    },
+    "categories": ["mutig", "von-guten-maechten-geborgen"],
+    "traits": ["mutig", "vertrauend"],
+    "keywords": ["Mut", "Furcht", "Gott", "Stärke", "Hilfe"]
+  },
+  {
+    "id": "1petr-5-7",
+    "book": "1. Petrus",
+    "chapter": 5,
+    "verse": 7,
+    "translations": {
+      "luther2017": "Alle eure Sorge werft auf ihn; denn er sorgt für euch.",
+      "gute_nachricht": "Werft alle eure Sorgen auf ihn, denn er kümmert sich um euch.",
+      "elberfelder": "Alle eure Sorge werfet auf ihn, denn er trägt Sorge für euch."
+    },
+    "categories": ["von-guten-maechten-geborgen", "verantwortungsvoll"],
+    "traits": ["vertrauend", "mutig"],
+    "keywords": ["Sorge", "Fürsorge", "Gott", "Vertrauen", "Geborgenheit"]
+  },
+  {
+    "id": "phil-4-13",
+    "book": "Philipper",
+    "chapter": 4,
+    "verse": 13,
+    "translations": {
+      "luther2017": "Ich vermag alles durch den, der mich mächtig macht, Christus.",
+      "gute_nachricht": "Alles ist möglich für mich durch Christus, der mir Kraft gibt.",
+      "elberfelder": "Alles vermag ich durch den, der mich stärkt, Christus."
+    },
+    "categories": ["mutig"],
+    "traits": ["mutig", "vertrauend"],
+    "keywords": ["Kraft", "Christus", "Stärke", "Können", "Mut"]
+  },
+  {
+    "id": "ps-73-23-24",
+    "book": "Psalmen",
+    "chapter": 73,
+    "verse": 23,
+    "translations": {
+      "luther2017": "Dennoch bleibe ich stets bei dir; du hältst mich bei meiner rechten Hand. Du leitest mich nach deinem Rat und nimmst mich am Ende mit Ehren an.",
+      "gute_nachricht": "Doch du hältst mich ständig bei der Hand, du hast mich immer dabei. Du lässt mich deinen Ratschluss erkennen, und am Ende nimmst du mich in Herrlichkeit auf.",
+      "elberfelder": "Dennoch bin ich beständig bei dir; du hast meine rechte Hand ergriffen. Du leitest mich nach deinem Rat und nimmst mich danach in Herrlichkeit auf."
+    },
+    "categories": ["von-guten-maechten-geborgen"],
+    "traits": ["vertrauend", "froehlich-dankbar"],
+    "keywords": ["Hand Gottes", "Führung", "Begleitung", "Rat", "Herrlichkeit"]
+  },
+  {
+    "id": "joh-14-27",
+    "book": "Johannes",
+    "chapter": 14,
+    "verse": 27,
+    "translations": {
+      "luther2017": "Frieden lasse ich euch, meinen Frieden gebe ich euch. Nicht gebe ich euch, wie die Welt gibt. Euer Herz erschrecke nicht und fürchte sich nicht.",
+      "gute_nachricht": "Ich hinterlasse euch meinen Frieden; meinen Frieden gebe ich euch. Dieser Friede ist anderer Art, als der Friede, den die Welt geben kann. Euer Herz soll nicht ängstlich und nicht verzagt sein.",
+      "elberfelder": "Frieden hinterlasse ich euch, meinen Frieden gebe ich euch; nicht wie die Welt gibt, gebe ich euch. Euer Herz erschrecke nicht, noch sei es feige."
+    },
+    "categories": ["mit-sich-anderen-im-reinen", "von-guten-maechten-geborgen"],
+    "traits": ["mutig", "vertrauend"],
+    "keywords": ["Frieden", "Herz", "Furcht", "Christus", "Gabe"]
+  },
+  {
+    "id": "kol-3-12",
+    "book": "Kolosser",
+    "chapter": 3,
+    "verse": 12,
+    "translations": {
+      "luther2017": "Zieht nun an als die Auserwählten Gottes, als die Heiligen und Geliebten, herzliches Erbarmen, Freundlichkeit, Demut, Sanftmut, Geduld.",
+      "gute_nachricht": "Ihr seid von Gott auserwählt, von ihm geliebt und ihm geweiht. Handelt danach: Seid voll Mitgefühl und Güte, voll Bescheidenheit, Sanftmut und Geduld.",
+      "elberfelder": "Zieht nun an als Auserwählte Gottes, Heilige und Geliebte, herzliches Erbarmen, Güte, Demut, Sanftmut, Langmut."
+    },
+    "categories": ["mit-sich-anderen-im-reinen"],
+    "traits": ["verantwortungsvoll", "froehlich-dankbar"],
+    "keywords": ["Erbarmen", "Güte", "Demut", "Sanftmut", "Erwählung"]
+  },
+  {
+    "id": "jes-60-1",
+    "book": "Jesaja",
+    "chapter": 60,
+    "verse": 1,
+    "translations": {
+      "luther2017": "Mache dich auf, werde licht; denn dein Licht kommt, und die Herrlichkeit des HERRN geht auf über dir.",
+      "gute_nachricht": "Mach dich auf, werde Licht! Dein Licht kommt, die Herrlichkeit des HERRN bricht über dir an.",
+      "elberfelder": "Mache dich auf, werde licht! Denn dein Licht kommt, und die Herrlichkeit des HERRN geht auf über dir."
+    },
+    "categories": ["einen-unterschied-machen", "froehlich-dankbar"],
+    "traits": ["mutig", "froehlich-dankbar"],
+    "keywords": ["Licht", "Herrlichkeit", "Aufbruch", "Sendung", "Strahlen"]
+  },
+  {
+    "id": "gal-3-28",
+    "book": "Galater",
+    "chapter": 3,
+    "verse": 28,
+    "translations": {
+      "luther2017": "Hier ist nicht Jude noch Grieche, hier ist nicht Sklave noch Freier, hier ist nicht Mann noch Frau; denn ihr seid allesamt einer in Christus Jesus.",
+      "gute_nachricht": "Es gibt keine Unterschiede mehr zwischen Juden und Griechen, zwischen Sklaven und Freien, zwischen Männern und Frauen. Ihr seid alle eins in der Gemeinschaft mit Christus Jesus.",
+      "elberfelder": "Da ist weder Jude noch Grieche, da ist weder Sklave noch Freier, da ist weder Mann noch Frau; denn ihr alle seid einer in Christus Jesus."
+    },
+    "categories": ["mit-sich-anderen-im-reinen", "einen-unterschied-machen"],
+    "traits": ["verantwortungsvoll", "froehlich-dankbar"],
+    "keywords": ["Einheit", "Gleichheit", "Christus", "Gemeinschaft", "Versöhnung"]
+  },
+  {
+    "id": "ps-40-2-3",
+    "book": "Psalmen",
+    "chapter": 40,
+    "verse": 2,
+    "translations": {
+      "luther2017": "Ich harrte des HERRN, und er neigte sich zu mir und hörte mein Schreien. Er zog mich aus der Grube des Verderbens, aus dem Schlamm und Kot, und stellte meine Füße auf einen Fels.",
+      "gute_nachricht": "Ich wartete geduldig auf den HERRN, und er wandte sich mir zu und hörte mein Rufen. Er zog mich aus dem schlammigen Sumpf, er stellte meine Füße auf festen Fels.",
+      "elberfelder": "Ich harrte, ja harrte auf den HERRN, und er neigte sich zu mir und hörte mein Schreien. Und er zog mich aus der Grube des Verderbens, aus dem Schlamm und Sumpf; er stellte meine Füße auf einen Fels."
+    },
+    "categories": ["von-guten-maechten-geborgen", "mutig"],
+    "traits": ["mutig", "vertrauend"],
+    "keywords": ["Rettung", "Harren", "Fels", "Befreiung", "Gebet"]
+  },
+  {
+    "id": "roem-8-14",
+    "book": "Römer",
+    "chapter": 8,
+    "verse": 14,
+    "translations": {
+      "luther2017": "Denn welche der Geist Gottes treibt, die sind Gottes Kinder.",
+      "gute_nachricht": "Denn alle, die sich vom Geist Gottes leiten lassen, sind Kinder Gottes.",
+      "elberfelder": "Denn alle, die durch den Geist Gottes geleitet werden, die sind Söhne Gottes."
+    },
+    "categories": ["von-guten-maechten-geborgen", "froehlich-dankbar"],
+    "traits": ["froehlich-dankbar", "vertrauend"],
+    "keywords": ["Heiliger Geist", "Kinder Gottes", "Führung", "Leitung", "Identität"]
+  },
+  {
+    "id": "ps-130-7",
+    "book": "Psalmen",
+    "chapter": 130,
+    "verse": 7,
+    "translations": {
+      "luther2017": "Hoffe, Israel, auf den HERRN! Denn bei dem HERRN ist die Gnade und viel Erlösung bei ihm.",
+      "gute_nachricht": "Israel, vertraue auf den HERRN! Denn beim HERRN ist Güte und reiche Erlösung.",
+      "elberfelder": "Israel, harre auf den HERRN! Denn beim HERRN ist Güte, und Erlösung in Fülle ist bei ihm."
+    },
+    "categories": ["von-guten-maechten-geborgen"],
+    "traits": ["vertrauend", "mutig"],
+    "keywords": ["Hoffnung", "Erlösung", "Gnade", "Vertrauen", "HERR"]
+  },
+  {
+    "id": "matt-6-33",
+    "book": "Matthäus",
+    "chapter": 6,
+    "verse": 33,
+    "translations": {
+      "luther2017": "Trachtet zuerst nach dem Reich Gottes und nach seiner Gerechtigkeit, so wird euch das alles zufallen.",
+      "gute_nachricht": "Sucht zuerst das Reich Gottes und die Gerechtigkeit, die er fordert; dann wird Gott euch das alles geben.",
+      "elberfelder": "Trachtet aber zuerst nach dem Reich Gottes und nach seiner Gerechtigkeit, und das alles wird euch hinzugefügt werden."
+    },
+    "categories": ["verantwortungsvoll", "einen-unterschied-machen"],
+    "traits": ["verantwortungsvoll", "vertrauend"],
+    "keywords": ["Reich Gottes", "Gerechtigkeit", "Priorität", "Vertrauen", "Suche"]
+  },
+  {
+    "id": "eph-6-10",
+    "book": "Epheser",
+    "chapter": 6,
+    "verse": 10,
+    "translations": {
+      "luther2017": "Zuletzt: Seid stark in dem Herrn und in der Macht seiner Stärke.",
+      "gute_nachricht": "Und nun zum Schluss: Seid stark durch die Kraft, die der Herr euch gibt, durch seine große Macht.",
+      "elberfelder": "Im übrigen: Seid stark in dem Herrn und in der Macht seiner Stärke!"
+    },
+    "categories": ["mutig"],
+    "traits": ["mutig", "vertrauend"],
+    "keywords": ["Stärke", "Herr", "Kraft", "Macht", "Mut"]
+  },
+  {
+    "id": "joh-16-33",
+    "book": "Johannes",
+    "chapter": 16,
+    "verse": 33,
+    "translations": {
+      "luther2017": "In der Welt habt ihr Angst; aber seid getrost, ich habe die Welt überwunden.",
+      "gute_nachricht": "In der Welt werdet ihr Angst haben. Aber seid mutig: Ich habe die Welt besiegt!",
+      "elberfelder": "In der Welt habt ihr Drangsal; aber habt Mut! Ich habe die Welt überwunden."
+    },
+    "categories": ["mutig", "von-guten-maechten-geborgen"],
+    "traits": ["mutig", "vertrauend"],
+    "keywords": ["Mut", "Überwindung", "Welt", "Angst", "Christus"]
+  },
+  {
+    "id": "1joh-3-1",
+    "book": "1. Johannes",
+    "chapter": 3,
+    "verse": 1,
+    "translations": {
+      "luther2017": "Sehet, welch eine Liebe hat uns der Vater gegeben, dass wir Gottes Kinder heißen sollen – und wir sind es auch!",
+      "gute_nachricht": "Seht doch, wie sehr uns der Vater liebt: Er nennt uns seine Kinder, und das sind wir wirklich!",
+      "elberfelder": "Seht, welch eine Liebe uns der Vater gegeben hat, dass wir Kinder Gottes heißen sollen – und wir sind es!"
+    },
+    "categories": ["froehlich-dankbar", "von-guten-maechten-geborgen"],
+    "traits": ["froehlich-dankbar", "vertrauend"],
+    "keywords": ["Kinder Gottes", "Vater", "Liebe", "Identität", "Dankbarkeit"]
+  },
+  {
+    "id": "ps-37-5",
+    "book": "Psalmen",
+    "chapter": 37,
+    "verse": 5,
+    "translations": {
+      "luther2017": "Befiehl dem HERRN deine Wege und hoffe auf ihn, er wird's wohlmachen.",
+      "gute_nachricht": "Leg dein Leben in die Hände des HERRN, vertrau auf ihn – er wird handeln.",
+      "elberfelder": "Wirf deinen Weg auf den HERRN; vertrau auf ihn, er wird es vollbringen."
+    },
+    "categories": ["von-guten-maechten-geborgen", "verantwortungsvoll"],
+    "traits": ["vertrauend", "mutig"],
+    "keywords": ["Weg", "Vertrauen", "HERR", "Hoffnung", "Hingabe"]
+  },
+  {
+    "id": "joh-14-6",
+    "book": "Johannes",
+    "chapter": 14,
+    "verse": 6,
+    "translations": {
+      "luther2017": "Jesus spricht zu ihm: Ich bin der Weg und die Wahrheit und das Leben.",
+      "gute_nachricht": "Jesus antwortete ihm: Ich bin der Weg, die Wahrheit und das Leben.",
+      "elberfelder": "Jesus spricht zu ihm: Ich bin der Weg und die Wahrheit und das Leben."
+    },
+    "categories": ["von-guten-maechten-geborgen", "einen-unterschied-machen"],
+    "traits": ["vertrauend", "mutig"],
+    "keywords": ["Weg", "Wahrheit", "Leben", "Christus", "Orientierung"]
+  },
+  {
+    "id": "spr-4-18",
+    "book": "Sprüche",
+    "chapter": 4,
+    "verse": 18,
+    "translations": {
+      "luther2017": "Der Weg der Gerechten ist wie das Licht des Morgens, das immer heller leuchtet bis zum vollen Tage.",
+      "gute_nachricht": "Der Weg der Gerechten gleicht dem Licht des frühen Morgens, das immer heller leuchtet, bis der volle Tag da ist.",
+      "elberfelder": "Und der Weg der Gerechten ist wie das Licht der Morgenröte, das immer heller leuchtet, bis der Tag völlig da ist."
+    },
+    "categories": ["einen-unterschied-machen", "froehlich-dankbar"],
+    "traits": ["mutig", "froehlich-dankbar"],
+    "keywords": ["Licht", "Weg", "Gerechtigkeit", "Wachstum", "Morgen"]
+  },
+  {
+    "id": "roem-12-2",
+    "book": "Römer",
+    "chapter": 12,
+    "verse": 2,
+    "translations": {
+      "luther2017": "Und stellt euch nicht dieser Welt gleich, sondern verändert euch durch die Erneuerung eures Sinnes, damit ihr prüfen könnt, was Gottes Wille ist.",
+      "gute_nachricht": "Passt euch nicht den Maßstäben dieser Welt an! Lasst Gott euch von innen heraus verändern, damit ihr einen neuen Sinn bekommt. Dann werdet ihr beurteilen können, was Gott will.",
+      "elberfelder": "Und passt euch dieser Weltzeit nicht an, sondern lasst euch verwandeln durch die Erneuerung eures Sinnes, damit ihr prüft, was der Wille Gottes ist."
+    },
+    "categories": ["einen-unterschied-machen", "verantwortungsvoll"],
+    "traits": ["mutig", "verantwortungsvoll"],
+    "keywords": ["Erneuerung", "Sinn", "Gottes Wille", "Wandel", "Unterschied"]
+  },
+  {
+    "id": "ps-23-6",
+    "book": "Psalmen",
+    "chapter": 23,
+    "verse": 6,
+    "translations": {
+      "luther2017": "Gutes und Barmherzigkeit werden mir folgen mein Leben lang, und ich werde bleiben im Hause des HERRN immerdar.",
+      "gute_nachricht": "Ja, Güte und Treue werden mir das ganze Leben folgen, und ich werde im Haus des HERRN wohnen für immer und ewig.",
+      "elberfelder": "Ja, Güte und Gnade werden mir folgen alle Tage meines Lebens, und ich werde im Haus des HERRN bleiben für die Länge der Tage."
+    },
+    "categories": ["von-guten-maechten-geborgen", "froehlich-dankbar"],
+    "traits": ["froehlich-dankbar", "vertrauend"],
+    "keywords": ["Güte", "Barmherzigkeit", "Leben", "HERR", "Haus Gottes"]
+  },
+  {
+    "id": "ps-119-105",
+    "book": "Psalmen",
+    "chapter": 119,
+    "verse": 105,
+    "translations": {
+      "luther2017": "Dein Wort ist meines Fußes Leuchte und ein Licht auf meinem Wege.",
+      "gute_nachricht": "Dein Wort ist eine Lampe für meinen Weg, ein Licht auf meinem Pfad.",
+      "elberfelder": "Dein Wort ist eine Leuchte für meinen Fuß und ein Licht für meinen Pfad."
+    },
+    "categories": ["von-guten-maechten-geborgen"],
+    "traits": ["vertrauend", "mutig"],
+    "keywords": ["Wort Gottes", "Licht", "Weg", "Leuchte", "Orientierung"]
+  },
+  {
+    "id": "jer-1-5",
+    "book": "Jeremia",
+    "chapter": 1,
+    "verse": 5,
+    "translations": {
+      "luther2017": "Bevor ich dich im Mutterleib bildete, habe ich dich erkannt; und bevor du aus dem Schoß deiner Mutter hervorgingest, habe ich dich geheiligt.",
+      "gute_nachricht": "Schon bevor ich dich im Mutterleib formte, hatte ich dich ausersehen. Noch ehe du geboren wurdest, hatte ich dich beiseitegestellt.",
+      "elberfelder": "Bevor ich dich im Mutterleib bildete, habe ich dich erkannt; und bevor du aus dem Schoß deiner Mutter hervorgingest, habe ich dich geheiligt."
+    },
+    "categories": ["von-guten-maechten-geborgen"],
+    "traits": ["vertrauend", "froehlich-dankbar"],
+    "keywords": ["Mutterleib", "Berufung", "Kenntnis Gottes", "Erwählung", "Heiligung"]
+  },
+  {
+    "id": "ps-71-5-6",
+    "book": "Psalmen",
+    "chapter": 71,
+    "verse": 5,
+    "translations": {
+      "luther2017": "Denn du bist meine Hoffnung, Herr, mein GOTT, meine Zuversicht von meiner Jugend an. Auf dich habe ich mich verlassen von Mutterleib an.",
+      "gute_nachricht": "Du bist meine Hoffnung, Herr, mein GOTT; auf dich habe ich vertraut von meiner Jugend an. Von Geburt an stütze ich mich auf dich.",
+      "elberfelder": "Denn du bist meine Hoffnung, Herr HERR, meine Zuversicht von meiner Jugend an. Auf dich habe ich mich gestützt vom Mutterleib an."
+    },
+    "categories": ["von-guten-maechten-geborgen"],
+    "traits": ["vertrauend", "froehlich-dankbar"],
+    "keywords": ["Hoffnung", "Jugend", "Kindheit", "Vertrauen", "Zuversicht"]
+  },
+  {
+    "id": "eph-5-2",
+    "book": "Epheser",
+    "chapter": 5,
+    "verse": 2,
+    "translations": {
+      "luther2017": "Und wandelt in der Liebe, wie auch Christus uns geliebt hat und hat sich selbst für uns gegeben als Opfergabe und Schlachtopfer Gott zum süßen Geruch.",
+      "gute_nachricht": "Ahmt Gottes Liebe nach und lebt in Liebe, so wie Christus uns geliebt und sich für uns geopfert hat.",
+      "elberfelder": "Und wandelt in Liebe, wie auch der Christus uns geliebt und sich selbst für uns hingegeben hat als Opfergabe und Schlachtopfer, Gott zu einem lieblichen Duft."
+    },
+    "categories": ["mit-sich-anderen-im-reinen", "einen-unterschied-machen"],
+    "traits": ["verantwortungsvoll", "froehlich-dankbar"],
+    "keywords": ["Liebe", "Nachfolge", "Christus", "Opfer", "Wandel"]
+  },
+  {
+    "id": "lam-3-22-23",
+    "book": "Klagelieder",
+    "chapter": 3,
+    "verse": 22,
+    "translations": {
+      "luther2017": "Die Güte des HERRN hat kein Ende, seine Barmherzigkeit hört nicht auf. Sie ist jeden Morgen neu.",
+      "gute_nachricht": "Die Güte des HERRN hat kein Ende, seine Barmherzigkeit hört nicht auf. Sie ist jeden Morgen neu.",
+      "elberfelder": "Die Gnadengaben des HERRN haben kein Ende, seine Barmherzigkeiten hören nicht auf. Sie sind jeden Morgen neu."
+    },
+    "categories": ["froehlich-dankbar", "von-guten-maechten-geborgen"],
+    "traits": ["froehlich-dankbar", "vertrauend"],
+    "keywords": ["Güte", "Barmherzigkeit", "Morgen", "Neu", "Treue Gottes"]
+  },
+  {
+    "id": "roem-12-12",
+    "book": "Römer",
+    "chapter": 12,
+    "verse": 12,
+    "translations": {
+      "luther2017": "Seid fröhlich in Hoffnung, geduldig in Trübsal, beharrlich im Gebet.",
+      "gute_nachricht": "Freut euch in der Hoffnung, seid geduldig in Leid und haltet am Beten fest.",
+      "elberfelder": "In der Hoffnung freudig, in der Drangsal ausharrend, im Gebet beharrlich."
+    },
+    "categories": ["mutig", "froehlich-dankbar"],
+    "traits": ["mutig", "froehlich-dankbar"],
+    "keywords": ["Hoffnung", "Freude", "Geduld", "Gebet", "Ausdauer"]
+  },
+  {
+    "id": "1kor-16-13-14",
+    "book": "1. Korinther",
+    "chapter": 16,
+    "verse": 13,
+    "translations": {
+      "luther2017": "Wachet, stehet im Glauben, seid mutig und seid stark! Alle eure Dinge lasset in der Liebe geschehen.",
+      "gute_nachricht": "Seid wachsam, steht fest im Glauben, habt Mut und seid stark! Und handelt in allem mit Liebe.",
+      "elberfelder": "Wacht, steht im Glauben, seid männlich, seid stark! Alles bei euch geschehe in Liebe."
+    },
+    "categories": ["mutig", "mit-sich-anderen-im-reinen"],
+    "traits": ["mutig", "verantwortungsvoll"],
+    "keywords": ["Wachen", "Glaube", "Mut", "Stärke", "Liebe"]
+  },
+  {
+    "id": "ps-46-11",
+    "book": "Psalmen",
+    "chapter": 46,
+    "verse": 11,
+    "translations": {
+      "luther2017": "Seid stille und erkennet, dass ich Gott bin! Ich bin erhöht unter den Nationen, erhöht auf Erden.",
+      "gute_nachricht": "Haltet inne, und erkennt: Ich bin Gott! Ich bin erhaben über alle Völker, erhaben über die ganze Erde.",
+      "elberfelder": "Lasst ab und erkennt, dass ich Gott bin! Ich bin erhaben unter den Nationen, erhaben auf Erden."
+    },
+    "categories": ["von-guten-maechten-geborgen", "froehlich-dankbar"],
+    "traits": ["vertrauend", "froehlich-dankbar"],
+    "keywords": ["Stille", "Erkenntnis", "Gott", "Erhabenheit", "Ruhe"]
+  },
+  {
+    "id": "jes-43-4",
+    "book": "Jesaja",
+    "chapter": 43,
+    "verse": 4,
+    "translations": {
+      "luther2017": "Weil du so wert bist in meinen Augen und herrlich und ich dich liebe, darum gebe ich Menschen an deiner Statt und Völker für dein Leben.",
+      "gute_nachricht": "Weil du mir so wertvoll bist, weil ich dich in Ehren halte und dich liebe, gebe ich Völker als Lösegeld für dich, andere Nationen für dein Leben.",
+      "elberfelder": "Weil du kostbar bist in meinen Augen, wertgeschätzt bist und ich dich liebe, deshalb gebe ich Menschen an deiner Statt und Völker für dein Leben."
+    },
+    "categories": ["von-guten-maechten-geborgen"],
+    "traits": ["froehlich-dankbar", "vertrauend"],
+    "keywords": ["Wert", "Liebe", "Kostbarkeit", "Gottes Liebe", "Schutz"]
+  },
+  {
+    "id": "ps-22-10-11",
+    "book": "Psalmen",
+    "chapter": 22,
+    "verse": 10,
+    "translations": {
+      "luther2017": "Denn du hast mich aus dem Mutterleib gezogen; du hast mich Vertrauen gelehrt an meiner Mutter Brust. Auf dich bin ich geworfen von Mutterleib an, du bist mein Gott von meiner Mutter Schoß an.",
+      "gute_nachricht": "Denn du hast mich aus dem Mutterschoß gezogen, du hast mir Zutrauen eingeflößt an der Brust meiner Mutter. Auf dich bin ich angewiesen von Geburt an, seit ich aus dem Mutterschoß kam, bist du mein Gott.",
+      "elberfelder": "Denn du bist es, der mich dem Schoß entrissen hat, der mich in Sicherheit wiegte an meiner Mutter Brust. Auf dich bin ich geworfen von Mutterleib an, vom Schoß meiner Mutter an bist du mein Gott."
+    },
+    "categories": ["von-guten-maechten-geborgen"],
+    "traits": ["vertrauend", "froehlich-dankbar"],
+    "keywords": ["Mutterleib", "Geburt", "Gott", "Vertrauen", "Geborgenheit"]
+  },
+  {
+    "id": "1thess-5-16-18",
+    "book": "1. Thessalonicher",
+    "chapter": 5,
+    "verse": 16,
+    "translations": {
+      "luther2017": "Seid allezeit fröhlich, betet ohne Unterlass, seid dankbar in allen Dingen; denn das ist der Wille Gottes in Christus Jesus für euch.",
+      "gute_nachricht": "Freut euch zu jeder Zeit! Betet unaufhörlich! Seid dankbar in jeder Lage – denn das ist Gottes Wille für euch als Angehörige der Gemeinschaft mit Christus Jesus.",
+      "elberfelder": "Freut euch allezeit! Betet ohne Unterlass! Sagt für alles Dank; denn das ist Gottes Wille für euch in Christus Jesus."
+    },
+    "categories": ["froehlich-dankbar"],
+    "traits": ["froehlich-dankbar", "verantwortungsvoll"],
+    "keywords": ["Freude", "Gebet", "Dankbarkeit", "Gottes Wille", "Beständigkeit"]
+  },
+  {
+    "id": "sach-2-12",
+    "book": "Sacharja",
+    "chapter": 2,
+    "verse": 12,
+    "translations": {
+      "luther2017": "Denn wer euch antastet, der tastet seinen Augapfel an.",
+      "gute_nachricht": "Denn wer euch angreift, greift Gott mitten ins Herz – wie jemand, der den Augapfel berührt.",
+      "elberfelder": "Denn wer euch anrührt, rührt seinen Augapfel an."
+    },
+    "categories": ["von-guten-maechten-geborgen"],
+    "traits": ["vertrauend", "mutig"],
+    "keywords": ["Schutz", "Augapfel", "Kostbarkeit", "Fürsorge", "Gottes Obhut"]
+  },
+  {
+    "id": "hebr-12-1-2",
+    "book": "Hebräer",
+    "chapter": 12,
+    "verse": 1,
+    "translations": {
+      "luther2017": "Wir wollen ablegen alles, was uns beschwert, lasst uns laufen mit Geduld in dem Kampf, der uns bestimmt ist, und aufschauen zu Jesus, dem Anfänger und Vollender des Glaubens.",
+      "gute_nachricht": "Lasst uns auch alle Lasten abwerfen, die uns beschweren, besonders die Sünde, die uns so leicht gefangen nimmt. Und lasst uns mit Ausdauer den Lauf bestehen, der vor uns liegt! Dabei wollen wir unsere Augen auf Jesus richten.",
+      "elberfelder": "Lasst uns also auch, da wir eine so große Wolke von Zeugen um uns haben, jede Last ablegen und die Sünde, die uns so leicht umstrickt, und mit Ausdauer laufen in dem Kampf, der uns vorgesetzt ist, wobei wir aufschauen zu Jesus, dem Anfänger und Vollender des Glaubens."
+    },
+    "categories": ["mutig", "von-guten-maechten-geborgen"],
+    "traits": ["mutig", "vertrauend"],
+    "keywords": ["Lauf", "Jesus", "Geduld", "Ausdauer", "Glaube"]
+  },
+  {
+    "id": "joh-13-34",
+    "book": "Johannes",
+    "chapter": 13,
+    "verse": 34,
+    "translations": {
+      "luther2017": "Ein neues Gebot gebe ich euch, dass ihr euch untereinander liebt, wie ich euch geliebt habe, damit auch ihr einander liebt.",
+      "gute_nachricht": "Ich gebe euch ein neues Gebot: Liebt einander! Liebt einander so, wie ich euch geliebt habe.",
+      "elberfelder": "Ein neues Gebot gebe ich euch, dass ihr einander liebt; wie ich euch geliebt habe, liebt auch ihr einander."
+    },
+    "categories": ["mit-sich-anderen-im-reinen", "einen-unterschied-machen"],
+    "traits": ["verantwortungsvoll", "froehlich-dankbar"],
+    "keywords": ["Liebe", "Gebot", "Einander", "Christus", "Gemeinschaft"]
+  },
+  {
+    "id": "2kor-12-9",
+    "book": "2. Korinther",
+    "chapter": 12,
+    "verse": 9,
+    "translations": {
+      "luther2017": "Und er hat zu mir gesagt: Lass dir an meiner Gnade genügen; denn meine Kraft ist in den Schwachen mächtig. Darum will ich mich am allerliebsten meiner Schwachheit rühmen, damit die Kraft Christi bei mir wohne.",
+      "gute_nachricht": "Aber Christus antwortete mir: Meine Gnade genügt dir, denn Kraft zeigt sich erst in der Schwachheit. Daher will ich mich lieber meiner Schwächen rühmen, damit die Kraft Christi bei mir wohnt.",
+      "elberfelder": "Und er hat mir gesagt: Meine Gnade genügt dir; denn die Kraft wird in der Schwachheit vollkommen. Daher will ich mich am liebsten meiner Schwachheiten rühmen, damit die Kraft des Christus auf mir wohnt."
+    },
+    "categories": ["mutig", "von-guten-maechten-geborgen"],
+    "traits": ["mutig", "vertrauend"],
+    "keywords": ["Gnade", "Kraft", "Schwachheit", "Christus", "Stärke"]
+  },
+  {
+    "id": "ps-84-12",
+    "book": "Psalmen",
+    "chapter": 84,
+    "verse": 12,
+    "translations": {
+      "luther2017": "Denn Gott der HERR ist Sonne und Schild; der HERR gibt Gnade und Ehre. Er wird kein Gutes mangeln lassen den Frommen.",
+      "gute_nachricht": "Denn der HERR, unser Gott, ist wie Sonne und Schild: Er schenkt Gnade und Ruhm; er verweigert keinem das Gute, der aufrichtig lebt.",
+      "elberfelder": "Denn Gott der HERR ist Sonne und Schild; Gnade und Herrlichkeit gibt der HERR; er versagt das Gute nicht denen, die in Lauterkeit wandeln."
+    },
+    "categories": ["von-guten-maechten-geborgen", "froehlich-dankbar"],
+    "traits": ["froehlich-dankbar", "vertrauend"],
+    "keywords": ["Sonne", "Schild", "Gnade", "Schutz", "Güte Gottes"]
+  },
+  {
+    "id": "kol-2-6-7",
+    "book": "Kolosser",
+    "chapter": 2,
+    "verse": 6,
+    "translations": {
+      "luther2017": "Wie ihr nun Christus Jesus, den Herrn, angenommen habt, so lebt auch in ihm, verwurzelt und aufgebaut in ihm und gefestigt im Glauben.",
+      "gute_nachricht": "Ihr habt Christus Jesus als euren Herrn angenommen. Lebt also mit ihm und in ihm, in ihm verwurzelt und auf ihm gegründet, fest und sicher im Glauben.",
+      "elberfelder": "Wie ihr nun Christus Jesus, den Herrn, empfangen habt, so wandelt in ihm, in ihm verwurzelt und auferbaut und gefestigt in dem Glauben."
+    },
+    "categories": ["von-guten-maechten-geborgen", "verantwortungsvoll"],
+    "traits": ["vertrauend", "verantwortungsvoll"],
+    "keywords": ["Christus", "Wurzel", "Glaube", "Festigkeit", "Leben"]
+  },
+  {
+    "id": "roem-8-1",
+    "book": "Römer",
+    "chapter": 8,
+    "verse": 1,
+    "translations": {
+      "luther2017": "So gibt es nun keine Verdammnis für die, die in Christus Jesus sind.",
+      "gute_nachricht": "So gibt es jetzt keine Verurteilung mehr für die, die in der Gemeinschaft mit Christus Jesus leben.",
+      "elberfelder": "Es gibt also jetzt keine Verdammnis für die, die in Christus Jesus sind."
+    },
+    "categories": ["von-guten-maechten-geborgen", "froehlich-dankbar"],
+    "traits": ["froehlich-dankbar", "vertrauend"],
+    "keywords": ["Freiheit", "Verdammnis", "Christus", "Gnade", "Heil"]
+  },
+  {
+    "id": "jes-55-8-9",
+    "book": "Jesaja",
+    "chapter": 55,
+    "verse": 8,
+    "translations": {
+      "luther2017": "Denn meine Gedanken sind nicht eure Gedanken, und eure Wege sind nicht meine Wege, spricht der HERR, sondern so viel der Himmel höher ist als die Erde, so sind auch meine Wege höher als eure Wege.",
+      "gute_nachricht": "Meine Gedanken sind nicht eure Gedanken, und eure Wege sind nicht meine Wege – das ist der Beschluss des HERRN. So weit der Himmel über der Erde ist, so weit sind meine Wege über euren Wegen.",
+      "elberfelder": "Denn meine Gedanken sind nicht eure Gedanken, noch sind eure Wege meine Wege, spricht der HERR. Denn so viel die Himmel höher sind als die Erde, so sind meine Wege höher als eure Wege."
+    },
+    "categories": ["von-guten-maechten-geborgen"],
+    "traits": ["vertrauend", "mutig"],
+    "keywords": ["Gottes Gedanken", "Wege", "Himmel", "Höhe", "Vertrauen"]
+  },
+  {
+    "id": "1petr-2-9",
+    "book": "1. Petrus",
+    "chapter": 2,
+    "verse": 9,
+    "translations": {
+      "luther2017": "Ihr aber seid das auserwählte Geschlecht, die königliche Priesterschaft, das heilige Volk, das Volk des Eigentums, damit ihr verkündigen sollt die Wohltaten dessen, der euch berufen hat von der Finsternis zu seinem wunderbaren Licht.",
+      "gute_nachricht": "Ihr aber seid das auserwählte Volk, die königliche Priesterschaft, die heilige Nation, das Volk, das Gott gehört. Ihr sollt die großen Taten dessen verkünden, der euch aus der Dunkelheit in sein wunderbares Licht gerufen hat.",
+      "elberfelder": "Ihr aber seid ein auserwähltes Geschlecht, eine königliche Priesterschaft, eine heilige Nation, ein Volk zum Besitz, damit ihr die Tugenden dessen verkündigt, der euch aus der Finsternis in sein wunderbares Licht berufen hat."
+    },
+    "categories": ["einen-unterschied-machen", "froehlich-dankbar"],
+    "traits": ["froehlich-dankbar", "verantwortungsvoll"],
+    "keywords": ["Erwählung", "Priesterschaft", "Licht", "Berufung", "Heiliges Volk"]
+  },
+  {
+    "id": "gal-2-20",
+    "book": "Galater",
+    "chapter": 2,
+    "verse": 20,
+    "translations": {
+      "luther2017": "Ich lebe, aber nun nicht mehr ich, sondern Christus lebt in mir. Denn was ich jetzt lebe im Fleisch, das lebe ich in dem Glauben an den Sohn Gottes, der mich geliebt hat und sich selbst für mich hingegeben hat.",
+      "gute_nachricht": "Ich bin mit Christus gekreuzigt worden und lebe nicht mehr ich, sondern Christus lebt in mir. Was ich jetzt lebe, lebe ich im Glauben an den Sohn Gottes, der mich geliebt hat und sich für mich geopfert hat.",
+      "elberfelder": "Mit Christus bin ich gekreuzigt; und nicht mehr ich lebe, sondern Christus lebt in mir. Was ich aber jetzt im Fleisch lebe, lebe ich im Glauben, dem Glauben an den Sohn Gottes, der mich geliebt und sich selbst für mich hingegeben hat."
+    },
+    "categories": ["von-guten-maechten-geborgen", "froehlich-dankbar"],
+    "traits": ["vertrauend", "froehlich-dankbar"],
+    "keywords": ["Christus", "Leben", "Glaube", "Liebe", "Hingabe"]
+  },
+  {
+    "id": "ps-31-16",
+    "book": "Psalmen",
+    "chapter": 31,
+    "verse": 16,
+    "translations": {
+      "luther2017": "Meine Zeit steht in deinen Händen.",
+      "gute_nachricht": "Ich liege in deinen Händen.",
+      "elberfelder": "Meine Zeiten stehen in deiner Hand."
+    },
+    "categories": ["von-guten-maechten-geborgen"],
+    "traits": ["vertrauend", "mutig"],
+    "keywords": ["Zeit", "Hände Gottes", "Fürsorge", "Vertrauen", "Geborgenheit"]
+  }
+]

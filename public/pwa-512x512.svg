@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Hintergrund -->
+  <circle cx="256" cy="256" r="256" fill="#2d6a4f"/>
+  <!-- Kreuz -->
+  <rect x="226" y="80" width="60" height="352" fill="white" rx="8"/>
+  <rect x="100" y="180" width="312" height="60" fill="white" rx="8"/>
+</svg>

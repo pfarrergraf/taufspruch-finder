@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-primary: #2d6a4f;
+  --color-primary-light: #3b826b;
+  --color-bg: #f0f7f4;
+  --color-parchment: #fdf9f0;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: 'Inter', system-ui, sans-serif;
+  background-color: var(--color-bg);
+  color: #1a2e25;
+}
+
+.verse-text {
+  font-family: Georgia, Cambria, serif;
+  font-style: italic;
+  line-height: 1.7;
+}
+
+/* Smooth transitions */
+.transition-filter { transition: all 0.2s ease; }
+
+/* Focus visible für Accessibility */
+:focus-visible {
+  outline: 2px solid var(--color-primary);
+  outline-offset: 2px;
+}
