@@ -1,8 +1,8 @@
 import { useState } from 'react'
 
-export default function ShareButton({ verse, text, reference }) {
+export default function ShareButton({ text, reference }) {
   const [open, setOpen] = useState(false)
-  const message = `„${text}" — ${reference}`
+  const message = `„${text}“ — ${reference}`
   const waUrl = `https://wa.me/?text=${encodeURIComponent(message)}`
   const mailUrl = `mailto:?subject=${encodeURIComponent(`Taufspruch: ${reference}`)}&body=${encodeURIComponent(message)}`
 

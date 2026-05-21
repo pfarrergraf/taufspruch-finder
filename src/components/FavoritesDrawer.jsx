@@ -54,7 +54,7 @@ export default function FavoritesDrawer({ open, onClose, favorites, allVerses, o
             favVerses.map((verse) => (
               <div key={verse.id} className="bg-parchment-50 rounded-xl p-3 border border-parchment-200">
                 <blockquote className="verse-text text-forest-900 text-sm leading-relaxed mb-2">
-                  „{verse.translations[translation]}"
+                  „{verse.translations[translation]}“
                 </blockquote>
                 <div className="flex items-center justify-between">
                   <span className="text-xs text-forest-600 font-semibold">

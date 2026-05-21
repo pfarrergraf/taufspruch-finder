@@ -3,7 +3,7 @@ import { useTranslation, TRANSLATIONS } from '../context/TranslationContext'
 import ShareButton from './ShareButton'
 
 export default function VerseCard({ verse, isFavorite, onToggleFavorite }) {
-  const { translation, setTranslation } = useTranslation()
+  const { translation } = useTranslation()
   const [localTranslation, setLocalTranslation] = useState(translation)
 
   const text = verse.translations[localTranslation]
@@ -17,7 +17,7 @@ export default function VerseCard({ verse, isFavorite, onToggleFavorite }) {
     >
       {/* Vers-Text */}
       <blockquote className="verse-text text-forest-900 text-base leading-relaxed">
-        „{text}"
+        „{text}“
       </blockquote>
 
       {/* Referenz */}
@@ -55,7 +55,7 @@ export default function VerseCard({ verse, isFavorite, onToggleFavorite }) {
         >
           {fav ? '♥' : '♡'} {fav ? 'Gespeichert' : 'Merken'}
         </button>
-        <ShareButton verse={verse} text={text} reference={ref} />
+        <ShareButton text={text} reference={ref} />
       </div>
     </article>
   )
