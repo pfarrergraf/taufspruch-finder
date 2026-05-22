@@ -4,7 +4,6 @@ const TranslationContext = createContext()
 
 export const TRANSLATIONS = {
   luther2017: 'Lutherbibel 2017',
-  gute_nachricht: 'Gute Nachricht',
   elberfelder: 'Elberfelder',
 }
 

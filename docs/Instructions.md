@@ -64,7 +64,7 @@ Pflichtfelder:
 - `traits[]`: passende Trait-IDs.
 - `tooltip`: kurze Erklärung für Eltern.
 
-Optionale, aber empfohlene Felder sind `translations.elberfelder`, `translations.gute_nachricht` als Paraphrase und `keywords[]`.
+Optionale, aber empfohlene Felder sind `translations.elberfelder` und `keywords[]`. `translations.gute_nachricht` nur verwenden, wenn es wirklich eine eigene Paraphrase oder rechtlich freigegebene Kurzfassung ist.
 
 ## Vers-ID Konvention
 
@@ -90,6 +90,6 @@ Diese Quellen dienen nur der lokalen Datenpflege. In das Repo gehören daraus ab
 
 ## Bekannte Einschränkungen
 
-- Gute Nachricht Bibel (GNB) ist urheberrechtlich geschützt. Im Repo nur Paraphrasen oder kurze sinngemäße Hinweise verwenden, keine längeren Wortzitate.
+- Gute Nachricht Bibel (GNB) ist urheberrechtlich geschützt. Im Repo keine längeren GNB-Wortzitate speichern; die öffentliche UI bietet GNB deshalb nicht als Übersetzungsoption an.
 - Das FAISS-Backend für semantische Suche ist optional. Die PWA muss auch ohne laufendes Backend funktionieren.
 - Lokale Quellen unter `C:\ai\n8n\shared\app2\` sind nicht Teil des GitHub-Repositories und in GitHub Actions nicht verfügbar.

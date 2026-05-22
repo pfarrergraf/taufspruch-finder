@@ -66,7 +66,7 @@ Neue Verse werden in `data/verses.json` ergänzt. Pflichtfelder sind:
 - `traits[]`: passende Trait-IDs.
 - `tooltip`: kurze, pastoral sensible Erklärung für Eltern.
 
-Empfohlen sind außerdem `translations.elberfelder`, `translations.gute_nachricht` als Paraphrase und `keywords[]`.
+Empfohlen sind außerdem `translations.elberfelder` und `keywords[]`. `translations.gute_nachricht` darf nur ergänzt werden, wenn es sich um eine eigene Paraphrase oder rechtlich freigegebene Kurzfassung handelt.
 
 **ID-Konvention:** lowercase, `buch-kapitel-vers`; Umlaute ersetzen (`ö` → `oe`, `ä` → `ae`, `ü` → `ue`, `ß` → `ss`). Beispiele: `ps-23-1`, `joh-15-9`, `roem-8-38`.
 
@@ -97,7 +97,7 @@ Empfohlen sind außerdem `translations.elberfelder`, `translations.gute_nachrich
 ## Urheberrecht
 - Luther 2017: frei verwendbare Arbeitsgrundlage für dieses Projekt.
 - Elberfelder: prüfen — nur wenn Texte aus freien Quellen
-- Gute Nachricht Bibel: geschützt — nur Paraphrasen/Umschreibungen
+- Gute Nachricht Bibel: geschützt — keine längeren Wortzitate im Repo; die öffentliche UI zeigt GNB nicht als Übersetzungsoption an.
 
 ## Bekannte Einschränkungen / Out of Scope
 - FAISS-Backend und semantische Suche bleiben optional. Die PWA darf nicht davon abhängen.
