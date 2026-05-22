@@ -190,28 +190,28 @@ und jeden Chip mit einer CSS `animation-delay` versehen:
 
 ## Checkliste — Stimmungsuhr
 
-- [ ] `ClockWheel.jsx` — `touchAction: 'none'` auf `<svg>` ergänzt
-- [ ] `ClockWheel.jsx` — `drop-shadow` auf aktive Segmente ergänzt
-- [ ] `StimmungsuhrApp.jsx` — `handleToResult` mit `reset()` + `setTimeout`
-- [ ] `StimmungsuhrApp.jsx` — Zufallsvers wenn keine Segmente gewählt
-- [ ] Verifikation: Im Browser "Stimmungsuhr" wählen → Uhr rendert
-- [ ] Verifikation: Segmente anklicken → Farbe ändert sich, Vers im Zentrum ändert sich
-- [ ] Verifikation: "X Verse anzeigen" → ResultStep erscheint mit gefilterten Versen
-- [ ] Verifikation: Mobile (Touchscreen) — Segmente per Touch klickbar
+- [x] `ClockWheel.jsx` — `touchAction: 'none'` auf `<svg>` ergänzt
+- [x] `ClockWheel.jsx` — `drop-shadow` auf aktive Segmente ergänzt
+- [x] `StimmungsuhrApp.jsx` — `handleToResult` mit `reset()` + `setTimeout`
+- [x] `StimmungsuhrApp.jsx` — Zufallsvers wenn keine Segmente gewählt
+- [x] Verifikation: Im Browser "Stimmungsuhr" wählen → Uhr rendert
+- [x] Verifikation: Segmente anklicken → Farbe ändert sich, Vers im Zentrum ändert sich
+- [x] Verifikation: "X Verse anzeigen" → ResultStep erscheint mit gefilterten Versen
+- [x] Verifikation: Mobile (Touchscreen) — Segmente per Touch klickbar
 
 ## Checkliste — Swipe
 
-- [ ] `SwipeCard.jsx` — Fly-Out-Animation bei Swipe-Trigger
-- [ ] `SwipeApp.jsx` — Edge Case wenn Deck komplett ohne Votes
-- [ ] `SwipeApp.jsx` — Keyboard-Navigation (Pfeil links/rechts)
-- [ ] `src/index.css` — `floatIn`-Keyframe + `.swipe-reveal-chip`-Klasse
-- [ ] `SwipeApp.jsx` — Reveal-Chips mit `animation-delay`
-- [ ] Verifikation: Swipe per Maus-Drag funktioniert
-- [ ] Verifikation: Swipe per Touch funktioniert (Mobile)
-- [ ] Verifikation: Pfeil-Tasten funktionieren (Desktop)
-- [ ] Verifikation: Nach 10 Karten → Reveal-Animation → ResultStep
-- [ ] Verifikation: "Zeig mir jetzt" → sofort zu ResultStep
-- [ ] `npm run build` — kein Fehler
+- [x] `SwipeCard.jsx` — Fly-Out-Animation bei Swipe-Trigger
+- [x] `SwipeApp.jsx` — Edge Case wenn Deck komplett ohne Votes
+- [x] `SwipeApp.jsx` — Keyboard-Navigation (Pfeil links/rechts)
+- [x] `src/index.css` — `floatIn`-Keyframe + `.swipe-reveal-chip`-Klasse
+- [x] `SwipeApp.jsx` — Reveal-Chips mit `animation-delay`
+- [x] Verifikation: Swipe per Maus-Drag funktioniert
+- [x] Verifikation: Swipe per Touch funktioniert (Mobile)
+- [x] Verifikation: Pfeil-Tasten funktionieren (Desktop)
+- [x] Verifikation: Nach 10 Karten → Reveal-Animation → ResultStep
+- [x] Verifikation: "Zeig mir jetzt" → sofort zu ResultStep
+- [x] `npm run build` — kein Fehler
 
 ---
 

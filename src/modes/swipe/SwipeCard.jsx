@@ -3,9 +3,11 @@ import { useState, useRef } from 'react'
 export default function SwipeCard({ card, onSwipe, stackIndex }) {
   const [dragX, setDragX] = useState(0)
   const [isDragging, setIsDragging] = useState(false)
+  const [isFlying, setIsFlying] = useState(false)
   const startX = useRef(0)
 
   const handleStart = (clientX) => {
+    if (isFlying) return
     startX.current = clientX
     setIsDragging(true)
   }
@@ -18,9 +20,25 @@ export default function SwipeCard({ card, onSwipe, stackIndex }) {
   const handleEnd = () => {
     if (!isDragging) return
     setIsDragging(false)
-    if (dragX > 80) onSwipe('right')
-    else if (dragX < -80) onSwipe('left')
-    setDragX(0)
+    if (dragX > 80) {
+      setIsFlying(true)
+      setDragX(400)
+      setTimeout(() => {
+        onSwipe('right')
+        setDragX(0)
+        setIsFlying(false)
+      }, 300)
+    } else if (dragX < -80) {
+      setIsFlying(true)
+      setDragX(-400)
+      setTimeout(() => {
+        onSwipe('left')
+        setDragX(0)
+        setIsFlying(false)
+      }, 300)
+    } else {
+      setDragX(0)
+    }
   }
 
   const rotation = dragX * 0.06
@@ -34,13 +52,14 @@ export default function SwipeCard({ card, onSwipe, stackIndex }) {
         transform: isTopCard
           ? `translateX(${dragX}px) rotate(${rotation}deg)`
           : `translateY(${translateY}px) scale(${scale})`,
-        transition: isDragging ? 'none' : 'transform 0.3s ease',
+        transition: isDragging && !isFlying ? 'none' : 'transform 0.3s ease',
         zIndex: 10 - stackIndex,
         position: 'absolute',
         width: '100%',
         cursor: isTopCard ? (isDragging ? 'grabbing' : 'grab') : 'default',
         userSelect: 'none',
         touchAction: 'none',
+        pointerEvents: isFlying ? 'none' : 'auto',
       }}
       onTouchStart={isTopCard ? e => handleStart(e.touches[0].clientX) : undefined}
       onTouchMove={isTopCard ? e => handleMove(e.touches[0].clientX) : undefined}

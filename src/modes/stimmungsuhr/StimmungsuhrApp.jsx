@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { useMemo, useState } from 'react'
 import { useInterview } from '../../context/InterviewContext'
 import { useVerseFilter } from '../../hooks/useVerseFilter'
 import ClockWheel from './ClockWheel'
@@ -7,10 +7,11 @@ import ShareStep from '../../components/interview/ShareStep'
 import verses from '../../../data/verses.json'
 
 export default function StimmungsuhrApp() {
-  const { childName, setChildName, goToStep, orientations, toggleOrientation, traits } = useInterview()
+  const { childName, setChildName, goToStep, toggleOrientation, reset } = useInterview()
   const [localSegments, setLocalSegments] = useState([])
   const [phase, setPhase] = useState('intro') // 'intro' | 'clock' | 'result' | 'share'
   const [nameInput, setNameInput] = useState(childName)
+  const randomVerse = useMemo(() => verses[Math.floor(Math.random() * verses.length)], [])
 
   const filtered = useVerseFilter(
     verses,
@@ -27,13 +28,19 @@ export default function StimmungsuhrApp() {
   }
 
   const handleToResult = () => {
-    // Segmente in InterviewContext übertragen, damit ResultStep sie nutzen kann
-    localSegments.forEach(id => {
-      if (!orientations.includes(id)) toggleOrientation(id)
-    })
-    goToStep(5)
-    setPhase('result')
+    const preservedName = childName || nameInput
+    reset()
+    setTimeout(() => {
+      if (preservedName) setChildName(preservedName)
+      localSegments.forEach(id => toggleOrientation(id))
+      goToStep(5)
+      setPhase('result')
+    }, 0)
   }
+
+  const displayVerse = localSegments.length === 0
+    ? randomVerse
+    : (filtered[0] || null)
 
   if (phase === 'intro') return (
     <div className="step-card step-enter max-w-lg mx-auto text-center space-y-6">
@@ -89,7 +96,7 @@ export default function StimmungsuhrApp() {
       <ClockWheel
         selectedSegments={localSegments}
         onToggle={handleSegmentToggle}
-        currentVerse={filtered[0] || null}
+        currentVerse={displayVerse}
         totalFound={filtered.length}
       />
 

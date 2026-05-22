@@ -56,6 +56,7 @@ export default function ClockWheel({ selectedSegments, onToggle, currentVerse, t
         className="w-full max-w-xs mx-auto"
         aria-label="Stimmungsuhr: Wähle Lebensthemen"
         role="group"
+        style={{ touchAction: 'none' }}
       >
         {CATEGORIES.map((cat, i) => {
           const startAngle = i * segmentAngle
@@ -71,7 +72,11 @@ export default function ClockWheel({ selectedSegments, onToggle, currentVerse, t
                 fill={isActive ? colors.active : colors.idle}
                 stroke={colors.stroke}
                 strokeWidth={isActive ? 2.5 : 1.5}
-                style={{ cursor: 'pointer', transition: 'fill 0.2s ease' }}
+                style={{
+                  cursor: 'pointer',
+                  filter: isActive ? `drop-shadow(0 0 6px ${colors.stroke}80)` : 'none',
+                  transition: 'fill 0.2s ease, filter 0.2s ease',
+                }}
                 onClick={() => onToggle(cat.id)}
                 onKeyDown={e => (e.key === 'Enter' || e.key === ' ') && onToggle(cat.id)}
                 role="button"
@@ -127,7 +132,7 @@ export default function ClockWheel({ selectedSegments, onToggle, currentVerse, t
             {currentVerse ? (
               <>
                 <p style={{ fontSize: 8, fontStyle: 'italic', lineHeight: 1.4, color: '#374151', margin: 0 }}>
-                  „{currentVerse.translations.luther2017.slice(0, 55)}…"
+                  „{currentVerse.translations.luther2017.slice(0, 55)}…“
                 </p>
                 <p style={{ fontSize: 7.5, color: '#14b8a6', marginTop: 4, fontWeight: 700, margin: '4px 0 0' }}>
                   {currentVerse.book} {currentVerse.chapter},{currentVerse.verse}

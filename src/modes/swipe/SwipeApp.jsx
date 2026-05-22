@@ -1,11 +1,9 @@
-import { useState, useMemo } from 'react'
+import { useCallback, useEffect, useState } from 'react'
 import { useInterview } from '../../context/InterviewContext'
-import { useVerseFilter } from '../../hooks/useVerseFilter'
 import { CATEGORIES, TRAITS } from '../../utils/filterData'
 import SwipeCard from './SwipeCard'
 import ResultStep from '../../components/interview/ResultStep'
 import ShareStep from '../../components/interview/ShareStep'
-import verses from '../../../data/verses.json'
 
 function shuffle(arr) {
   const a = [...arr]
@@ -30,24 +28,43 @@ const MAX_CARDS = 10
 const MAX_YES = 6
 
 export default function SwipeApp() {
-  const { childName, setChildName, goToStep, toggleOrientation, toggleTrait, orientations, traits } = useInterview()
+  const { childName, setChildName, goToStep, toggleOrientation, toggleTrait, reset } = useInterview()
   const [nameInput, setNameInput] = useState(childName)
   const [phase, setPhase] = useState('intro') // 'intro' | 'swipe' | 'reveal' | 'result' | 'share'
-  const [deck] = useState(() => buildDeck())
+  const [deck, setDeck] = useState(() => buildDeck())
   const [cardIndex, setCardIndex] = useState(0)
   const [yesVotes, setYesVotes] = useState([])
 
-  const computeFilter = () => ({
-    categories: yesVotes.filter(v => v.type === 'category').map(v => v.id),
-    traits: yesVotes.filter(v => v.type === 'trait').map(v => v.id),
-  })
+  const applyVotesToInterview = useCallback((votes) => {
+    const preservedName = childName || nameInput
+    reset()
+    setTimeout(() => {
+      if (preservedName) setChildName(preservedName)
+      votes.forEach(v => {
+        if (v.type === 'category') toggleOrientation(v.id)
+        if (v.type === 'trait') toggleTrait(v.id)
+      })
+      goToStep(5)
+      setPhase('result')
+    }, 0)
+  }, [childName, goToStep, nameInput, reset, setChildName, toggleOrientation, toggleTrait])
 
-  const filtered = useVerseFilter(verses, computeFilter(), '')
-
-  const handleSwipe = (direction) => {
+  const handleSwipe = useCallback((direction) => {
     const card = deck[cardIndex]
+    if (!card) {
+      setDeck(buildDeck())
+      setCardIndex(0)
+      return
+    }
+
     const newYesVotes = direction === 'right' ? [...yesVotes, card] : yesVotes
     const newIndex = cardIndex + 1
+
+    if (newIndex >= deck.length && newYesVotes.length === 0) {
+      setDeck(buildDeck())
+      setCardIndex(0)
+      return
+    }
 
     setYesVotes(newYesVotes)
     setCardIndex(newIndex)
@@ -55,25 +72,23 @@ export default function SwipeApp() {
     const shouldReveal = newIndex >= MAX_CARDS || newYesVotes.length >= MAX_YES || newIndex >= deck.length
     if (shouldReveal) {
       setPhase('reveal')
-      setTimeout(() => {
-        // Votes in InterviewContext übertragen
-        newYesVotes.forEach(v => {
-          if (v.type === 'category' && !orientations.includes(v.id)) toggleOrientation(v.id)
-          if (v.type === 'trait' && !traits.includes(v.id)) toggleTrait(v.id)
-        })
-        goToStep(5)
-        setPhase('result')
-      }, 1800)
+      setTimeout(() => applyVotesToInterview(newYesVotes), 1800)
     }
-  }
+  }, [applyVotesToInterview, cardIndex, deck, yesVotes])
+
+  useEffect(() => {
+    if (phase !== 'swipe') return undefined
+    const handler = (e) => {
+      if (e.key === 'ArrowRight') handleSwipe('right')
+      if (e.key === 'ArrowLeft') handleSwipe('left')
+      if (e.key === 'Enter') handleSwipe('right')
+    }
+    window.addEventListener('keydown', handler)
+    return () => window.removeEventListener('keydown', handler)
+  }, [phase, handleSwipe])
 
   const handleSkipToResult = () => {
-    yesVotes.forEach(v => {
-      if (v.type === 'category' && !orientations.includes(v.id)) toggleOrientation(v.id)
-      if (v.type === 'trait' && !traits.includes(v.id)) toggleTrait(v.id)
-    })
-    goToStep(5)
-    setPhase('result')
+    applyVotesToInterview(yesVotes)
   }
 
   if (phase === 'intro') return (
@@ -112,13 +127,12 @@ export default function SwipeApp() {
         disabled={!childName && !nameInput.trim()}
         className="w-full py-3.5 rounded-2xl bg-baby-mint-400 text-white font-bold hover:bg-baby-mint-500 disabled:opacity-40 disabled:cursor-not-allowed transition-all shadow-soft"
       >
-        Los geht's →
+        Los geht’s →
       </button>
     </div>
   )
 
   if (phase === 'swipe') {
-    const remaining = Math.min(MAX_CARDS, deck.length) - cardIndex
     const progress = (cardIndex / Math.min(MAX_CARDS, deck.length)) * 100
 
     return (
@@ -181,8 +195,12 @@ export default function SwipeApp() {
       <div className="text-5xl animate-bounce">✨</div>
       <h2 className="text-xl font-bold text-baby-mint-500">Wir suchen deinen Vers…</h2>
       <div className="flex flex-wrap gap-2 justify-center">
-        {yesVotes.map(v => (
-          <span key={v.id} className="text-sm px-3 py-1 bg-baby-mint-50 border border-baby-mint-200 rounded-full text-baby-mint-600 font-semibold">
+        {yesVotes.map((v, i) => (
+          <span
+            key={v.id}
+            className="swipe-reveal-chip text-sm px-3 py-1 bg-baby-mint-50 border border-baby-mint-200 rounded-full text-baby-mint-600 font-semibold"
+            style={{ animationDelay: `${i * 80}ms`, opacity: 0 }}
+          >
             {v.icon} {v.word}
           </span>
         ))}
