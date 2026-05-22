@@ -1,88 +1,74 @@
-import { useState, useEffect } from 'react'
-import FilterPanel from './components/FilterPanel'
-import SearchBar from './components/SearchBar'
-import VerseList from './components/VerseList'
-import FavoritesDrawer from './components/FavoritesDrawer'
+import { useState } from 'react'
 import { TranslationProvider } from './context/TranslationContext'
-import { useFavorites } from './hooks/useFavorites'
-import { useDebounce } from './hooks/useDebounce'
-import { useSemanticSearch } from './hooks/useSemanticSearch'
+import { InterviewProvider, useInterview } from './context/InterviewContext'
+import ProgressBar from './components/interview/ProgressBar'
+import WelcomeStep from './components/interview/WelcomeStep'
+import OrientationStep from './components/interview/OrientationStep'
+import TraitsStep from './components/interview/TraitsStep'
+import SearchStep from './components/interview/SearchStep'
+import ResultStep from './components/interview/ResultStep'
+import ShareStep from './components/interview/ShareStep'
+import FavoritesDrawer from './components/FavoritesDrawer'
 import verses from '../data/verses.json'
 
-export default function App() {
-  const [filters, setFilters] = useState({ categories: [], traits: [] })
-  const [query, setQuery] = useState('')
+function InterviewApp() {
+  const { step, favorites, toggleFavorite } = useInterview()
   const [favOpen, setFavOpen] = useState(false)
-  const [semanticMode, setSemanticMode] = useState(false)
-  const { favorites, toggleFavorite, isFavorite } = useFavorites()
-  const { results: semanticIds, loading: semanticLoading, available: apiAvailable, searchSemantic, clearResults } = useSemanticSearch()
 
-  const debouncedQuery = useDebounce(query, 500)
-
-  useEffect(() => {
-    if (semanticMode && debouncedQuery.trim()) {
-      searchSemantic(debouncedQuery)
-    } else {
-      clearResults()
-    }
-  }, [semanticMode, debouncedQuery, searchSemantic, clearResults])
+  const StepComponent = [null, WelcomeStep, OrientationStep, TraitsStep, SearchStep, ResultStep, ShareStep][step]
 
   return (
-    <TranslationProvider>
-      <div className="min-h-screen bg-forest-50">
-        <header className="bg-forest-700 text-white px-4 py-4 shadow-md">
-          <div className="max-w-2xl mx-auto flex items-center justify-between">
-            <h1 className="text-xl font-serif font-semibold">Taufspruch Finder</h1>
-            <button
-              onClick={() => setFavOpen(true)}
-              aria-label={`Favoriten öffnen (${favorites.length})`}
-              className="relative p-2 rounded-full hover:bg-forest-600 transition-colors"
-            >
-              <span className="text-xl">♥</span>
-              {favorites.length > 0 && (
-                <span className="absolute -top-1 -right-1 bg-amber-400 text-forest-900 text-xs w-5 h-5 rounded-full flex items-center justify-center font-bold">
-                  {favorites.length}
-                </span>
-              )}
-            </button>
+    <>
+      <header className="bg-gradient-to-r from-baby-mint-400 to-baby-lavender-300 text-white px-4 py-4 shadow-soft no-print">
+        <div className="max-w-2xl mx-auto flex items-center justify-between">
+          <div>
+            <h1 className="text-xl font-bold font-sans">🕯️ Taufspruch-Finder</h1>
+            <p className="text-xs text-white/70">Den richtigen Vers für euer Kind</p>
           </div>
-        </header>
-
-        <main className="max-w-2xl mx-auto px-4 py-6 space-y-6">
-          <FilterPanel filters={filters} onChange={setFilters} />
-          <div className="space-y-2">
-            <SearchBar value={query} onChange={setQuery} />
-            {apiAvailable && (
-              <label className="flex items-center gap-2 text-xs text-gray-500 cursor-pointer select-none">
-                <input
-                  type="checkbox"
-                  checked={semanticMode}
-                  onChange={(e) => setSemanticMode(e.target.checked)}
-                  className="accent-forest-600"
-                />
-                KI-Suche aktivieren (semantisch, nicht nur Stichwort)
-                {semanticLoading && <span className="text-forest-500 animate-pulse">…</span>}
-              </label>
+          <button
+            onClick={() => setFavOpen(true)}
+            aria-label={`Favoriten öffnen (${favorites.length})`}
+            className="relative p-2 rounded-full hover:bg-white/20 transition-colors"
+          >
+            <span className="text-xl">♥</span>
+            {favorites.length > 0 && (
+              <span className="absolute -top-1 -right-1 bg-baby-rose-300 text-white text-xs w-5 h-5 rounded-full flex items-center justify-center font-bold">
+                {favorites.length}
+              </span>
             )}
-          </div>
-          <VerseList
-            verses={verses}
-            filters={filters}
-            query={semanticMode ? '' : query}
-            semanticIds={semanticMode ? semanticIds : null}
-            isFavorite={isFavorite}
-            onToggleFavorite={toggleFavorite}
-          />
-        </main>
+          </button>
+        </div>
+      </header>
 
-        <FavoritesDrawer
-          open={favOpen}
-          onClose={() => setFavOpen(false)}
-          favorites={favorites}
-          allVerses={verses}
-          onToggleFavorite={toggleFavorite}
-        />
-      </div>
+      {step > 1 && (
+        <div className="max-w-2xl mx-auto px-4 pt-4 no-print">
+          <ProgressBar />
+        </div>
+      )}
+
+      <main className="max-w-2xl mx-auto px-4 py-6">
+        {StepComponent && <StepComponent />}
+      </main>
+
+      <FavoritesDrawer
+        open={favOpen}
+        onClose={() => setFavOpen(false)}
+        favorites={favorites}
+        allVerses={verses}
+        onToggleFavorite={toggleFavorite}
+      />
+    </>
+  )
+}
+
+export default function App() {
+  return (
+    <TranslationProvider>
+      <InterviewProvider>
+        <div className="min-h-screen">
+          <InterviewApp />
+        </div>
+      </InterviewProvider>
     </TranslationProvider>
   )
 }

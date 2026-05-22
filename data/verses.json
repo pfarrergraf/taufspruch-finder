@@ -9,9 +9,21 @@
       "gute_nachricht": "Gott hat die Menschen so sehr geliebt, dass er seinen einzigen Sohn für sie hergab. Jeder, der an ihn glaubt, wird nicht zugrunde gehen, sondern ewig leben.",
       "elberfelder": "Denn so hat Gott die Welt geliebt, dass er seinen einziggeborenen Sohn gab, damit jeder, der an ihn glaubt, nicht verloren geht, sondern ewiges Leben hat."
     },
-    "categories": ["von-guten-maechten-geborgen"],
-    "traits": ["froehlich-dankbar", "vertrauend"],
-    "keywords": ["Liebe", "Gott", "Sohn", "Glaube", "ewiges Leben"]
+    "categories": [
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "froehlich-dankbar",
+      "vertrauend"
+    ],
+    "keywords": [
+      "Liebe",
+      "Gott",
+      "Sohn",
+      "Glaube",
+      "ewiges Leben"
+    ],
+    "tooltip": "Gottes Liebe ist keine Belohnung — sie ist der Ausgangspunkt. Dieser Vers lädt ein, das Kind als bedingungslos geliebt zu verstehen, noch bevor es irgendwas geleistet hat."
   },
   {
     "id": "ps-23-1",
@@ -23,9 +35,21 @@
       "gute_nachricht": "Der HERR ist mein Hirte, ich habe alles, was ich brauche.",
       "elberfelder": "Der HERR ist mein Hirte, mir wird nichts fehlen."
     },
-    "categories": ["von-guten-maechten-geborgen"],
-    "traits": ["vertrauend", "froehlich-dankbar"],
-    "keywords": ["Hirte", "HERR", "Fürsorge", "Geborgenheit", "Vertrauen"]
+    "categories": [
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "vertrauend",
+      "froehlich-dankbar"
+    ],
+    "keywords": [
+      "Hirte",
+      "HERR",
+      "Fürsorge",
+      "Geborgenheit",
+      "Vertrauen"
+    ],
+    "tooltip": "Der bekannteste Vers der Bibel beginnt mit einer Beziehung: Der HERR ist mein Hirte. Das Kind gehört diesem Hirten — und wer ihm gehört, dem wird nichts fehlen."
   },
   {
     "id": "jer-29-11",
@@ -37,9 +61,22 @@
       "gute_nachricht": "Ich allein weiß, was ich mit euch vorhabe – Heil und nicht Unheil will ich euch bringen. Ich will euch eine Zukunft und eine Hoffnung geben. Das ist mein Beschluss.",
       "elberfelder": "Denn ich kenne die Gedanken, die ich über euch hege, spricht der HERR: Gedanken des Friedens und nicht des Unheils, um euch eine Zukunft und eine Hoffnung zu geben."
     },
-    "categories": ["von-guten-maechten-geborgen", "mutig"],
-    "traits": ["vertrauend", "mutig"],
-    "keywords": ["Zukunft", "Hoffnung", "Frieden", "Gottes Plan", "Fürsorge"]
+    "categories": [
+      "von-guten-maechten-geborgen",
+      "auf-festem-fundament"
+    ],
+    "traits": [
+      "vertrauend",
+      "mutig"
+    ],
+    "keywords": [
+      "Zukunft",
+      "Hoffnung",
+      "Frieden",
+      "Gottes Plan",
+      "Fürsorge"
+    ],
+    "tooltip": "Gott hat Pläne für dieses Kind — Pläne des Friedens, nicht des Leides. Dieser Vers ist ein Versprechen: Was auch immer kommt, Gott hat eine gute Zukunft im Sinn."
   },
   {
     "id": "jes-43-1",
@@ -51,9 +88,21 @@
       "gute_nachricht": "Hab keine Angst! Ich habe dich befreit, ich habe dich bei deinem Namen gerufen – du gehörst mir!",
       "elberfelder": "Fürchte dich nicht, denn ich habe dich erlöst; ich habe dich bei deinem Namen gerufen; du bist mein!"
     },
-    "categories": ["von-guten-maechten-geborgen"],
-    "traits": ["mutig", "vertrauend"],
-    "keywords": ["Name", "Erlösung", "Zugehörigkeit", "Furcht", "Geborgenheit"]
+    "categories": [
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "mutig",
+      "vertrauend"
+    ],
+    "keywords": [
+      "Name",
+      "Erlösung",
+      "Zugehörigkeit",
+      "Furcht",
+      "Geborgenheit"
+    ],
+    "tooltip": "Gott ruft das Kind bei seinem Namen — es ist sein Eigentum. Bei der Taufe wird der Name des Kindes ausgesprochen: Du gehörst mir, ich kenne dich, du bist mein."
   },
   {
     "id": "roem-8-28",
@@ -65,9 +114,22 @@
       "gute_nachricht": "Wir wissen: Denen, die Gott lieben, lässt er alles zum Guten dienen – denen, die er nach seinem Plan berufen hat.",
       "elberfelder": "Wir wissen aber, dass denen, die Gott lieben, alle Dinge zum Guten mitwirken, denen, die nach Vorsatz berufen sind."
     },
-    "categories": ["von-guten-maechten-geborgen", "verantwortungsvoll"],
-    "traits": ["vertrauend", "mutig"],
-    "keywords": ["Gottes Wille", "Vertrauen", "Berufung", "Liebe", "Fürsorge"]
+    "categories": [
+      "von-guten-maechten-geborgen",
+      "einen-unterschied-machen"
+    ],
+    "traits": [
+      "vertrauend",
+      "mutig"
+    ],
+    "keywords": [
+      "Gottes Wille",
+      "Vertrauen",
+      "Berufung",
+      "Liebe",
+      "Fürsorge"
+    ],
+    "tooltip": "Nicht alles, was geschieht, ist gut — aber Gott kann aus allem Gutes wirken. Dieser Vers gibt dem Kind ein Fundament: Gott hält alles in seinen Händen und wendet es zum Guten."
   },
   {
     "id": "phil-4-7",
@@ -79,9 +141,22 @@
       "gute_nachricht": "Dann wird der Friede Gottes, der alles menschliche Verstehen übersteigt, eure Herzen und Gedanken in der Gemeinschaft mit Christus Jesus bewahren.",
       "elberfelder": "Und der Friede Gottes, der allen Verstand übersteigt, wird eure Herzen und eure Gedanken in Christus Jesus bewahren."
     },
-    "categories": ["von-guten-maechten-geborgen", "mit-sich-anderen-im-reinen"],
-    "traits": ["vertrauend", "froehlich-dankbar"],
-    "keywords": ["Friede", "Herz", "Bewahrung", "Christus", "Verstand"]
+    "categories": [
+      "von-guten-maechten-geborgen",
+      "mit-sich-anderen-im-reinen"
+    ],
+    "traits": [
+      "vertrauend",
+      "froehlich-dankbar"
+    ],
+    "keywords": [
+      "Friede",
+      "Herz",
+      "Bewahrung",
+      "Christus",
+      "Verstand"
+    ],
+    "tooltip": "Der Friede Gottes übersteigt jeden Verstand — er ist kein menschlicher Zustand, sondern ein Geschenk. Das Kind darf in diesem Frieden aufwachsen, der Herz und Sinn bewahrt."
   },
   {
     "id": "ps-139-14",
@@ -93,9 +168,21 @@
       "gute_nachricht": "Ich danke dir, dass du mich so wunderbar und einzigartig geschaffen hast. Was du tust, ist wunderbar – das weiß ich genau.",
       "elberfelder": "Ich preise dich dafür, dass ich auf erstaunliche Weise wunderbar gemacht bin; wunderbar sind deine Werke, meine Seele weiß es sehr wohl."
     },
-    "categories": ["froehlich-dankbar"],
-    "traits": ["froehlich-dankbar", "vertrauend"],
-    "keywords": ["Dankbarkeit", "Schöpfung", "Wunder", "Einzigartigkeit", "Lob"]
+    "categories": [
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "froehlich-dankbar",
+      "vertrauend"
+    ],
+    "keywords": [
+      "Dankbarkeit",
+      "Schöpfung",
+      "Wunder",
+      "Einzigartigkeit",
+      "Lob"
+    ],
+    "tooltip": "Dieses Kind ist wunderbar gemacht — nicht trotz seiner Einzigartigkeit, sondern genau deshalb. Gott freut sich über sein Werk: über genau dieses Kind, so wie es ist."
   },
   {
     "id": "ps-121-2",
@@ -107,9 +194,21 @@
       "gute_nachricht": "Meine Hilfe kommt von Gott, dem Herrn, der Himmel und Erde gemacht hat.",
       "elberfelder": "Meine Hilfe kommt von dem HERRN, dem Schöpfer des Himmels und der Erde."
     },
-    "categories": ["von-guten-maechten-geborgen"],
-    "traits": ["vertrauend", "mutig"],
-    "keywords": ["Hilfe", "HERR", "Schöpfer", "Schutz", "Vertrauen"]
+    "categories": [
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "vertrauend",
+      "mutig"
+    ],
+    "keywords": [
+      "Hilfe",
+      "HERR",
+      "Schöpfer",
+      "Schutz",
+      "Vertrauen"
+    ],
+    "tooltip": "Woher kommt Hilfe? Die Antwort ist klar: vom Schöpfer selbst. Das Kind darf aufblicken — zu den Bergen und durch sie hindurch zu dem, der sie gemacht hat."
   },
   {
     "id": "matt-28-20",
@@ -121,9 +220,22 @@
       "gute_nachricht": "Und ich bin jeden Tag bei euch, bis zum Ende der Welt.",
       "elberfelder": "Und siehe, ich bin bei euch alle Tage bis zur Vollendung des Zeitalters."
     },
-    "categories": ["von-guten-maechten-geborgen", "verantwortungsvoll"],
-    "traits": ["vertrauend", "mutig"],
-    "keywords": ["Gegenwart", "Christus", "Begleitung", "Trost", "Treue"]
+    "categories": [
+      "von-guten-maechten-geborgen",
+      "einen-unterschied-machen"
+    ],
+    "traits": [
+      "vertrauend",
+      "mutig"
+    ],
+    "keywords": [
+      "Gegenwart",
+      "Christus",
+      "Begleitung",
+      "Trost",
+      "Treue"
+    ],
+    "tooltip": "Die letzten Worte Jesu im Matthäusevangelium sind ein Versprechen: Ich bin bei euch, jeden Tag. Das Kind geht ins Leben — und Jesus geht mit, bis ans Ende der Welt."
   },
   {
     "id": "joh-10-10",
@@ -135,9 +247,21 @@
       "gute_nachricht": "Ich bin gekommen, damit die Menschen das Leben in seiner Fülle haben.",
       "elberfelder": "Ich bin gekommen, damit sie Leben haben und es im Überfluss haben."
     },
-    "categories": ["froehlich-dankbar", "von-guten-maechten-geborgen"],
-    "traits": ["froehlich-dankbar", "vertrauend"],
-    "keywords": ["Leben", "Fülle", "Christus", "Freude", "Verheißung"]
+    "categories": [
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "froehlich-dankbar",
+      "vertrauend"
+    ],
+    "keywords": [
+      "Leben",
+      "Fülle",
+      "Christus",
+      "Freude",
+      "Verheißung"
+    ],
+    "tooltip": "Jesus verspricht nicht nur Leben, sondern Leben in Fülle — überströmend, reich, ganz. Das Kind darf ein solches Leben entdecken: mehr als genug, in jeder Hinsicht."
   },
   {
     "id": "roem-8-38-39",
@@ -149,9 +273,21 @@
       "gute_nachricht": "Ich bin ganz sicher: Weder Tod noch Leben, weder Engel noch übernatürliche Mächte, weder Gegenwart noch Zukunft, weder himmlische noch irdische Kräfte, ja nichts in der ganzen Schöpfung kann uns von der Liebe Gottes trennen, die er uns in Christus Jesus, unserem Herrn, geschenkt hat.",
       "elberfelder": "Denn ich bin überzeugt, dass weder Tod noch Leben, weder Engel noch Fürstentümer, weder Gegenwärtiges noch Zukünftiges noch Mächte, weder Höhe noch Tiefe noch irgendein anderes Geschöpf uns zu trennen vermag von der Liebe Gottes, die in Christus Jesus ist, unserem Herrn."
     },
-    "categories": ["von-guten-maechten-geborgen"],
-    "traits": ["vertrauend", "mutig"],
-    "keywords": ["Liebe Gottes", "Trennung", "Gewissheit", "Christus", "Unvergänglichkeit"]
+    "categories": [
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "vertrauend",
+      "mutig"
+    ],
+    "keywords": [
+      "Liebe Gottes",
+      "Trennung",
+      "Gewissheit",
+      "Christus",
+      "Unvergänglichkeit"
+    ],
+    "tooltip": "Nichts in der Welt kann dieses Kind von Gottes Liebe trennen — kein Tod, kein Leben, keine Macht. Das ist nicht Wunschdenken, sondern Gewissheit, die trägt."
   },
   {
     "id": "eph-2-10",
@@ -163,9 +299,21 @@
       "gute_nachricht": "Denn Gott hat uns geschaffen – in der Gemeinschaft mit Christus Jesus. Er hat uns dazu bestimmt, Gutes zu tun, wie er es von Anfang an für uns vorgesehen hat.",
       "elberfelder": "Denn wir sind sein Werk, in Christus Jesus geschaffen zu guten Werken, die Gott zuvor bereitet hat, damit wir in ihnen wandeln sollen."
     },
-    "categories": ["einen-unterschied-machen", "verantwortungsvoll"],
-    "traits": ["verantwortungsvoll", "froehlich-dankbar"],
-    "keywords": ["Werk Gottes", "gute Werke", "Berufung", "Schöpfung", "Bestimmung"]
+    "categories": [
+      "einen-unterschied-machen"
+    ],
+    "traits": [
+      "verantwortungsvoll",
+      "froehlich-dankbar"
+    ],
+    "keywords": [
+      "Werk Gottes",
+      "gute Werke",
+      "Berufung",
+      "Schöpfung",
+      "Bestimmung"
+    ],
+    "tooltip": "Wir sind Gottes Werk — erschaffen für gute Taten, die er schon vorbereitet hat. Das Kind muss seinen Weg nicht selbst erfinden; Gott hat ihn bereits angedacht."
   },
   {
     "id": "1petr-3-9",
@@ -177,9 +325,21 @@
       "gute_nachricht": "Vergelt Böses nicht mit Bösem und Beleidigung nicht mit Beleidigung! Gebt lieber Segen – dazu seid ihr berufen, damit ihr Segen empfangt.",
       "elberfelder": "Vergeltet nicht Böses mit Bösem noch Schmähung mit Schmähung, sondern segnet vielmehr, da ihr ja dazu berufen seid, damit ihr Segen erbt."
     },
-    "categories": ["mit-sich-anderen-im-reinen"],
-    "traits": ["verantwortungsvoll", "mutig"],
-    "keywords": ["Segen", "Vergeltung", "Berufung", "Friede", "Versöhnung"]
+    "categories": [
+      "mit-sich-anderen-im-reinen"
+    ],
+    "traits": [
+      "verantwortungsvoll",
+      "mutig"
+    ],
+    "keywords": [
+      "Segen",
+      "Vergeltung",
+      "Berufung",
+      "Friede",
+      "Versöhnung"
+    ],
+    "tooltip": "Das Böse nicht mit Bösem vergelten — das ist radikal. Das Kind ist berufen, den Kreislauf der Vergeltung zu durchbrechen und stattdessen Segen zu sein."
   },
   {
     "id": "matt-5-14",
@@ -191,9 +351,21 @@
       "gute_nachricht": "Ihr seid das Licht der Welt. Eine Stadt, die auf einem Berg liegt, kann man nicht verstecken.",
       "elberfelder": "Ihr seid das Licht der Welt. Eine Stadt, die oben auf einem Berg liegt, kann nicht verborgen bleiben."
     },
-    "categories": ["einen-unterschied-machen"],
-    "traits": ["verantwortungsvoll", "mutig"],
-    "keywords": ["Licht", "Welt", "Zeugnis", "Sichtbarkeit", "Berufung"]
+    "categories": [
+      "einen-unterschied-machen"
+    ],
+    "traits": [
+      "verantwortungsvoll",
+      "mutig"
+    ],
+    "keywords": [
+      "Licht",
+      "Welt",
+      "Zeugnis",
+      "Sichtbarkeit",
+      "Berufung"
+    ],
+    "tooltip": "Eine Stadt auf dem Berg kann sich nicht verstecken — und das soll sie auch nicht. Das Kind ist eingeladen, sein Licht leuchten zu lassen, sichtbar und mutig."
   },
   {
     "id": "matt-5-13",
@@ -205,9 +377,21 @@
       "gute_nachricht": "Ihr seid das Salz der Welt.",
       "elberfelder": "Ihr seid das Salz der Erde."
     },
-    "categories": ["einen-unterschied-machen"],
-    "traits": ["verantwortungsvoll", "mutig"],
-    "keywords": ["Salz", "Erde", "Zeugnis", "Berufung", "Wirkung"]
+    "categories": [
+      "einen-unterschied-machen"
+    ],
+    "traits": [
+      "verantwortungsvoll",
+      "mutig"
+    ],
+    "keywords": [
+      "Salz",
+      "Erde",
+      "Zeugnis",
+      "Berufung",
+      "Wirkung"
+    ],
+    "tooltip": "Salz verändert alles, was es berührt — dezent, aber wirksam. Das Kind muss nicht laut sein, um einen Unterschied zu machen; seine bloße Gegenwart kann die Welt würzen."
   },
   {
     "id": "gal-5-22",
@@ -219,9 +403,22 @@
       "gute_nachricht": "Der Heilige Geist aber bringt in unserem Leben folgende Früchte hervor: Liebe, Freude und Frieden, Geduld, Freundlichkeit und Güte, Treue, Sanftmut und Selbstbeherrschung.",
       "elberfelder": "Die Frucht des Geistes aber ist: Liebe, Freude, Friede, Langmut, Freundlichkeit, Güte, Treue, Sanftmut, Enthaltsamkeit."
     },
-    "categories": ["mit-sich-anderen-im-reinen", "froehlich-dankbar"],
-    "traits": ["froehlich-dankbar", "verantwortungsvoll"],
-    "keywords": ["Geist", "Früchte", "Liebe", "Freude", "Friede"]
+    "categories": [
+      "mit-sich-anderen-im-reinen",
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "froehlich-dankbar",
+      "verantwortungsvoll"
+    ],
+    "keywords": [
+      "Geist",
+      "Früchte",
+      "Liebe",
+      "Freude",
+      "Friede"
+    ],
+    "tooltip": "Die Früchte des Geistes sind kein Leistungsprogramm — sie wachsen. Das Kind empfängt den Heiligen Geist und darf erleben, wie Liebe, Freude und Friede in ihm aufgehen."
   },
   {
     "id": "1kor-13-13",
@@ -233,9 +430,21 @@
       "gute_nachricht": "Drei Dinge haben Bestand: Glaube, Hoffnung und Liebe. Aber die Größte von ihnen ist die Liebe.",
       "elberfelder": "Nun aber bleiben Glaube, Hoffnung, Liebe, diese drei; die größte aber von diesen ist die Liebe."
     },
-    "categories": ["mit-sich-anderen-im-reinen"],
-    "traits": ["froehlich-dankbar", "verantwortungsvoll"],
-    "keywords": ["Liebe", "Glaube", "Hoffnung", "Bestand", "Größe"]
+    "categories": [
+      "mit-sich-anderen-im-reinen"
+    ],
+    "traits": [
+      "froehlich-dankbar",
+      "verantwortungsvoll"
+    ],
+    "keywords": [
+      "Liebe",
+      "Glaube",
+      "Hoffnung",
+      "Bestand",
+      "Größe"
+    ],
+    "tooltip": "Von allem, was bleibt, ist die Liebe das Größte. Das Kind kommt in eine Welt, die viel verlieren und vergessen wird — aber die Liebe bleibt."
   },
   {
     "id": "jes-40-31",
@@ -247,9 +456,22 @@
       "gute_nachricht": "Wer aber auf den HERRN hofft, gewinnt neue Kraft. Solche Menschen erheben sich mit Flügeln wie Adler, laufen und werden nicht müde, gehen und werden nicht matt.",
       "elberfelder": "Doch die auf den HERRN harren, schöpfen neue Kraft; sie erheben die Schwingen wie Adler, laufen und werden nicht müde, wandern und werden nicht matt."
     },
-    "categories": ["mutig", "von-guten-maechten-geborgen"],
-    "traits": ["mutig", "vertrauend"],
-    "keywords": ["Kraft", "Hoffnung", "Adler", "Stärke", "Ausdauer"]
+    "categories": [
+      "auf-festem-fundament",
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "mutig",
+      "vertrauend"
+    ],
+    "keywords": [
+      "Kraft",
+      "Hoffnung",
+      "Adler",
+      "Stärke",
+      "Ausdauer"
+    ],
+    "tooltip": "Wer auf Gott hofft, bekommt neue Kraft — nicht wer es versucht, sondern wer wartet und hofft. Das Kind darf lernen: Schwachwerden ist der Anfang von Gottes Stärke."
   },
   {
     "id": "jos-1-9",
@@ -261,9 +483,21 @@
       "gute_nachricht": "Denk daran, was ich dir aufgetragen habe: Sei stark und mutig! Hab keine Angst und lass dich nicht entmutigen! Denn der HERR, dein Gott, ist bei dir in allem, was du tust.",
       "elberfelder": "Habe ich dir nicht geboten: Sei stark und mutig? Erschrick nicht und fürchte dich nicht, denn der HERR, dein Gott, ist mit dir überall, wohin du gehst."
     },
-    "categories": ["mutig"],
-    "traits": ["mutig", "vertrauend"],
-    "keywords": ["Mut", "Stärke", "Furcht", "Gottes Gegenwart", "Durchhalten"]
+    "categories": [
+      "auf-festem-fundament"
+    ],
+    "traits": [
+      "mutig",
+      "vertrauend"
+    ],
+    "keywords": [
+      "Mut",
+      "Stärke",
+      "Furcht",
+      "Gottes Gegenwart",
+      "Durchhalten"
+    ],
+    "tooltip": "Mut ist nicht die Abwesenheit von Angst — es ist die Entscheidung, trotz Angst zu gehen, weil Gott mitgeht. Das Kind darf stark sein, weil es nicht alleine ist."
   },
   {
     "id": "ps-46-2",
@@ -275,9 +509,22 @@
       "gute_nachricht": "Gott ist unsere Zuflucht und Stärke, als Helfer in der Not hat er sich stets bewährt.",
       "elberfelder": "Gott ist unsere Zuflucht und Stärke, als Hilfe in Nöten hat er sich sehr bewährt."
     },
-    "categories": ["von-guten-maechten-geborgen", "mutig"],
-    "traits": ["vertrauend", "mutig"],
-    "keywords": ["Zuversicht", "Stärke", "Hilfe", "Schutz", "Not"]
+    "categories": [
+      "von-guten-maechten-geborgen",
+      "auf-festem-fundament"
+    ],
+    "traits": [
+      "vertrauend",
+      "mutig"
+    ],
+    "keywords": [
+      "Zuversicht",
+      "Stärke",
+      "Hilfe",
+      "Schutz",
+      "Not"
+    ],
+    "tooltip": "Gott bewährt sich gerade in der Not — das ist keine Theorie, das ist Erfahrung. Das Kind wächst mit einem Gott auf, der in der Krise Zuflucht und Stärke ist."
   },
   {
     "id": "ps-91-4",
@@ -289,9 +536,21 @@
       "gute_nachricht": "Er beschützt dich unter seinen Flügeln und birgt dich in seinem Gefieder.",
       "elberfelder": "Mit seinen Fittichen bedeckt er dich, und unter seinen Flügeln findest du Zuflucht."
     },
-    "categories": ["von-guten-maechten-geborgen"],
-    "traits": ["vertrauend", "froehlich-dankbar"],
-    "keywords": ["Schutz", "Flügel", "Geborgenheit", "Zuflucht", "Fürsorge"]
+    "categories": [
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "vertrauend",
+      "froehlich-dankbar"
+    ],
+    "keywords": [
+      "Schutz",
+      "Flügel",
+      "Geborgenheit",
+      "Zuflucht",
+      "Fürsorge"
+    ],
+    "tooltip": "Unter Gottes Flügeln — das Bild vereint Kraft und Zärtlichkeit. Das Kind findet Zuflucht, so wie ein Küken unter den Flügeln der Henne: warm, sicher, gehalten."
   },
   {
     "id": "ps-27-1",
@@ -303,9 +562,22 @@
       "gute_nachricht": "Der HERR ist mein Licht und meine Rettung – wen sollte ich fürchten? Der HERR ist die Kraft meines Lebens – vor wem sollte mir bangen?",
       "elberfelder": "Der HERR ist mein Licht und meine Rettung; vor wem sollte ich mich fürchten? Der HERR ist die Stärke meines Lebens; vor wem sollte mir bange sein?"
     },
-    "categories": ["mutig", "von-guten-maechten-geborgen"],
-    "traits": ["mutig", "vertrauend"],
-    "keywords": ["Licht", "Heil", "Furcht", "Kraft", "Stärke"]
+    "categories": [
+      "auf-festem-fundament",
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "mutig",
+      "vertrauend"
+    ],
+    "keywords": [
+      "Licht",
+      "Heil",
+      "Furcht",
+      "Kraft",
+      "Stärke"
+    ],
+    "tooltip": "Licht, Heil und Kraft — das Kind braucht keinen Schutz aus Angst, sondern aus Stärke. Gott selbst ist das Licht, das jeden Schatten vertreibt."
   },
   {
     "id": "joh-1-12",
@@ -317,9 +589,21 @@
       "gute_nachricht": "Allen aber, die ihn annahmen und an ihn glaubten, gab er das Recht, Kinder Gottes zu werden.",
       "elberfelder": "Aber allen, die ihn aufnahmen, gab er das Recht, Kinder Gottes zu werden, denen, die an seinen Namen glauben."
     },
-    "categories": ["von-guten-maechten-geborgen", "froehlich-dankbar"],
-    "traits": ["froehlich-dankbar", "vertrauend"],
-    "keywords": ["Kinder Gottes", "Glaube", "Aufnahme", "Name", "Recht"]
+    "categories": [
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "froehlich-dankbar",
+      "vertrauend"
+    ],
+    "keywords": [
+      "Kinder Gottes",
+      "Glaube",
+      "Aufnahme",
+      "Name",
+      "Recht"
+    ],
+    "tooltip": "Wer Christus aufnimmt, wird Gottes Kind — das ist keine Metapher, das ist Status. Das Kind erhält bei der Taufe das Recht, Kind Gottes zu heißen: unveräußerlich und beständig."
   },
   {
     "id": "1joh-4-16",
@@ -331,9 +615,21 @@
       "gute_nachricht": "Gott ist Liebe, und wer in der Liebe lebt, der lebt in Gott und Gott in ihm.",
       "elberfelder": "Gott ist Liebe, und wer in der Liebe bleibt, bleibt in Gott, und Gott bleibt in ihm."
     },
-    "categories": ["mit-sich-anderen-im-reinen"],
-    "traits": ["froehlich-dankbar", "vertrauend"],
-    "keywords": ["Liebe", "Gott", "Bleiben", "Gemeinschaft", "Verbundenheit"]
+    "categories": [
+      "mit-sich-anderen-im-reinen"
+    ],
+    "traits": [
+      "froehlich-dankbar",
+      "vertrauend"
+    ],
+    "keywords": [
+      "Liebe",
+      "Gott",
+      "Bleiben",
+      "Gemeinschaft",
+      "Verbundenheit"
+    ],
+    "tooltip": "Gott ist Liebe — und wer in der Liebe bleibt, bleibt in Gott. Das Kind wird geliebt, lernt zu lieben und bleibt dadurch in Gemeinschaft mit dem Gott der Liebe."
   },
   {
     "id": "matt-5-9",
@@ -345,9 +641,22 @@
       "gute_nachricht": "Glücklich, die Frieden stiften: Gott wird sie seine Kinder nennen.",
       "elberfelder": "Glückselig die Friedensstifter, denn sie werden Söhne Gottes genannt werden."
     },
-    "categories": ["mit-sich-anderen-im-reinen", "einen-unterschied-machen"],
-    "traits": ["verantwortungsvoll", "froehlich-dankbar"],
-    "keywords": ["Frieden", "Selig", "Kinder Gottes", "Versöhnung", "Gemeinschaft"]
+    "categories": [
+      "mit-sich-anderen-im-reinen",
+      "einen-unterschied-machen"
+    ],
+    "traits": [
+      "verantwortungsvoll",
+      "froehlich-dankbar"
+    ],
+    "keywords": [
+      "Frieden",
+      "Selig",
+      "Kinder Gottes",
+      "Versöhnung",
+      "Gemeinschaft"
+    ],
+    "tooltip": "Friedenstifter werden Kinder Gottes genannt — nicht Friedenswahrer, sondern aktive Stifter. Das Kind ist eingeladen, Brücken zu bauen und Wege der Versöhnung zu gehen."
   },
   {
     "id": "spr-3-5-6",
@@ -359,9 +668,21 @@
       "gute_nachricht": "Vertrau dem HERRN mit ganzem Herzen, verlass dich nicht auf deine eigene Einsicht. Halte dich immer an ihn, dann wird er dir den richtigen Weg zeigen.",
       "elberfelder": "Vertrau auf den HERRN von ganzem Herzen und stütz dich nicht auf deinen Verstand; erkenne ihn auf allen deinen Wegen, so wird er deine Pfade ebnen."
     },
-    "categories": ["von-guten-maechten-geborgen"],
-    "traits": ["vertrauend", "mutig"],
-    "keywords": ["Vertrauen", "HERR", "Führung", "Weg", "Herz"]
+    "categories": [
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "vertrauend",
+      "mutig"
+    ],
+    "keywords": [
+      "Vertrauen",
+      "HERR",
+      "Führung",
+      "Weg",
+      "Herz"
+    ],
+    "tooltip": "Nicht auf eigene Klugheit vertrauen, sondern auf Gott — das ist keine Schwäche, sondern Weisheit. Das Kind darf lernen, dass der sicherste Weg der ist, den Gott zeigt."
   },
   {
     "id": "ps-36-6",
@@ -373,9 +694,21 @@
       "gute_nachricht": "HERR, deine Güte reicht so weit wie der Himmel, deine Treue bis zu den Wolken.",
       "elberfelder": "HERR, bis in die Himmel reicht deine Gnade, deine Treue bis zu den Wolken."
     },
-    "categories": ["froehlich-dankbar", "von-guten-maechten-geborgen"],
-    "traits": ["froehlich-dankbar", "vertrauend"],
-    "keywords": ["Güte", "Treue", "Himmel", "Lob", "Größe Gottes"]
+    "categories": [
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "froehlich-dankbar",
+      "vertrauend"
+    ],
+    "keywords": [
+      "Güte",
+      "Treue",
+      "Himmel",
+      "Lob",
+      "Größe Gottes"
+    ],
+    "tooltip": "Gottes Güte reicht so weit wie der Himmel — sie hat kein Ende. Das Kind lebt in einer Güte, die größer ist als alles, was wir messen oder begreifen können."
   },
   {
     "id": "joh-15-9",
@@ -387,9 +720,22 @@
       "gute_nachricht": "Wie der Vater mich geliebt hat, so habe ich euch geliebt. Bleibt in meiner Liebe!",
       "elberfelder": "Wie der Vater mich geliebt hat, habe auch ich euch geliebt; bleibt in meiner Liebe!"
     },
-    "categories": ["mit-sich-anderen-im-reinen", "von-guten-maechten-geborgen"],
-    "traits": ["froehlich-dankbar", "vertrauend"],
-    "keywords": ["Liebe", "Bleiben", "Vater", "Christus", "Gemeinschaft"]
+    "categories": [
+      "mit-sich-anderen-im-reinen",
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "froehlich-dankbar",
+      "vertrauend"
+    ],
+    "keywords": [
+      "Liebe",
+      "Bleiben",
+      "Vater",
+      "Christus",
+      "Gemeinschaft"
+    ],
+    "tooltip": "Christus lädt ein, in seiner Liebe zu bleiben — nicht zu durchlaufen, sondern zu wohnen. Das Kind darf sein ganzes Leben in dieser Liebe verweilen, immer tiefer hineingehen."
   },
   {
     "id": "eph-3-17",
@@ -401,9 +747,22 @@
       "gute_nachricht": "Er soll durch euren Glauben in euren Herzen zu Hause sein. Dann werdet ihr in Liebe verwurzelt und gegründet sein.",
       "elberfelder": "damit Christus durch den Glauben in euren Herzen wohnt – in der Liebe gewurzelt und gegründet."
     },
-    "categories": ["von-guten-maechten-geborgen", "mit-sich-anderen-im-reinen"],
-    "traits": ["vertrauend", "froehlich-dankbar"],
-    "keywords": ["Christus", "Herz", "Liebe", "Wurzel", "Fundament"]
+    "categories": [
+      "von-guten-maechten-geborgen",
+      "mit-sich-anderen-im-reinen"
+    ],
+    "traits": [
+      "vertrauend",
+      "froehlich-dankbar"
+    ],
+    "keywords": [
+      "Christus",
+      "Herz",
+      "Liebe",
+      "Wurzel",
+      "Fundament"
+    ],
+    "tooltip": "Verwurzelt und gegründet in der Liebe — das Bild verbindet Baum und Haus. Das Kind darf tief wurzeln in Gottes Liebe und dadurch fest stehen, was auch wehen mag."
   },
   {
     "id": "ps-8-2",
@@ -415,9 +774,21 @@
       "gute_nachricht": "HERR, unser Gott, dein Name ist Ruhm und Herrlichkeit auf der ganzen Erde!",
       "elberfelder": "HERR, unser Herr, wie herrlich ist dein Name auf der ganzen Erde! Du hast deine Majestät über die Himmel erhoben."
     },
-    "categories": ["froehlich-dankbar"],
-    "traits": ["froehlich-dankbar", "vertrauend"],
-    "keywords": ["Lob", "Name Gottes", "Herrlichkeit", "Schöpfung", "Ehrfurcht"]
+    "categories": [
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "froehlich-dankbar",
+      "vertrauend"
+    ],
+    "keywords": [
+      "Lob",
+      "Name Gottes",
+      "Herrlichkeit",
+      "Schöpfung",
+      "Ehrfurcht"
+    ],
+    "tooltip": "Aus dem Mund von Kindern und Säuglingen kommt Lob — Psalm 8 sagt das ausdrücklich. Dieses Kind lobt Gott allein durch seine Existenz. Das ist Theologie von unten."
   },
   {
     "id": "ps-100-3",
@@ -429,9 +800,21 @@
       "gute_nachricht": "Bedenkt: Der HERR ist Gott! Er hat uns geschaffen, wir gehören ihm, wir sind sein Volk und die Herde auf seiner Weide.",
       "elberfelder": "Erkennet, dass der HERR Gott ist! Er hat uns gemacht, und sein sind wir, sein Volk und die Schafe seiner Weide."
     },
-    "categories": ["froehlich-dankbar"],
-    "traits": ["froehlich-dankbar", "vertrauend"],
-    "keywords": ["Lob", "Schöpfung", "Zugehörigkeit", "Volk", "Herde"]
+    "categories": [
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "froehlich-dankbar",
+      "vertrauend"
+    ],
+    "keywords": [
+      "Lob",
+      "Schöpfung",
+      "Zugehörigkeit",
+      "Volk",
+      "Herde"
+    ],
+    "tooltip": "Wir haben uns nicht selbst gemacht — wir gehören Gott. Das Kind kommt mit leeren Händen und bekommt sofort alles: Zugehörigkeit, Würde, eine Gemeinschaft."
   },
   {
     "id": "roem-15-13",
@@ -443,9 +826,21 @@
       "gute_nachricht": "Gott aber, der uns Hoffnung gibt, erfülle euch durch euren Glauben mit aller Freude und mit Frieden, damit ihr immer reicher werdet an Hoffnung durch die Kraft des Heiligen Geistes.",
       "elberfelder": "Der Gott der Hoffnung aber erfülle euch mit aller Freude und mit Frieden im Glauben, sodass ihr überströmt in der Hoffnung durch die Kraft des Heiligen Geistes."
     },
-    "categories": ["froehlich-dankbar", "von-guten-maechten-geborgen"],
-    "traits": ["froehlich-dankbar", "vertrauend"],
-    "keywords": ["Hoffnung", "Freude", "Frieden", "Glaube", "Heiliger Geist"]
+    "categories": [
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "froehlich-dankbar",
+      "vertrauend"
+    ],
+    "keywords": [
+      "Hoffnung",
+      "Freude",
+      "Frieden",
+      "Glaube",
+      "Heiliger Geist"
+    ],
+    "tooltip": "Der Gott der Hoffnung füllt mit Freude und Frieden — das ist sein Charakter. Das Kind wächst mit einem Gott auf, dessen Wesen Hoffnung ist und der diese Hoffnung verschenkt."
   },
   {
     "id": "phil-4-4",
@@ -457,9 +852,21 @@
       "gute_nachricht": "Freut euch im Herrn zu jeder Zeit! Nochmals sage ich: Freut euch!",
       "elberfelder": "Freut euch im Herrn allezeit! Wiederum werde ich sagen: Freut euch!"
     },
-    "categories": ["froehlich-dankbar"],
-    "traits": ["froehlich-dankbar", "vertrauend"],
-    "keywords": ["Freude", "Herr", "Jubel", "Beständigkeit", "Lob"]
+    "categories": [
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "froehlich-dankbar",
+      "vertrauend"
+    ],
+    "keywords": [
+      "Freude",
+      "Herr",
+      "Jubel",
+      "Beständigkeit",
+      "Lob"
+    ],
+    "tooltip": "Freude im Herrn zu jeder Zeit — das ist eine Entscheidung, keine Stimmung. Das Kind lernt: Freude ist tiefer als Glück, sie kommt von Innen und bleibt, wenn das Glück geht."
   },
   {
     "id": "matt-22-37-39",
@@ -471,9 +878,22 @@
       "gute_nachricht": "Liebe Gott, deinen Herrn, mit deinem ganzen Herzen, mit deiner ganzen Seele und mit deinem ganzen Verstand! Das andere Gebot ist genauso wichtig: Liebe deinen Mitmenschen wie dich selbst!",
       "elberfelder": "Du sollst den Herrn, deinen Gott, lieben von deinem ganzen Herzen und mit deiner ganzen Seele und mit deinem ganzen Denken. Das zweite ist ihm ähnlich: Du sollst deinen Nächsten lieben wie dich selbst."
     },
-    "categories": ["mit-sich-anderen-im-reinen", "einen-unterschied-machen"],
-    "traits": ["verantwortungsvoll", "froehlich-dankbar"],
-    "keywords": ["Liebe", "Gott", "Nächster", "Herz", "Gebot"]
+    "categories": [
+      "mit-sich-anderen-im-reinen",
+      "einen-unterschied-machen"
+    ],
+    "traits": [
+      "verantwortungsvoll",
+      "froehlich-dankbar"
+    ],
+    "keywords": [
+      "Liebe",
+      "Gott",
+      "Nächster",
+      "Herz",
+      "Gebot"
+    ],
+    "tooltip": "Alles hängt an der Liebe — zu Gott und zum Nächsten. Das Kind wächst mit diesem doppelten Kompass auf: nach oben zu Gott und nach außen zu den Menschen."
   },
   {
     "id": "eph-4-32",
@@ -485,9 +905,21 @@
       "gute_nachricht": "Seid gütig zueinander, habt ein offenes Herz füreinander und vergebt einander – so wie Gott euch durch Christus vergeben hat.",
       "elberfelder": "Seid aber gütig gegeneinander, mitleidig, einander vergebend, so wie auch Gott euch in Christus vergeben hat."
     },
-    "categories": ["mit-sich-anderen-im-reinen"],
-    "traits": ["verantwortungsvoll", "froehlich-dankbar"],
-    "keywords": ["Vergebung", "Güte", "Freundlichkeit", "Gemeinschaft", "Christus"]
+    "categories": [
+      "mit-sich-anderen-im-reinen"
+    ],
+    "traits": [
+      "verantwortungsvoll",
+      "froehlich-dankbar"
+    ],
+    "keywords": [
+      "Vergebung",
+      "Güte",
+      "Freundlichkeit",
+      "Gemeinschaft",
+      "Christus"
+    ],
+    "tooltip": "Güte und Vergebung sind keine Zufälle — sie sind eine Haltung, die geübt werden kann. Das Kind darf in einer Familie und Gemeinde aufwachsen, in der Vergebung gelebt wird."
   },
   {
     "id": "kol-3-14",
@@ -499,9 +931,21 @@
       "gute_nachricht": "Vor allem aber liebt einander! Die Liebe hält alles zusammen und macht es vollkommen.",
       "elberfelder": "Über alles diesem aber die Liebe, die das Band der Vollkommenheit ist."
     },
-    "categories": ["mit-sich-anderen-im-reinen"],
-    "traits": ["verantwortungsvoll", "froehlich-dankbar"],
-    "keywords": ["Liebe", "Band", "Vollkommenheit", "Gemeinschaft", "Zusammenhalt"]
+    "categories": [
+      "mit-sich-anderen-im-reinen"
+    ],
+    "traits": [
+      "verantwortungsvoll",
+      "froehlich-dankbar"
+    ],
+    "keywords": [
+      "Liebe",
+      "Band",
+      "Vollkommenheit",
+      "Gemeinschaft",
+      "Zusammenhalt"
+    ],
+    "tooltip": "Die Liebe hält alles zusammen — sie ist das unsichtbare Band, das aus vielen Einzelnen eine Gemeinschaft macht. Das Kind tritt in diese Gemeinschaft ein, gebunden durch Liebe."
   },
   {
     "id": "1petr-4-10",
@@ -513,9 +957,21 @@
       "gute_nachricht": "Jeder von euch hat von Gott besondere Gaben empfangen. Stellt diese Gaben in den Dienst der Gemeinschaft, wie es Gottes vielfältige Gnade verlangt.",
       "elberfelder": "Dient einander, jeder mit der Gnadengabe, die er empfangen hat, als gute Haushalter der vielfältigen Gnade Gottes."
     },
-    "categories": ["verantwortungsvoll", "einen-unterschied-machen"],
-    "traits": ["verantwortungsvoll", "froehlich-dankbar"],
-    "keywords": ["Gabe", "Dienst", "Gemeinschaft", "Gnade", "Fähigkeiten"]
+    "categories": [
+      "einen-unterschied-machen"
+    ],
+    "traits": [
+      "verantwortungsvoll",
+      "froehlich-dankbar"
+    ],
+    "keywords": [
+      "Gabe",
+      "Dienst",
+      "Gemeinschaft",
+      "Gnade",
+      "Fähigkeiten"
+    ],
+    "tooltip": "Jeder hat eine Gabe empfangen — und jede Gabe ist für andere da. Das Kind bringt schon bei der Taufe etwas mit, das die Welt braucht: einzigartiges Potential für den Dienst an anderen."
   },
   {
     "id": "mich-6-8",
@@ -527,9 +983,21 @@
       "gute_nachricht": "Es ist dir ja gesagt worden, Mensch, was gut ist und was Gott von dir erwartet: Recht tue, Güte liebe und bescheiden gehe mit deinem Gott.",
       "elberfelder": "Es ist dir bekannt gemacht worden, Mensch, was gut ist und was der HERR von dir fordert: nichts als Recht tun, Güte lieben und demütig wandeln mit deinem Gott."
     },
-    "categories": ["verantwortungsvoll", "einen-unterschied-machen"],
-    "traits": ["verantwortungsvoll", "mutig"],
-    "keywords": ["Gerechtigkeit", "Güte", "Demut", "Gott", "Forderung"]
+    "categories": [
+      "einen-unterschied-machen"
+    ],
+    "traits": [
+      "verantwortungsvoll",
+      "mutig"
+    ],
+    "keywords": [
+      "Gerechtigkeit",
+      "Güte",
+      "Demut",
+      "Gott",
+      "Forderung"
+    ],
+    "tooltip": "Recht tun, Güte lieben, demütig gehen — das ist in drei Sätzen das ganze Programm. Das Kind muss keine komplizierte Religion lernen, sondern diese drei Grundbewegungen."
   },
   {
     "id": "jes-58-7",
@@ -541,9 +1009,21 @@
       "gute_nachricht": "Teile dein Brot mit dem Hungernden, nimm die armen Obdachlosen in dein Haus auf. Wenn du einen nackten Menschen siehst, kleide ihn.",
       "elberfelder": "Teile dein Brot mit dem Hungernden, und die elenden Heimatlosen bringe ins Haus! Wenn du einen Nackten siehst, bekleide ihn."
     },
-    "categories": ["einen-unterschied-machen", "verantwortungsvoll"],
-    "traits": ["verantwortungsvoll", "mutig"],
-    "keywords": ["Nächstenliebe", "Hilfe", "Hunger", "Fürsorge", "Gerechtigkeit"]
+    "categories": [
+      "einen-unterschied-machen"
+    ],
+    "traits": [
+      "verantwortungsvoll",
+      "mutig"
+    ],
+    "keywords": [
+      "Nächstenliebe",
+      "Hilfe",
+      "Hunger",
+      "Fürsorge",
+      "Gerechtigkeit"
+    ],
+    "tooltip": "Glaube ohne Tat ist leer — Jesaja zeigt, was echter Glaube tut: teilen, öffnen, einladen. Das Kind wächst in eine Gemeinschaft hinein, die das Brot teilt."
   },
   {
     "id": "luk-4-18",
@@ -555,9 +1035,21 @@
       "gute_nachricht": "Der Geist des Herrn ruht auf mir, denn er hat mich gesalbt. Er hat mich gesandt, den Armen die Gute Nachricht zu bringen, Gefangenen die Freiheit anzukündigen.",
       "elberfelder": "Der Geist des Herrn ist auf mir, weil er mich gesalbt hat, Armen das Evangelium zu verkündigen; er hat mich gesandt, Gefangenen Freiheit zu predigen."
     },
-    "categories": ["einen-unterschied-machen"],
-    "traits": ["verantwortungsvoll", "mutig"],
-    "keywords": ["Geist", "Sendung", "Arme", "Evangelium", "Freiheit"]
+    "categories": [
+      "einen-unterschied-machen"
+    ],
+    "traits": [
+      "verantwortungsvoll",
+      "mutig"
+    ],
+    "keywords": [
+      "Geist",
+      "Sendung",
+      "Arme",
+      "Evangelium",
+      "Freiheit"
+    ],
+    "tooltip": "Jesus liest diesen Text in Nazareth und sagt: Heute ist diese Schrift erfüllt. Was er damals begann, setzt sich fort — in jedem Kind, das getauft und gesandt wird."
   },
   {
     "id": "ps-103-13",
@@ -569,9 +1061,21 @@
       "gute_nachricht": "Wie ein Vater sich seiner Kinder erbarmt, so erbarmt sich der HERR derer, die ihn ehren.",
       "elberfelder": "Wie ein Vater sich über die Kinder erbarmt, erbarmt sich der HERR über die, die ihn fürchten."
     },
-    "categories": ["von-guten-maechten-geborgen"],
-    "traits": ["vertrauend", "froehlich-dankbar"],
-    "keywords": ["Erbarmen", "Vater", "Kinder", "Güte", "Fürsorge"]
+    "categories": [
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "vertrauend",
+      "froehlich-dankbar"
+    ],
+    "keywords": [
+      "Erbarmen",
+      "Vater",
+      "Kinder",
+      "Güte",
+      "Fürsorge"
+    ],
+    "tooltip": "Wie ein Vater sich über Kinder erbarmt — das ist das Bild für Gottes Liebe. Das Kind darf spüren: Gott hat ein Vatersherz, das sich um sein Kind sorgt und erbarmt."
   },
   {
     "id": "jes-49-15-16",
@@ -583,9 +1087,21 @@
       "gute_nachricht": "Kann eine Mutter ihr kleines Kind vergessen? Kann es sein, dass sie kein Mitgefühl hat für das Kind, das sie geboren hat? Selbst wenn eine Mutter ihr Kind vergessen sollte – ich vergesse dich nicht! Sieh, in meine Hände habe ich dich eingezeichnet.",
       "elberfelder": "Kann denn eine Frau ihr Kleinkind vergessen, dass sie sich nicht über den Sohn ihres Mutterleibes erbarmt? Auch wenn diese vergäßen, ich vergesse dich nicht. Sieh, auf meine Hände habe ich dich gezeichnet."
     },
-    "categories": ["von-guten-maechten-geborgen"],
-    "traits": ["vertrauend", "froehlich-dankbar"],
-    "keywords": ["Mutter", "Vergessen", "Liebe", "Hände", "Geborgenheit"]
+    "categories": [
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "vertrauend",
+      "froehlich-dankbar"
+    ],
+    "keywords": [
+      "Mutter",
+      "Vergessen",
+      "Liebe",
+      "Hände",
+      "Geborgenheit"
+    ],
+    "tooltip": "Selbst wenn eine Mutter ihr Kind vergessen könnte — Gott vergisst nicht. Das Kind ist in Gottes Hände eingezeichnet: kein Moment wird vergessen, kein Name verloren."
   },
   {
     "id": "2tim-1-7",
@@ -597,9 +1113,21 @@
       "gute_nachricht": "Denn Gott hat uns nicht einen Geist gegeben, der uns ängstlich und feige macht, sondern einen Geist, der uns Kraft, Liebe und Besonnenheit schenkt.",
       "elberfelder": "Denn Gott hat uns nicht einen Geist der Furchtsamkeit gegeben, sondern der Kraft und der Liebe und der Besonnenheit."
     },
-    "categories": ["mutig"],
-    "traits": ["mutig", "verantwortungsvoll"],
-    "keywords": ["Mut", "Geist", "Kraft", "Liebe", "Besonnenheit"]
+    "categories": [
+      "auf-festem-fundament"
+    ],
+    "traits": [
+      "mutig",
+      "verantwortungsvoll"
+    ],
+    "keywords": [
+      "Mut",
+      "Geist",
+      "Kraft",
+      "Liebe",
+      "Besonnenheit"
+    ],
+    "tooltip": "Gott hat uns keinen Geist der Angst gegeben — sondern Kraft, Liebe und Besonnenheit. Das Kind muss die Angst nicht bekämpfen, sondern den Geist entfalten, den es empfangen hat."
   },
   {
     "id": "hebr-13-8",
@@ -611,9 +1139,21 @@
       "gute_nachricht": "Jesus Christus ist derselbe gestern, heute und für alle Zeit.",
       "elberfelder": "Jesus Christus ist derselbe gestern und heute und in Ewigkeit."
     },
-    "categories": ["von-guten-maechten-geborgen"],
-    "traits": ["vertrauend", "mutig"],
-    "keywords": ["Jesus Christus", "Treue", "Unveränderlichkeit", "Ewigkeit", "Beständigkeit"]
+    "categories": [
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "vertrauend",
+      "mutig"
+    ],
+    "keywords": [
+      "Jesus Christus",
+      "Treue",
+      "Unveränderlichkeit",
+      "Ewigkeit",
+      "Beständigkeit"
+    ],
+    "tooltip": "In einer Welt des Wandels ist Christus der unveränderliche Anker. Das Kind darf sich darauf verlassen: Was gestern galt, gilt heute noch und gilt morgen — dieser Jesus bleibt."
   },
   {
     "id": "ps-34-9",
@@ -625,9 +1165,21 @@
       "gute_nachricht": "Schmeckt und seht, wie gütig der HERR ist! Glücklich, wer ihm vertraut.",
       "elberfelder": "Kostet und seht, dass der HERR gütig ist! Glückselig der Mann, der bei ihm Zuflucht sucht!"
     },
-    "categories": ["froehlich-dankbar", "von-guten-maechten-geborgen"],
-    "traits": ["froehlich-dankbar", "vertrauend"],
-    "keywords": ["Güte", "Freundlichkeit", "Vertrauen", "Freude", "Segen"]
+    "categories": [
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "froehlich-dankbar",
+      "vertrauend"
+    ],
+    "keywords": [
+      "Güte",
+      "Freundlichkeit",
+      "Vertrauen",
+      "Freude",
+      "Segen"
+    ],
+    "tooltip": "Schmecken und sehen, wie freundlich der HERR ist — Glaube ist kein abstraktes Konzept, sondern eine Erfahrung. Das Kind darf im Leben immer wieder den guten Geschmack Gottes entdecken."
   },
   {
     "id": "joh-8-12",
@@ -639,9 +1191,22 @@
       "gute_nachricht": "Jesus wandte sich wieder an sie und sagte: Ich bin das Licht der Welt. Wer mir nachfolgt, wird nicht in der Dunkelheit umherirren, sondern das Licht des Lebens haben.",
       "elberfelder": "Da redete Jesus wieder zu ihnen und sprach: Ich bin das Licht der Welt; wer mir nachfolgt, wird nicht in der Finsternis wandeln, sondern wird das Licht des Lebens haben."
     },
-    "categories": ["einen-unterschied-machen", "von-guten-maechten-geborgen"],
-    "traits": ["mutig", "vertrauend"],
-    "keywords": ["Licht", "Nachfolge", "Finsternis", "Leben", "Christus"]
+    "categories": [
+      "einen-unterschied-machen",
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "mutig",
+      "vertrauend"
+    ],
+    "keywords": [
+      "Licht",
+      "Nachfolge",
+      "Finsternis",
+      "Leben",
+      "Christus"
+    ],
+    "tooltip": "Christus ist das Licht der Welt — und wer ihm folgt, braucht nicht im Dunkeln tappen. Das Kind erhält beim Taufgottesdienst oft eine Kerze: ein Symbol für dieses Licht."
   },
   {
     "id": "roem-5-5",
@@ -653,9 +1218,21 @@
       "gute_nachricht": "Diese Hoffnung enttäuscht uns nicht, denn Gott hat seine Liebe durch den Heiligen Geist, den er uns geschenkt hat, in unsere Herzen gegossen.",
       "elberfelder": "Die Hoffnung aber macht nicht zuschanden, weil die Liebe Gottes in unsere Herzen ausgegossen worden ist durch den Heiligen Geist, der uns gegeben worden ist."
     },
-    "categories": ["von-guten-maechten-geborgen", "froehlich-dankbar"],
-    "traits": ["vertrauend", "froehlich-dankbar"],
-    "keywords": ["Hoffnung", "Liebe Gottes", "Heiliger Geist", "Herz", "Enttäuschung"]
+    "categories": [
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "vertrauend",
+      "froehlich-dankbar"
+    ],
+    "keywords": [
+      "Hoffnung",
+      "Liebe Gottes",
+      "Heiliger Geist",
+      "Herz",
+      "Enttäuschung"
+    ],
+    "tooltip": "Hoffnung, die nicht beschämt — das ist seltener Reichtum. Gottes Liebe ist durch den Heiligen Geist in unser Herz gegossen: nicht als Idee, sondern als lebendige Kraft."
   },
   {
     "id": "ps-16-11",
@@ -667,9 +1244,21 @@
       "gute_nachricht": "Du zeigst mir den Weg des Lebens. Bei dir ist Freude in Fülle, Glück und Heil für immer und ewig.",
       "elberfelder": "Du lässt mich den Weg des Lebens kennen; Freudenfülle ist vor deinem Angesicht, liebliche Dinge in deiner Rechten für immer."
     },
-    "categories": ["froehlich-dankbar", "von-guten-maechten-geborgen"],
-    "traits": ["froehlich-dankbar", "vertrauend"],
-    "keywords": ["Leben", "Freude", "Weg", "Fülle", "Wonne"]
+    "categories": [
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "froehlich-dankbar",
+      "vertrauend"
+    ],
+    "keywords": [
+      "Leben",
+      "Freude",
+      "Weg",
+      "Fülle",
+      "Wonne"
+    ],
+    "tooltip": "Gott zeigt den Weg des Lebens — und vor seinem Angesicht ist Freude in Fülle. Das Kind tritt auf einen Weg, der ins Licht führt: immer mehr Freude, immer mehr Leben."
   },
   {
     "id": "1kor-2-9",
@@ -681,9 +1270,21 @@
       "gute_nachricht": "Was kein Auge gesehen und kein Ohr gehört hat, was keinem Menschen in den Sinn gekommen ist – das hat Gott denen bereitet, die ihn lieben.",
       "elberfelder": "Was kein Auge gesehen und kein Ohr gehört hat und in keines Menschen Herz aufgestiegen ist, was Gott denen bereitet hat, die ihn lieben."
     },
-    "categories": ["froehlich-dankbar", "von-guten-maechten-geborgen"],
-    "traits": ["froehlich-dankbar", "vertrauend"],
-    "keywords": ["Gottes Verheißung", "Liebe", "Herrlichkeit", "Zukunft", "Überraschung"]
+    "categories": [
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "froehlich-dankbar",
+      "vertrauend"
+    ],
+    "keywords": [
+      "Gottes Verheißung",
+      "Liebe",
+      "Herrlichkeit",
+      "Zukunft",
+      "Überraschung"
+    ],
+    "tooltip": "Kein Auge hat gesehen, was Gott bereitet hat — das Leben dieses Kindes enthält Überraschungen, die kein Mensch erahnen kann. Gott ist größer als jeder Plan."
   },
   {
     "id": "eph-1-4",
@@ -695,9 +1296,21 @@
       "gute_nachricht": "Denn er hat uns schon vor der Erschaffung der Welt in Christus auserwählt, damit wir ihm gehören und vor ihm ein heiliges und untadeliges Leben führen.",
       "elberfelder": "wie er uns in ihm auserwählt hat vor Grundlegung der Welt, damit wir heilig und tadellos vor ihm seien in Liebe."
     },
-    "categories": ["von-guten-maechten-geborgen"],
-    "traits": ["froehlich-dankbar", "vertrauend"],
-    "keywords": ["Erwählung", "Heiligkeit", "Liebe", "Gott", "Bestimmung"]
+    "categories": [
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "froehlich-dankbar",
+      "vertrauend"
+    ],
+    "keywords": [
+      "Erwählung",
+      "Heiligkeit",
+      "Liebe",
+      "Gott",
+      "Bestimmung"
+    ],
+    "tooltip": "Vor der Erschaffung der Welt auserwählt — das Kind war schon in Gottes Herz, bevor die Eltern es je erträumten. Diese Erwählung ist das tiefste Fundament von Würde."
   },
   {
     "id": "ps-62-2",
@@ -709,9 +1322,21 @@
       "gute_nachricht": "Ich vertraue auf Gott und schweige still; bei ihm ist meine Rettung.",
       "elberfelder": "Nur bei Gott ist meine Seele still; von ihm kommt meine Rettung."
     },
-    "categories": ["von-guten-maechten-geborgen"],
-    "traits": ["vertrauend", "mutig"],
-    "keywords": ["Stille", "Vertrauen", "Seele", "Hilfe", "Ruhe"]
+    "categories": [
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "vertrauend",
+      "mutig"
+    ],
+    "keywords": [
+      "Stille",
+      "Vertrauen",
+      "Seele",
+      "Hilfe",
+      "Ruhe"
+    ],
+    "tooltip": "Stille Seele bei Gott — in einer lauten Welt ist das kostbar. Das Kind darf lernen, inne zu halten und zu spüren: Gott ist nah, in der Stille besonders."
   },
   {
     "id": "matt-11-28",
@@ -723,9 +1348,22 @@
       "gute_nachricht": "Kommt alle zu mir, die ihr euch abmüht und die ihr schwere Lasten tragt! Ich werde euch Erholung und Erquickung geben.",
       "elberfelder": "Kommt her zu mir, alle ihr Mühseligen und Beladenen, und ich werde euch Ruhe geben."
     },
-    "categories": ["von-guten-maechten-geborgen", "mutig"],
-    "traits": ["vertrauend", "mutig"],
-    "keywords": ["Ruhe", "Erquickung", "Einladung", "Last", "Erholung"]
+    "categories": [
+      "von-guten-maechten-geborgen",
+      "auf-festem-fundament"
+    ],
+    "traits": [
+      "vertrauend",
+      "mutig"
+    ],
+    "keywords": [
+      "Ruhe",
+      "Erquickung",
+      "Einladung",
+      "Last",
+      "Erholung"
+    ],
+    "tooltip": "Kommt her zu mir — eine Einladung, keine Forderung. Jesus lädt ein, die Lasten abzulegen. Das Kind kommt schon bei der Taufe zu ihm: mit leeren Händen, und findet Ruhe."
   },
   {
     "id": "jes-41-10",
@@ -737,9 +1375,22 @@
       "gute_nachricht": "Hab keine Angst, ich bin bei dir! Lass dich nicht entmutigen, ich bin dein Gott! Ich gebe dir Kraft und helfe dir, ich halte dich mit meiner starken Hand.",
       "elberfelder": "Fürchte dich nicht, denn ich bin mit dir; sieh dich nicht ängstlich um, denn ich bin dein Gott. Ich stärke dich, ja, ich helfe dir, ja, ich halte dich aufrecht mit meiner rechten Hand der Gerechtigkeit."
     },
-    "categories": ["mutig", "von-guten-maechten-geborgen"],
-    "traits": ["mutig", "vertrauend"],
-    "keywords": ["Mut", "Furcht", "Gott", "Stärke", "Hilfe"]
+    "categories": [
+      "auf-festem-fundament",
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "mutig",
+      "vertrauend"
+    ],
+    "keywords": [
+      "Mut",
+      "Furcht",
+      "Gott",
+      "Stärke",
+      "Hilfe"
+    ],
+    "tooltip": "Zweimal sagt Gott hier: Ich bin mit dir. Dreimal sagt er: Fürchte dich nicht. Dieses Kind ist nie allein — Gott geht mit, stärkt und hält die rechte Hand."
   },
   {
     "id": "1petr-5-7",
@@ -751,9 +1402,22 @@
       "gute_nachricht": "Werft alle eure Sorgen auf ihn, denn er kümmert sich um euch.",
       "elberfelder": "Alle eure Sorge werfet auf ihn, denn er trägt Sorge für euch."
     },
-    "categories": ["von-guten-maechten-geborgen", "verantwortungsvoll"],
-    "traits": ["vertrauend", "mutig"],
-    "keywords": ["Sorge", "Fürsorge", "Gott", "Vertrauen", "Geborgenheit"]
+    "categories": [
+      "von-guten-maechten-geborgen",
+      "einen-unterschied-machen"
+    ],
+    "traits": [
+      "vertrauend",
+      "mutig"
+    ],
+    "keywords": [
+      "Sorge",
+      "Fürsorge",
+      "Gott",
+      "Vertrauen",
+      "Geborgenheit"
+    ],
+    "tooltip": "Alle Sorgen auf Gott werfen — das klingt einfach und ist tiefe Spiritualität. Das Kind muss seine Lasten nicht alleine tragen: Es gibt einen Gott, dem es nicht zu viel ist."
   },
   {
     "id": "phil-4-13",
@@ -765,9 +1429,21 @@
       "gute_nachricht": "Alles ist möglich für mich durch Christus, der mir Kraft gibt.",
       "elberfelder": "Alles vermag ich durch den, der mich stärkt, Christus."
     },
-    "categories": ["mutig"],
-    "traits": ["mutig", "vertrauend"],
-    "keywords": ["Kraft", "Christus", "Stärke", "Können", "Mut"]
+    "categories": [
+      "auf-festem-fundament"
+    ],
+    "traits": [
+      "mutig",
+      "vertrauend"
+    ],
+    "keywords": [
+      "Kraft",
+      "Christus",
+      "Stärke",
+      "Können",
+      "Mut"
+    ],
+    "tooltip": "Nicht die eigene Kraft, sondern die Kraft Christi — das macht den Unterschied. Das Kind muss nicht stark genug sein, es darf auf die stärkste Kraft vertrauen."
   },
   {
     "id": "ps-73-23-24",
@@ -779,9 +1455,21 @@
       "gute_nachricht": "Doch du hältst mich ständig bei der Hand, du hast mich immer dabei. Du lässt mich deinen Ratschluss erkennen, und am Ende nimmst du mich in Herrlichkeit auf.",
       "elberfelder": "Dennoch bin ich beständig bei dir; du hast meine rechte Hand ergriffen. Du leitest mich nach deinem Rat und nimmst mich danach in Herrlichkeit auf."
     },
-    "categories": ["von-guten-maechten-geborgen"],
-    "traits": ["vertrauend", "froehlich-dankbar"],
-    "keywords": ["Hand Gottes", "Führung", "Begleitung", "Rat", "Herrlichkeit"]
+    "categories": [
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "vertrauend",
+      "froehlich-dankbar"
+    ],
+    "keywords": [
+      "Hand Gottes",
+      "Führung",
+      "Begleitung",
+      "Rat",
+      "Herrlichkeit"
+    ],
+    "tooltip": "Du hältst mich bei der rechten Hand — das ist das Bild eines Kindes, das an der Hand des Vaters geht. Das Kind wird diesen Vater sein Leben lang an seiner Seite finden."
   },
   {
     "id": "joh-14-27",
@@ -793,9 +1481,22 @@
       "gute_nachricht": "Ich hinterlasse euch meinen Frieden; meinen Frieden gebe ich euch. Dieser Friede ist anderer Art, als der Friede, den die Welt geben kann. Euer Herz soll nicht ängstlich und nicht verzagt sein.",
       "elberfelder": "Frieden hinterlasse ich euch, meinen Frieden gebe ich euch; nicht wie die Welt gibt, gebe ich euch. Euer Herz erschrecke nicht, noch sei es feige."
     },
-    "categories": ["mit-sich-anderen-im-reinen", "von-guten-maechten-geborgen"],
-    "traits": ["mutig", "vertrauend"],
-    "keywords": ["Frieden", "Herz", "Furcht", "Christus", "Gabe"]
+    "categories": [
+      "mit-sich-anderen-im-reinen",
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "mutig",
+      "vertrauend"
+    ],
+    "keywords": [
+      "Frieden",
+      "Herz",
+      "Furcht",
+      "Christus",
+      "Gabe"
+    ],
+    "tooltip": "Den Frieden Jesu gibt die Welt nicht — er kommt von innen, er hält unter Druck. Das Kind erhält bei der Taufe diesen Frieden als Geschenk, das kein Sturm wegnehmen kann."
   },
   {
     "id": "kol-3-12",
@@ -807,9 +1508,21 @@
       "gute_nachricht": "Ihr seid von Gott auserwählt, von ihm geliebt und ihm geweiht. Handelt danach: Seid voll Mitgefühl und Güte, voll Bescheidenheit, Sanftmut und Geduld.",
       "elberfelder": "Zieht nun an als Auserwählte Gottes, Heilige und Geliebte, herzliches Erbarmen, Güte, Demut, Sanftmut, Langmut."
     },
-    "categories": ["mit-sich-anderen-im-reinen"],
-    "traits": ["verantwortungsvoll", "froehlich-dankbar"],
-    "keywords": ["Erbarmen", "Güte", "Demut", "Sanftmut", "Erwählung"]
+    "categories": [
+      "mit-sich-anderen-im-reinen"
+    ],
+    "traits": [
+      "verantwortungsvoll",
+      "froehlich-dankbar"
+    ],
+    "keywords": [
+      "Erbarmen",
+      "Güte",
+      "Demut",
+      "Sanftmut",
+      "Erwählung"
+    ],
+    "tooltip": "Gottes Auserwählte kleiden sich in Erbarmen, Güte und Sanftmut — das ist die Tracht der Kinder Gottes. Das Kind empfängt diese Kleider bei der Taufe und trägt sie lebenslang."
   },
   {
     "id": "jes-60-1",
@@ -821,9 +1534,22 @@
       "gute_nachricht": "Mach dich auf, werde Licht! Dein Licht kommt, die Herrlichkeit des HERRN bricht über dir an.",
       "elberfelder": "Mache dich auf, werde licht! Denn dein Licht kommt, und die Herrlichkeit des HERRN geht auf über dir."
     },
-    "categories": ["einen-unterschied-machen", "froehlich-dankbar"],
-    "traits": ["mutig", "froehlich-dankbar"],
-    "keywords": ["Licht", "Herrlichkeit", "Aufbruch", "Sendung", "Strahlen"]
+    "categories": [
+      "einen-unterschied-machen",
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "mutig",
+      "froehlich-dankbar"
+    ],
+    "keywords": [
+      "Licht",
+      "Herrlichkeit",
+      "Aufbruch",
+      "Sendung",
+      "Strahlen"
+    ],
+    "tooltip": "Steh auf, werde Licht — das ist ein Auftrag zur Auferstehung. Das Kind kommt in die Welt und bringt Licht mit; es soll nicht versteckt werden, sondern leuchten."
   },
   {
     "id": "gal-3-28",
@@ -835,9 +1561,22 @@
       "gute_nachricht": "Es gibt keine Unterschiede mehr zwischen Juden und Griechen, zwischen Sklaven und Freien, zwischen Männern und Frauen. Ihr seid alle eins in der Gemeinschaft mit Christus Jesus.",
       "elberfelder": "Da ist weder Jude noch Grieche, da ist weder Sklave noch Freier, da ist weder Mann noch Frau; denn ihr alle seid einer in Christus Jesus."
     },
-    "categories": ["mit-sich-anderen-im-reinen", "einen-unterschied-machen"],
-    "traits": ["verantwortungsvoll", "froehlich-dankbar"],
-    "keywords": ["Einheit", "Gleichheit", "Christus", "Gemeinschaft", "Versöhnung"]
+    "categories": [
+      "mit-sich-anderen-im-reinen",
+      "einen-unterschied-machen"
+    ],
+    "traits": [
+      "verantwortungsvoll",
+      "froehlich-dankbar"
+    ],
+    "keywords": [
+      "Einheit",
+      "Gleichheit",
+      "Christus",
+      "Gemeinschaft",
+      "Versöhnung"
+    ],
+    "tooltip": "In Christus gibt es keine Trennlinien mehr — Herkunft, Status und Geschlecht verlieren ihre trennende Kraft. Das Kind wird in eine Gemeinschaft getauft, die alle willkommen heißt."
   },
   {
     "id": "ps-40-2-3",
@@ -849,9 +1588,22 @@
       "gute_nachricht": "Ich wartete geduldig auf den HERRN, und er wandte sich mir zu und hörte mein Rufen. Er zog mich aus dem schlammigen Sumpf, er stellte meine Füße auf festen Fels.",
       "elberfelder": "Ich harrte, ja harrte auf den HERRN, und er neigte sich zu mir und hörte mein Schreien. Und er zog mich aus der Grube des Verderbens, aus dem Schlamm und Sumpf; er stellte meine Füße auf einen Fels."
     },
-    "categories": ["von-guten-maechten-geborgen", "mutig"],
-    "traits": ["mutig", "vertrauend"],
-    "keywords": ["Rettung", "Harren", "Fels", "Befreiung", "Gebet"]
+    "categories": [
+      "von-guten-maechten-geborgen",
+      "auf-festem-fundament"
+    ],
+    "traits": [
+      "mutig",
+      "vertrauend"
+    ],
+    "keywords": [
+      "Rettung",
+      "Harren",
+      "Fels",
+      "Befreiung",
+      "Gebet"
+    ],
+    "tooltip": "Harren auf den HERRN — manchmal dauert Rettung. Aber Gott hört das Schreien, zieht heraus aus dem Sumpf und stellt auf festen Fels. Das Kind darf harren und wird nicht enttäuscht."
   },
   {
     "id": "roem-8-14",
@@ -863,9 +1615,21 @@
       "gute_nachricht": "Denn alle, die sich vom Geist Gottes leiten lassen, sind Kinder Gottes.",
       "elberfelder": "Denn alle, die durch den Geist Gottes geleitet werden, die sind Söhne Gottes."
     },
-    "categories": ["von-guten-maechten-geborgen", "froehlich-dankbar"],
-    "traits": ["froehlich-dankbar", "vertrauend"],
-    "keywords": ["Heiliger Geist", "Kinder Gottes", "Führung", "Leitung", "Identität"]
+    "categories": [
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "froehlich-dankbar",
+      "vertrauend"
+    ],
+    "keywords": [
+      "Heiliger Geist",
+      "Kinder Gottes",
+      "Führung",
+      "Leitung",
+      "Identität"
+    ],
+    "tooltip": "Wer sich vom Geist Gottes leiten lässt, ist Gottes Kind — die Identität folgt der Führung. Das Kind empfängt bei der Taufe den Geist und damit eine neue Identität: Gottes Kind."
   },
   {
     "id": "ps-130-7",
@@ -877,9 +1641,21 @@
       "gute_nachricht": "Israel, vertraue auf den HERRN! Denn beim HERRN ist Güte und reiche Erlösung.",
       "elberfelder": "Israel, harre auf den HERRN! Denn beim HERRN ist Güte, und Erlösung in Fülle ist bei ihm."
     },
-    "categories": ["von-guten-maechten-geborgen"],
-    "traits": ["vertrauend", "mutig"],
-    "keywords": ["Hoffnung", "Erlösung", "Gnade", "Vertrauen", "HERR"]
+    "categories": [
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "vertrauend",
+      "mutig"
+    ],
+    "keywords": [
+      "Hoffnung",
+      "Erlösung",
+      "Gnade",
+      "Vertrauen",
+      "HERR"
+    ],
+    "tooltip": "Aus den Tiefen ruft der Beter — und beim HERRN ist reiche Erlösung. Das Kind darf wissen: Egal wie tief man fällt, Gott hat noch tiefere Gnade."
   },
   {
     "id": "matt-6-33",
@@ -891,9 +1667,21 @@
       "gute_nachricht": "Sucht zuerst das Reich Gottes und die Gerechtigkeit, die er fordert; dann wird Gott euch das alles geben.",
       "elberfelder": "Trachtet aber zuerst nach dem Reich Gottes und nach seiner Gerechtigkeit, und das alles wird euch hinzugefügt werden."
     },
-    "categories": ["verantwortungsvoll", "einen-unterschied-machen"],
-    "traits": ["verantwortungsvoll", "vertrauend"],
-    "keywords": ["Reich Gottes", "Gerechtigkeit", "Priorität", "Vertrauen", "Suche"]
+    "categories": [
+      "einen-unterschied-machen"
+    ],
+    "traits": [
+      "verantwortungsvoll",
+      "vertrauend"
+    ],
+    "keywords": [
+      "Reich Gottes",
+      "Gerechtigkeit",
+      "Priorität",
+      "Vertrauen",
+      "Suche"
+    ],
+    "tooltip": "Zuerst das Reich Gottes — das ist eine Lebensausrichtung, keine Aufgabenliste. Das Kind lernt: Wer zuerst nach Gott sucht, findet alles andere dazu."
   },
   {
     "id": "eph-6-10",
@@ -905,9 +1693,21 @@
       "gute_nachricht": "Und nun zum Schluss: Seid stark durch die Kraft, die der Herr euch gibt, durch seine große Macht.",
       "elberfelder": "Im übrigen: Seid stark in dem Herrn und in der Macht seiner Stärke!"
     },
-    "categories": ["mutig"],
-    "traits": ["mutig", "vertrauend"],
-    "keywords": ["Stärke", "Herr", "Kraft", "Macht", "Mut"]
+    "categories": [
+      "auf-festem-fundament"
+    ],
+    "traits": [
+      "mutig",
+      "vertrauend"
+    ],
+    "keywords": [
+      "Stärke",
+      "Herr",
+      "Kraft",
+      "Macht",
+      "Mut"
+    ],
+    "tooltip": "Stark sein in der Kraft des Herrn — nicht aus eigener Kraft, sondern aus Gottes Stärke. Das Kind muss seinen Weg nicht alleine stemmen; Gott gibt die Kraft, die nötig ist."
   },
   {
     "id": "joh-16-33",
@@ -919,9 +1719,22 @@
       "gute_nachricht": "In der Welt werdet ihr Angst haben. Aber seid mutig: Ich habe die Welt besiegt!",
       "elberfelder": "In der Welt habt ihr Drangsal; aber habt Mut! Ich habe die Welt überwunden."
     },
-    "categories": ["mutig", "von-guten-maechten-geborgen"],
-    "traits": ["mutig", "vertrauend"],
-    "keywords": ["Mut", "Überwindung", "Welt", "Angst", "Christus"]
+    "categories": [
+      "auf-festem-fundament",
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "mutig",
+      "vertrauend"
+    ],
+    "keywords": [
+      "Mut",
+      "Überwindung",
+      "Welt",
+      "Angst",
+      "Christus"
+    ],
+    "tooltip": "Christus hat die Welt überwunden — deshalb können wir Mut haben. Das Kind geht in die Welt, nicht als Besiegter, sondern als eines, das in einem Überwinder steht."
   },
   {
     "id": "1joh-3-1",
@@ -933,9 +1746,21 @@
       "gute_nachricht": "Seht doch, wie sehr uns der Vater liebt: Er nennt uns seine Kinder, und das sind wir wirklich!",
       "elberfelder": "Seht, welch eine Liebe uns der Vater gegeben hat, dass wir Kinder Gottes heißen sollen – und wir sind es!"
     },
-    "categories": ["froehlich-dankbar", "von-guten-maechten-geborgen"],
-    "traits": ["froehlich-dankbar", "vertrauend"],
-    "keywords": ["Kinder Gottes", "Vater", "Liebe", "Identität", "Dankbarkeit"]
+    "categories": [
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "froehlich-dankbar",
+      "vertrauend"
+    ],
+    "keywords": [
+      "Kinder Gottes",
+      "Vater",
+      "Liebe",
+      "Identität",
+      "Dankbarkeit"
+    ],
+    "tooltip": "Seht, welch eine Liebe — der Apostel staunt selbst. Gott nennt uns seine Kinder, nicht als Titel, sondern als Wirklichkeit. Das Kind ist es wirklich: Gottes Kind."
   },
   {
     "id": "ps-37-5",
@@ -947,9 +1772,22 @@
       "gute_nachricht": "Leg dein Leben in die Hände des HERRN, vertrau auf ihn – er wird handeln.",
       "elberfelder": "Wirf deinen Weg auf den HERRN; vertrau auf ihn, er wird es vollbringen."
     },
-    "categories": ["von-guten-maechten-geborgen", "verantwortungsvoll"],
-    "traits": ["vertrauend", "mutig"],
-    "keywords": ["Weg", "Vertrauen", "HERR", "Hoffnung", "Hingabe"]
+    "categories": [
+      "von-guten-maechten-geborgen",
+      "einen-unterschied-machen"
+    ],
+    "traits": [
+      "vertrauend",
+      "mutig"
+    ],
+    "keywords": [
+      "Weg",
+      "Vertrauen",
+      "HERR",
+      "Hoffnung",
+      "Hingabe"
+    ],
+    "tooltip": "Den Weg Gott befehlen und auf ihn hoffen — das ist die Kunst des Lebens. Das Kind darf früh lernen: Es muss nicht alles kontrollieren, nur auf den rechten Weg vertrauen."
   },
   {
     "id": "joh-14-6",
@@ -961,9 +1799,22 @@
       "gute_nachricht": "Jesus antwortete ihm: Ich bin der Weg, die Wahrheit und das Leben.",
       "elberfelder": "Jesus spricht zu ihm: Ich bin der Weg und die Wahrheit und das Leben."
     },
-    "categories": ["von-guten-maechten-geborgen", "einen-unterschied-machen"],
-    "traits": ["vertrauend", "mutig"],
-    "keywords": ["Weg", "Wahrheit", "Leben", "Christus", "Orientierung"]
+    "categories": [
+      "von-guten-maechten-geborgen",
+      "einen-unterschied-machen"
+    ],
+    "traits": [
+      "vertrauend",
+      "mutig"
+    ],
+    "keywords": [
+      "Weg",
+      "Wahrheit",
+      "Leben",
+      "Christus",
+      "Orientierung"
+    ],
+    "tooltip": "Christus ist nicht nur eine Wegbeschreibung — er ist der Weg selbst. Das Kind lernt: Der sicherste Weg durch das Leben ist der, auf dem Christus mitgeht."
   },
   {
     "id": "spr-4-18",
@@ -975,9 +1826,22 @@
       "gute_nachricht": "Der Weg der Gerechten gleicht dem Licht des frühen Morgens, das immer heller leuchtet, bis der volle Tag da ist.",
       "elberfelder": "Und der Weg der Gerechten ist wie das Licht der Morgenröte, das immer heller leuchtet, bis der Tag völlig da ist."
     },
-    "categories": ["einen-unterschied-machen", "froehlich-dankbar"],
-    "traits": ["mutig", "froehlich-dankbar"],
-    "keywords": ["Licht", "Weg", "Gerechtigkeit", "Wachstum", "Morgen"]
+    "categories": [
+      "einen-unterschied-machen",
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "mutig",
+      "froehlich-dankbar"
+    ],
+    "keywords": [
+      "Licht",
+      "Weg",
+      "Gerechtigkeit",
+      "Wachstum",
+      "Morgen"
+    ],
+    "tooltip": "Immer heller wie der Morgen — das Leben der Gerechten wächst. Das Kind fängt klein an, aber das Licht wird mehr: jeden Tag ein bisschen heller, bis der volle Tag da ist."
   },
   {
     "id": "roem-12-2",
@@ -989,9 +1853,21 @@
       "gute_nachricht": "Passt euch nicht den Maßstäben dieser Welt an! Lasst Gott euch von innen heraus verändern, damit ihr einen neuen Sinn bekommt. Dann werdet ihr beurteilen können, was Gott will.",
       "elberfelder": "Und passt euch dieser Weltzeit nicht an, sondern lasst euch verwandeln durch die Erneuerung eures Sinnes, damit ihr prüft, was der Wille Gottes ist."
     },
-    "categories": ["einen-unterschied-machen", "verantwortungsvoll"],
-    "traits": ["mutig", "verantwortungsvoll"],
-    "keywords": ["Erneuerung", "Sinn", "Gottes Wille", "Wandel", "Unterschied"]
+    "categories": [
+      "einen-unterschied-machen"
+    ],
+    "traits": [
+      "mutig",
+      "verantwortungsvoll"
+    ],
+    "keywords": [
+      "Erneuerung",
+      "Sinn",
+      "Gottes Wille",
+      "Wandel",
+      "Unterschied"
+    ],
+    "tooltip": "Nicht anpassen, sondern verwandelt werden — das ist die Alternative zum Mitläufertum. Das Kind darf anders sein, darf einen neuen Sinn entwickeln, der aus Gott kommt."
   },
   {
     "id": "ps-23-6",
@@ -1003,9 +1879,21 @@
       "gute_nachricht": "Ja, Güte und Treue werden mir das ganze Leben folgen, und ich werde im Haus des HERRN wohnen für immer und ewig.",
       "elberfelder": "Ja, Güte und Gnade werden mir folgen alle Tage meines Lebens, und ich werde im Haus des HERRN bleiben für die Länge der Tage."
     },
-    "categories": ["von-guten-maechten-geborgen", "froehlich-dankbar"],
-    "traits": ["froehlich-dankbar", "vertrauend"],
-    "keywords": ["Güte", "Barmherzigkeit", "Leben", "HERR", "Haus Gottes"]
+    "categories": [
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "froehlich-dankbar",
+      "vertrauend"
+    ],
+    "keywords": [
+      "Güte",
+      "Barmherzigkeit",
+      "Leben",
+      "HERR",
+      "Haus Gottes"
+    ],
+    "tooltip": "Güte und Barmherzigkeit folgen mir — nicht ich suche sie, sie kommen mir nach. Das Kind wird durch sein Leben von Gottes Güte begleitet, immer und überall."
   },
   {
     "id": "ps-119-105",
@@ -1017,9 +1905,21 @@
       "gute_nachricht": "Dein Wort ist eine Lampe für meinen Weg, ein Licht auf meinem Pfad.",
       "elberfelder": "Dein Wort ist eine Leuchte für meinen Fuß und ein Licht für meinen Pfad."
     },
-    "categories": ["von-guten-maechten-geborgen"],
-    "traits": ["vertrauend", "mutig"],
-    "keywords": ["Wort Gottes", "Licht", "Weg", "Leuchte", "Orientierung"]
+    "categories": [
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "vertrauend",
+      "mutig"
+    ],
+    "keywords": [
+      "Wort Gottes",
+      "Licht",
+      "Weg",
+      "Leuchte",
+      "Orientierung"
+    ],
+    "tooltip": "Gottes Wort leuchtet auf den nächsten Schritt — nicht den ganzen Weg auf einmal, nur den nächsten. Das Kind lernt: Manchmal reicht das Licht für einen Schritt."
   },
   {
     "id": "jer-1-5",
@@ -1031,9 +1931,21 @@
       "gute_nachricht": "Schon bevor ich dich im Mutterleib formte, hatte ich dich ausersehen. Noch ehe du geboren wurdest, hatte ich dich beiseitegestellt.",
       "elberfelder": "Bevor ich dich im Mutterleib bildete, habe ich dich erkannt; und bevor du aus dem Schoß deiner Mutter hervorgingest, habe ich dich geheiligt."
     },
-    "categories": ["von-guten-maechten-geborgen"],
-    "traits": ["vertrauend", "froehlich-dankbar"],
-    "keywords": ["Mutterleib", "Berufung", "Kenntnis Gottes", "Erwählung", "Heiligung"]
+    "categories": [
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "vertrauend",
+      "froehlich-dankbar"
+    ],
+    "keywords": [
+      "Mutterleib",
+      "Berufung",
+      "Kenntnis Gottes",
+      "Erwählung",
+      "Heiligung"
+    ],
+    "tooltip": "Schon im Mutterleib erkannt und berufen — kein Leben beginnt zufällig. Das Kind hat eine Berufung, die älter ist als seine Geburt: Gott hat es von Anfang an im Herzen."
   },
   {
     "id": "ps-71-5-6",
@@ -1045,9 +1957,21 @@
       "gute_nachricht": "Du bist meine Hoffnung, Herr, mein GOTT; auf dich habe ich vertraut von meiner Jugend an. Von Geburt an stütze ich mich auf dich.",
       "elberfelder": "Denn du bist meine Hoffnung, Herr HERR, meine Zuversicht von meiner Jugend an. Auf dich habe ich mich gestützt vom Mutterleib an."
     },
-    "categories": ["von-guten-maechten-geborgen"],
-    "traits": ["vertrauend", "froehlich-dankbar"],
-    "keywords": ["Hoffnung", "Jugend", "Kindheit", "Vertrauen", "Zuversicht"]
+    "categories": [
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "vertrauend",
+      "froehlich-dankbar"
+    ],
+    "keywords": [
+      "Hoffnung",
+      "Jugend",
+      "Kindheit",
+      "Vertrauen",
+      "Zuversicht"
+    ],
+    "tooltip": "Von Mutterleib an auf Gott gestützt — dieser Psalm beschreibt ein Kind, das Gott kennt, noch bevor es sprechen kann. Das Taufkind tritt in diese Tradition ein."
   },
   {
     "id": "eph-5-2",
@@ -1059,9 +1983,22 @@
       "gute_nachricht": "Ahmt Gottes Liebe nach und lebt in Liebe, so wie Christus uns geliebt und sich für uns geopfert hat.",
       "elberfelder": "Und wandelt in Liebe, wie auch der Christus uns geliebt und sich selbst für uns hingegeben hat als Opfergabe und Schlachtopfer, Gott zu einem lieblichen Duft."
     },
-    "categories": ["mit-sich-anderen-im-reinen", "einen-unterschied-machen"],
-    "traits": ["verantwortungsvoll", "froehlich-dankbar"],
-    "keywords": ["Liebe", "Nachfolge", "Christus", "Opfer", "Wandel"]
+    "categories": [
+      "mit-sich-anderen-im-reinen",
+      "einen-unterschied-machen"
+    ],
+    "traits": [
+      "verantwortungsvoll",
+      "froehlich-dankbar"
+    ],
+    "keywords": [
+      "Liebe",
+      "Nachfolge",
+      "Christus",
+      "Opfer",
+      "Wandel"
+    ],
+    "tooltip": "In Liebe wandeln, wie Christus geliebt hat — das ist der Maßstab und das Vorbild. Das Kind hat das schönste Vorbild: die selbstgebende Liebe Christi."
   },
   {
     "id": "lam-3-22-23",
@@ -1073,9 +2010,21 @@
       "gute_nachricht": "Die Güte des HERRN hat kein Ende, seine Barmherzigkeit hört nicht auf. Sie ist jeden Morgen neu.",
       "elberfelder": "Die Gnadengaben des HERRN haben kein Ende, seine Barmherzigkeiten hören nicht auf. Sie sind jeden Morgen neu."
     },
-    "categories": ["froehlich-dankbar", "von-guten-maechten-geborgen"],
-    "traits": ["froehlich-dankbar", "vertrauend"],
-    "keywords": ["Güte", "Barmherzigkeit", "Morgen", "Neu", "Treue Gottes"]
+    "categories": [
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "froehlich-dankbar",
+      "vertrauend"
+    ],
+    "keywords": [
+      "Güte",
+      "Barmherzigkeit",
+      "Morgen",
+      "Neu",
+      "Treue Gottes"
+    ],
+    "tooltip": "Jeden Morgen neu — die Güte Gottes erneuert sich täglich. Das Kind wächst in einer Welt auf, in der jeder Morgen ein Neuanfang ist und Gottes Güte nie aufgebraucht ist."
   },
   {
     "id": "roem-12-12",
@@ -1087,9 +2036,22 @@
       "gute_nachricht": "Freut euch in der Hoffnung, seid geduldig in Leid und haltet am Beten fest.",
       "elberfelder": "In der Hoffnung freudig, in der Drangsal ausharrend, im Gebet beharrlich."
     },
-    "categories": ["mutig", "froehlich-dankbar"],
-    "traits": ["mutig", "froehlich-dankbar"],
-    "keywords": ["Hoffnung", "Freude", "Geduld", "Gebet", "Ausdauer"]
+    "categories": [
+      "auf-festem-fundament",
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "mutig",
+      "froehlich-dankbar"
+    ],
+    "keywords": [
+      "Hoffnung",
+      "Freude",
+      "Geduld",
+      "Gebet",
+      "Ausdauer"
+    ],
+    "tooltip": "Fröhlich in Hoffnung, geduldig in Trübsal, beharrlich im Gebet — drei kurze Sätze, die ein ganzes Leben beschreiben. Das Kind darf in dieser Haltung aufwachsen."
   },
   {
     "id": "1kor-16-13-14",
@@ -1101,9 +2063,22 @@
       "gute_nachricht": "Seid wachsam, steht fest im Glauben, habt Mut und seid stark! Und handelt in allem mit Liebe.",
       "elberfelder": "Wacht, steht im Glauben, seid männlich, seid stark! Alles bei euch geschehe in Liebe."
     },
-    "categories": ["mutig", "mit-sich-anderen-im-reinen"],
-    "traits": ["mutig", "verantwortungsvoll"],
-    "keywords": ["Wachen", "Glaube", "Mut", "Stärke", "Liebe"]
+    "categories": [
+      "auf-festem-fundament",
+      "mit-sich-anderen-im-reinen"
+    ],
+    "traits": [
+      "mutig",
+      "verantwortungsvoll"
+    ],
+    "keywords": [
+      "Wachen",
+      "Glaube",
+      "Mut",
+      "Stärke",
+      "Liebe"
+    ],
+    "tooltip": "Wach, standhaft, mutig, stark — und alles in Liebe. Das Kind lernt: Stärke ohne Liebe ist hart, aber Liebe ohne Stärke ist hilflos. Beides gehört zusammen."
   },
   {
     "id": "ps-46-11",
@@ -1115,9 +2090,21 @@
       "gute_nachricht": "Haltet inne, und erkennt: Ich bin Gott! Ich bin erhaben über alle Völker, erhaben über die ganze Erde.",
       "elberfelder": "Lasst ab und erkennt, dass ich Gott bin! Ich bin erhaben unter den Nationen, erhaben auf Erden."
     },
-    "categories": ["von-guten-maechten-geborgen", "froehlich-dankbar"],
-    "traits": ["vertrauend", "froehlich-dankbar"],
-    "keywords": ["Stille", "Erkenntnis", "Gott", "Erhabenheit", "Ruhe"]
+    "categories": [
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "vertrauend",
+      "froehlich-dankbar"
+    ],
+    "keywords": [
+      "Stille",
+      "Erkenntnis",
+      "Gott",
+      "Erhabenheit",
+      "Ruhe"
+    ],
+    "tooltip": "Haltet inne — und erkennt, dass ich Gott bin. In der Stille liegt Erkenntnis. Das Kind darf in einer Welt des Lärms lernen, innezuhalten und Gott zu entdecken."
   },
   {
     "id": "jes-43-4",
@@ -1129,9 +2116,21 @@
       "gute_nachricht": "Weil du mir so wertvoll bist, weil ich dich in Ehren halte und dich liebe, gebe ich Völker als Lösegeld für dich, andere Nationen für dein Leben.",
       "elberfelder": "Weil du kostbar bist in meinen Augen, wertgeschätzt bist und ich dich liebe, deshalb gebe ich Menschen an deiner Statt und Völker für dein Leben."
     },
-    "categories": ["von-guten-maechten-geborgen"],
-    "traits": ["froehlich-dankbar", "vertrauend"],
-    "keywords": ["Wert", "Liebe", "Kostbarkeit", "Gottes Liebe", "Schutz"]
+    "categories": [
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "froehlich-dankbar",
+      "vertrauend"
+    ],
+    "keywords": [
+      "Wert",
+      "Liebe",
+      "Kostbarkeit",
+      "Gottes Liebe",
+      "Schutz"
+    ],
+    "tooltip": "Teuer und wertvoll in Gottes Augen — das ist kein Kompliment, das ist Realität. Das Kind ist Gott wertvoll, bevor es irgendetwas getan hat, einfach weil Gott es liebt."
   },
   {
     "id": "ps-22-10-11",
@@ -1143,9 +2142,21 @@
       "gute_nachricht": "Denn du hast mich aus dem Mutterschoß gezogen, du hast mir Zutrauen eingeflößt an der Brust meiner Mutter. Auf dich bin ich angewiesen von Geburt an, seit ich aus dem Mutterschoß kam, bist du mein Gott.",
       "elberfelder": "Denn du bist es, der mich dem Schoß entrissen hat, der mich in Sicherheit wiegte an meiner Mutter Brust. Auf dich bin ich geworfen von Mutterleib an, vom Schoß meiner Mutter an bist du mein Gott."
     },
-    "categories": ["von-guten-maechten-geborgen"],
-    "traits": ["vertrauend", "froehlich-dankbar"],
-    "keywords": ["Mutterleib", "Geburt", "Gott", "Vertrauen", "Geborgenheit"]
+    "categories": [
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "vertrauend",
+      "froehlich-dankbar"
+    ],
+    "keywords": [
+      "Mutterleib",
+      "Geburt",
+      "Gott",
+      "Vertrauen",
+      "Geborgenheit"
+    ],
+    "tooltip": "Von Geburt an auf Gott geworfen — das Kind war von seinem ersten Atemzug an in Gottes Händen. Die Taufe macht sichtbar, was schon immer war: Du bist Gottes."
   },
   {
     "id": "1thess-5-16-18",
@@ -1157,9 +2168,21 @@
       "gute_nachricht": "Freut euch zu jeder Zeit! Betet unaufhörlich! Seid dankbar in jeder Lage – denn das ist Gottes Wille für euch als Angehörige der Gemeinschaft mit Christus Jesus.",
       "elberfelder": "Freut euch allezeit! Betet ohne Unterlass! Sagt für alles Dank; denn das ist Gottes Wille für euch in Christus Jesus."
     },
-    "categories": ["froehlich-dankbar"],
-    "traits": ["froehlich-dankbar", "verantwortungsvoll"],
-    "keywords": ["Freude", "Gebet", "Dankbarkeit", "Gottes Wille", "Beständigkeit"]
+    "categories": [
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "froehlich-dankbar",
+      "verantwortungsvoll"
+    ],
+    "keywords": [
+      "Freude",
+      "Gebet",
+      "Dankbarkeit",
+      "Gottes Wille",
+      "Beständigkeit"
+    ],
+    "tooltip": "Freude, Gebet, Dankbarkeit — der dreifache Rhythmus des christlichen Lebens. Das Kind darf diesen Takt von klein auf kennenlernen: immer, in jeder Lage, ohne Ausnahme."
   },
   {
     "id": "sach-2-12",
@@ -1171,9 +2194,21 @@
       "gute_nachricht": "Denn wer euch angreift, greift Gott mitten ins Herz – wie jemand, der den Augapfel berührt.",
       "elberfelder": "Denn wer euch anrührt, rührt seinen Augapfel an."
     },
-    "categories": ["von-guten-maechten-geborgen"],
-    "traits": ["vertrauend", "mutig"],
-    "keywords": ["Schutz", "Augapfel", "Kostbarkeit", "Fürsorge", "Gottes Obhut"]
+    "categories": [
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "vertrauend",
+      "mutig"
+    ],
+    "keywords": [
+      "Schutz",
+      "Augapfel",
+      "Kostbarkeit",
+      "Fürsorge",
+      "Gottes Obhut"
+    ],
+    "tooltip": "Wer das Kind anrührt, rührt Gottes Augapfel an — das ist die stärkste Schutzaussage der Bibel. Das Kind ist so kostbar für Gott wie das empfindlichste Organ am eigenen Körper."
   },
   {
     "id": "hebr-12-1-2",
@@ -1185,9 +2220,22 @@
       "gute_nachricht": "Lasst uns auch alle Lasten abwerfen, die uns beschweren, besonders die Sünde, die uns so leicht gefangen nimmt. Und lasst uns mit Ausdauer den Lauf bestehen, der vor uns liegt! Dabei wollen wir unsere Augen auf Jesus richten.",
       "elberfelder": "Lasst uns also auch, da wir eine so große Wolke von Zeugen um uns haben, jede Last ablegen und die Sünde, die uns so leicht umstrickt, und mit Ausdauer laufen in dem Kampf, der uns vorgesetzt ist, wobei wir aufschauen zu Jesus, dem Anfänger und Vollender des Glaubens."
     },
-    "categories": ["mutig", "von-guten-maechten-geborgen"],
-    "traits": ["mutig", "vertrauend"],
-    "keywords": ["Lauf", "Jesus", "Geduld", "Ausdauer", "Glaube"]
+    "categories": [
+      "auf-festem-fundament",
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "mutig",
+      "vertrauend"
+    ],
+    "keywords": [
+      "Lauf",
+      "Jesus",
+      "Geduld",
+      "Ausdauer",
+      "Glaube"
+    ],
+    "tooltip": "Eine große Wolke von Zeugen schaut zu — alle, die vor uns gelaufen sind. Das Kind ist nicht allein; es läuft eingehüllt von einer himmlischen Gemeinschaft, die anfeuert."
   },
   {
     "id": "joh-13-34",
@@ -1199,9 +2247,22 @@
       "gute_nachricht": "Ich gebe euch ein neues Gebot: Liebt einander! Liebt einander so, wie ich euch geliebt habe.",
       "elberfelder": "Ein neues Gebot gebe ich euch, dass ihr einander liebt; wie ich euch geliebt habe, liebt auch ihr einander."
     },
-    "categories": ["mit-sich-anderen-im-reinen", "einen-unterschied-machen"],
-    "traits": ["verantwortungsvoll", "froehlich-dankbar"],
-    "keywords": ["Liebe", "Gebot", "Einander", "Christus", "Gemeinschaft"]
+    "categories": [
+      "mit-sich-anderen-im-reinen",
+      "einen-unterschied-machen"
+    ],
+    "traits": [
+      "verantwortungsvoll",
+      "froehlich-dankbar"
+    ],
+    "keywords": [
+      "Liebe",
+      "Gebot",
+      "Einander",
+      "Christus",
+      "Gemeinschaft"
+    ],
+    "tooltip": "Ein neues Gebot — Lieben wie Christus geliebt hat, das ist der neue Maßstab. Das Kind wächst in eine Gemeinschaft hinein, die von dieser revolutionären Liebe geprägt ist."
   },
   {
     "id": "2kor-12-9",
@@ -1213,9 +2274,22 @@
       "gute_nachricht": "Aber Christus antwortete mir: Meine Gnade genügt dir, denn Kraft zeigt sich erst in der Schwachheit. Daher will ich mich lieber meiner Schwächen rühmen, damit die Kraft Christi bei mir wohnt.",
       "elberfelder": "Und er hat mir gesagt: Meine Gnade genügt dir; denn die Kraft wird in der Schwachheit vollkommen. Daher will ich mich am liebsten meiner Schwachheiten rühmen, damit die Kraft des Christus auf mir wohnt."
     },
-    "categories": ["mutig", "von-guten-maechten-geborgen"],
-    "traits": ["mutig", "vertrauend"],
-    "keywords": ["Gnade", "Kraft", "Schwachheit", "Christus", "Stärke"]
+    "categories": [
+      "auf-festem-fundament",
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "mutig",
+      "vertrauend"
+    ],
+    "keywords": [
+      "Gnade",
+      "Kraft",
+      "Schwachheit",
+      "Christus",
+      "Stärke"
+    ],
+    "tooltip": "Meine Kraft wird in der Schwachheit vollkommen — das ist paradox und wahr. Das Kind darf lernen: Schwachheit zu zeigen ist nicht Versagen, sondern der Ort, wo Gottes Kraft wirkt."
   },
   {
     "id": "ps-84-12",
@@ -1227,9 +2301,21 @@
       "gute_nachricht": "Denn der HERR, unser Gott, ist wie Sonne und Schild: Er schenkt Gnade und Ruhm; er verweigert keinem das Gute, der aufrichtig lebt.",
       "elberfelder": "Denn Gott der HERR ist Sonne und Schild; Gnade und Herrlichkeit gibt der HERR; er versagt das Gute nicht denen, die in Lauterkeit wandeln."
     },
-    "categories": ["von-guten-maechten-geborgen", "froehlich-dankbar"],
-    "traits": ["froehlich-dankbar", "vertrauend"],
-    "keywords": ["Sonne", "Schild", "Gnade", "Schutz", "Güte Gottes"]
+    "categories": [
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "froehlich-dankbar",
+      "vertrauend"
+    ],
+    "keywords": [
+      "Sonne",
+      "Schild",
+      "Gnade",
+      "Schutz",
+      "Güte Gottes"
+    ],
+    "tooltip": "Sonne und Schild — Gott ist Licht und Schutz zugleich. Er wärmt und er schützt, er leuchtet und er schirmt ab. Das Kind bekommt beides: Wärme und Sicherheit."
   },
   {
     "id": "kol-2-6-7",
@@ -1241,9 +2327,22 @@
       "gute_nachricht": "Ihr habt Christus Jesus als euren Herrn angenommen. Lebt also mit ihm und in ihm, in ihm verwurzelt und auf ihm gegründet, fest und sicher im Glauben.",
       "elberfelder": "Wie ihr nun Christus Jesus, den Herrn, empfangen habt, so wandelt in ihm, in ihm verwurzelt und auferbaut und gefestigt in dem Glauben."
     },
-    "categories": ["von-guten-maechten-geborgen", "verantwortungsvoll"],
-    "traits": ["vertrauend", "verantwortungsvoll"],
-    "keywords": ["Christus", "Wurzel", "Glaube", "Festigkeit", "Leben"]
+    "categories": [
+      "von-guten-maechten-geborgen",
+      "einen-unterschied-machen"
+    ],
+    "traits": [
+      "vertrauend",
+      "verantwortungsvoll"
+    ],
+    "keywords": [
+      "Christus",
+      "Wurzel",
+      "Glaube",
+      "Festigkeit",
+      "Leben"
+    ],
+    "tooltip": "In Christus verwurzelt und auferbaut — das Bild zeigt: Glaube ist kein statischer Zustand, sondern Wachstum auf einem sicheren Fundament."
   },
   {
     "id": "roem-8-1",
@@ -1255,9 +2354,21 @@
       "gute_nachricht": "So gibt es jetzt keine Verurteilung mehr für die, die in der Gemeinschaft mit Christus Jesus leben.",
       "elberfelder": "Es gibt also jetzt keine Verdammnis für die, die in Christus Jesus sind."
     },
-    "categories": ["von-guten-maechten-geborgen", "froehlich-dankbar"],
-    "traits": ["froehlich-dankbar", "vertrauend"],
-    "keywords": ["Freiheit", "Verdammnis", "Christus", "Gnade", "Heil"]
+    "categories": [
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "froehlich-dankbar",
+      "vertrauend"
+    ],
+    "keywords": [
+      "Freiheit",
+      "Verdammnis",
+      "Christus",
+      "Gnade",
+      "Heil"
+    ],
+    "tooltip": "Keine Verdammnis für die in Christus — das ist das befreiendste Urteil der Welt. Das Kind wächst auf ohne das Gewicht der Verurteilung: freigesprochen, von Anfang an."
   },
   {
     "id": "jes-55-8-9",
@@ -1269,9 +2380,21 @@
       "gute_nachricht": "Meine Gedanken sind nicht eure Gedanken, und eure Wege sind nicht meine Wege – das ist der Beschluss des HERRN. So weit der Himmel über der Erde ist, so weit sind meine Wege über euren Wegen.",
       "elberfelder": "Denn meine Gedanken sind nicht eure Gedanken, noch sind eure Wege meine Wege, spricht der HERR. Denn so viel die Himmel höher sind als die Erde, so sind meine Wege höher als eure Wege."
     },
-    "categories": ["von-guten-maechten-geborgen"],
-    "traits": ["vertrauend", "mutig"],
-    "keywords": ["Gottes Gedanken", "Wege", "Himmel", "Höhe", "Vertrauen"]
+    "categories": [
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "vertrauend",
+      "mutig"
+    ],
+    "keywords": [
+      "Gottes Gedanken",
+      "Wege",
+      "Himmel",
+      "Höhe",
+      "Vertrauen"
+    ],
+    "tooltip": "Gottes Wege sind höher als unsere — das ist keine Entmutigung, sondern Befreiung. Das Kind muss nicht alles verstehen, darf aber darauf vertrauen, dass Gott weiter denkt."
   },
   {
     "id": "1petr-2-9",
@@ -1283,9 +2406,22 @@
       "gute_nachricht": "Ihr aber seid das auserwählte Volk, die königliche Priesterschaft, die heilige Nation, das Volk, das Gott gehört. Ihr sollt die großen Taten dessen verkünden, der euch aus der Dunkelheit in sein wunderbares Licht gerufen hat.",
       "elberfelder": "Ihr aber seid ein auserwähltes Geschlecht, eine königliche Priesterschaft, eine heilige Nation, ein Volk zum Besitz, damit ihr die Tugenden dessen verkündigt, der euch aus der Finsternis in sein wunderbares Licht berufen hat."
     },
-    "categories": ["einen-unterschied-machen", "froehlich-dankbar"],
-    "traits": ["froehlich-dankbar", "verantwortungsvoll"],
-    "keywords": ["Erwählung", "Priesterschaft", "Licht", "Berufung", "Heiliges Volk"]
+    "categories": [
+      "einen-unterschied-machen",
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "froehlich-dankbar",
+      "verantwortungsvoll"
+    ],
+    "keywords": [
+      "Erwählung",
+      "Priesterschaft",
+      "Licht",
+      "Berufung",
+      "Heiliges Volk"
+    ],
+    "tooltip": "Auserwählt, königlich, heilig — das sind keine exklusiven Titel, sondern eine Beschreibung aller Getauften. Das Kind gehört zu einem besonderen Volk: dem Volk Gottes."
   },
   {
     "id": "gal-2-20",
@@ -1297,9 +2433,21 @@
       "gute_nachricht": "Ich bin mit Christus gekreuzigt worden und lebe nicht mehr ich, sondern Christus lebt in mir. Was ich jetzt lebe, lebe ich im Glauben an den Sohn Gottes, der mich geliebt hat und sich für mich geopfert hat.",
       "elberfelder": "Mit Christus bin ich gekreuzigt; und nicht mehr ich lebe, sondern Christus lebt in mir. Was ich aber jetzt im Fleisch lebe, lebe ich im Glauben, dem Glauben an den Sohn Gottes, der mich geliebt und sich selbst für mich hingegeben hat."
     },
-    "categories": ["von-guten-maechten-geborgen", "froehlich-dankbar"],
-    "traits": ["vertrauend", "froehlich-dankbar"],
-    "keywords": ["Christus", "Leben", "Glaube", "Liebe", "Hingabe"]
+    "categories": [
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "vertrauend",
+      "froehlich-dankbar"
+    ],
+    "keywords": [
+      "Christus",
+      "Leben",
+      "Glaube",
+      "Liebe",
+      "Hingabe"
+    ],
+    "tooltip": "Nicht mehr ich lebe, sondern Christus in mir — das ist die Taufe in ihrer tiefsten Bedeutung. Das Kind beginnt ein Leben, in dem Christus von innen heraus wächst."
   },
   {
     "id": "ps-31-16",
@@ -1311,8 +2459,1917 @@
       "gute_nachricht": "Ich liege in deinen Händen.",
       "elberfelder": "Meine Zeiten stehen in deiner Hand."
     },
-    "categories": ["von-guten-maechten-geborgen"],
-    "traits": ["vertrauend", "mutig"],
-    "keywords": ["Zeit", "Hände Gottes", "Fürsorge", "Vertrauen", "Geborgenheit"]
+    "categories": [
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "vertrauend",
+      "mutig"
+    ],
+    "keywords": [
+      "Zeit",
+      "Hände Gottes",
+      "Fürsorge",
+      "Vertrauen",
+      "Geborgenheit"
+    ],
+    "tooltip": "Kein Lebensabschnitt liegt außerhalb Gottes Händen — nicht die ersten Tage, nicht die letzten. Dieses Kind darf seinen Lebensweg getrost in diese Hände legen."
+  },
+  {
+    "id": "num-6-24-26",
+    "book": "4. Mose",
+    "chapter": 6,
+    "verse": 24,
+    "translations": {
+      "luther2017": "Der HERR segne dich und behüte dich; der HERR lasse sein Angesicht leuchten über dir und sei dir gnädig; der HERR hebe sein Angesicht über dich und gebe dir Frieden.",
+      "gute_nachricht": "Der HERR segne dich und beschütze dich. Der HERR lasse sein Licht über dir leuchten und sei dir gnädig. Der HERR wende dir sein Gesicht zu und schenke dir Frieden.",
+      "elberfelder": "Der HERR segne dich und behüte dich! Der HERR lasse sein Angesicht über dir leuchten und sei dir gnädig! Der HERR erhebe sein Angesicht auf dich und gebe dir Frieden!"
+    },
+    "categories": [
+      "von-guten-maechten-geborgen",
+      "mit-sich-anderen-im-reinen"
+    ],
+    "traits": [
+      "geborgen",
+      "vertrauend",
+      "froehlich-dankbar"
+    ],
+    "keywords": [
+      "Segen",
+      "Behütung",
+      "Gnade",
+      "Frieden",
+      "Gottes Angesicht"
+    ],
+    "tooltip": "Der Aaronitische Segen ist das älteste Segensgebet der Bibel — und er trifft ins Herz jeder Taufe: Gott wendet sein Gesicht dem Kind zu, persönlich, warm, zugewandt."
+  },
+  {
+    "id": "mk-10-14",
+    "book": "Markus",
+    "chapter": 10,
+    "verse": 14,
+    "translations": {
+      "luther2017": "Als aber Jesus das sah, wurde er unwillig und sprach zu ihnen: Lasset die Kinder zu mir kommen und wehret ihnen nicht; denn solchen gehört das Reich Gottes.",
+      "gute_nachricht": "Als Jesus das sah, war er empört und sagte zu ihnen: Lasst die Kinder zu mir kommen! Hindert sie nicht daran! Denn Menschen wie diese gehört das Reich Gottes.",
+      "elberfelder": "Als aber Jesus das sah, wurde er unwillig und sprach zu ihnen: Lasst die Kinder zu mir kommen, und hindert sie nicht; denn solchen gehört das Reich Gottes."
+    },
+    "categories": [
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "geborgen",
+      "froehlich-dankbar",
+      "vertrauend"
+    ],
+    "keywords": [
+      "Kinder",
+      "Reich Gottes",
+      "Einladung",
+      "Jesus",
+      "Zugehörigkeit"
+    ],
+    "tooltip": "Jesus selbst nimmt das Kind in die Mitte — er wird unwillig über alle, die Kinder von ihm fernhalten wollen. Dieses Kind ist willkommen, jetzt, genau so."
+  },
+  {
+    "id": "mk-10-16",
+    "book": "Markus",
+    "chapter": 10,
+    "verse": 16,
+    "translations": {
+      "luther2017": "Und er herzte sie, legte die Hände auf sie und segnete sie.",
+      "gute_nachricht": "Er nahm sie in die Arme, legte ihnen die Hände auf und segnete sie.",
+      "elberfelder": "Und er nahm sie in seine Arme und legte ihnen die Hände auf und segnete sie."
+    },
+    "categories": [
+      "von-guten-maechten-geborgen",
+      "von-liebe-umgeben"
+    ],
+    "traits": [
+      "geborgen",
+      "froehlich-dankbar",
+      "vertrauend"
+    ],
+    "keywords": [
+      "Segen",
+      "Umarmung",
+      "Hände",
+      "Jesus",
+      "Geborgenheit"
+    ],
+    "tooltip": "Jesus nimmt die Kinder in die Arme und segnet sie — eine Geste, die bei der Taufe sichtbar wird. Das Kind trägt den Segen Jesu Christi mit sich durch sein Leben."
+  },
+  {
+    "id": "lk-2-10-11",
+    "book": "Lukas",
+    "chapter": 2,
+    "verse": 10,
+    "translations": {
+      "luther2017": "Und der Engel sprach zu ihnen: Fürchtet euch nicht! Siehe, ich verkündige euch große Freude, die allem Volk widerfahren wird; denn euch ist heute der Heiland geboren, welcher ist Christus, der Herr, in der Stadt Davids.",
+      "gute_nachricht": "Der Engel sagte zu ihnen: Habt keine Angst! Ich bringe euch eine gute Nachricht, eine Freude, die für das ganze Volk bestimmt ist: Heute ist euch in der Stadt Davids der Retter geboren worden — er ist der Messias, der Herr.",
+      "elberfelder": "Und der Engel sprach zu ihnen: Fürchtet euch nicht! Denn siehe, ich verkündige euch eine große Freude, die für das ganze Volk sein wird: Denn euch ist heute ein Retter geboren worden, welcher ist Christus, der Herr, in der Stadt Davids."
+    },
+    "categories": [
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "froehlich-dankbar",
+      "hoffnungsvoll",
+      "vertrauend"
+    ],
+    "keywords": [
+      "Freude",
+      "Heiland",
+      "Geburt",
+      "Christus",
+      "Gute Nachricht"
+    ],
+    "tooltip": "Die Geburt bringt große Freude — das gilt für Weihnachten und für jede Taufe. Das Kind wird in eine Welt getauft, in der Christus, der Herr, schon da ist."
+  },
+  {
+    "id": "lk-1-37",
+    "book": "Lukas",
+    "chapter": 1,
+    "verse": 37,
+    "translations": {
+      "luther2017": "Denn bei Gott ist kein Ding unmöglich.",
+      "gute_nachricht": "Denn für Gott ist nichts unmöglich.",
+      "elberfelder": "Denn bei Gott wird kein Wort unmöglich sein."
+    },
+    "categories": [
+      "von-guten-maechten-geborgen",
+      "auf-festem-fundament"
+    ],
+    "traits": [
+      "hoffnungsvoll",
+      "vertrauend",
+      "mutig"
+    ],
+    "keywords": [
+      "Unmögliches",
+      "Gott",
+      "Möglichkeit",
+      "Glaube",
+      "Verheißung"
+    ],
+    "tooltip": "Maria hört diese Worte, bevor sie Ja sagt — ein Ja in das Unbekannte. Bei jeder Taufe klingt dieser Satz nach: Kein Weg ist zu weit, keine Aufgabe zu groß für Gott."
+  },
+  {
+    "id": "joh-1-4-5",
+    "book": "Johannes",
+    "chapter": 1,
+    "verse": 4,
+    "translations": {
+      "luther2017": "In ihm war das Leben, und das Leben war das Licht der Menschen. Und das Licht scheint in der Finsternis, und die Finsternis hat's nicht ergriffen.",
+      "gute_nachricht": "In ihm war Leben, und dieses Leben war das Licht der Menschen. Das Licht leuchtet in der Dunkelheit, und die Dunkelheit konnte es nicht auslöschen.",
+      "elberfelder": "In ihm war Leben, und das Leben war das Licht der Menschen. Und das Licht scheint in der Finsternis, und die Finsternis hat es nicht erfasst."
+    },
+    "categories": [
+      "von-guten-maechten-geborgen",
+      "einen-unterschied-machen"
+    ],
+    "traits": [
+      "hoffnungsvoll",
+      "mutig",
+      "vertrauend"
+    ],
+    "keywords": [
+      "Leben",
+      "Licht",
+      "Finsternis",
+      "Christus",
+      "Überwindung"
+    ],
+    "tooltip": "Dieses Licht lässt sich nicht löschen — das ist die Verheißung für jedes Kind, das getauft wird. Was auch immer kommt: Das Licht in ihm ist stärker als die Dunkelheit."
+  },
+  {
+    "id": "joh-10-14",
+    "book": "Johannes",
+    "chapter": 10,
+    "verse": 14,
+    "translations": {
+      "luther2017": "Ich bin der gute Hirte und kenne die Meinen, und die Meinen kennen mich.",
+      "gute_nachricht": "Ich bin der gute Hirte. Ich kenne meine Schafe, und meine Schafe kennen mich.",
+      "elberfelder": "Ich bin der gute Hirte, und ich kenne die Meinen, und die Meinen kennen mich."
+    },
+    "categories": [
+      "von-guten-maechten-geborgen",
+      "von-liebe-umgeben"
+    ],
+    "traits": [
+      "geborgen",
+      "vertrauend",
+      "froehlich-dankbar"
+    ],
+    "keywords": [
+      "Guter Hirte",
+      "Kenntnis",
+      "Fürsorge",
+      "Zugehörigkeit",
+      "Christus"
+    ],
+    "tooltip": "Christus nennt das Kind beim Namen — er kennt es, bevor es sich selbst kennt. Diese persönliche Zugehörigkeit ist das Fundament, auf dem ein ganzes Leben ruhen kann."
+  },
+  {
+    "id": "joh-15-12",
+    "book": "Johannes",
+    "chapter": 15,
+    "verse": 12,
+    "translations": {
+      "luther2017": "Das ist mein Gebot, dass ihr euch untereinander liebt, wie ich euch geliebt habe.",
+      "gute_nachricht": "Das ist mein Gebot: Liebt einander, so wie ich euch geliebt habe.",
+      "elberfelder": "Dies ist mein Gebot, dass ihr einander liebt, wie ich euch geliebt habe."
+    },
+    "categories": [
+      "mit-sich-anderen-im-reinen",
+      "von-liebe-umgeben"
+    ],
+    "traits": [
+      "liebevoll",
+      "verantwortungsvoll",
+      "froehlich-dankbar"
+    ],
+    "keywords": [
+      "Liebe",
+      "Gebot",
+      "Einander",
+      "Christus",
+      "Vorbild"
+    ],
+    "tooltip": "Die Liebe, die Jesus meint, ist keine Gefühlssache — sie ist eine Haltung, die er vorangeht. Das Kind wird in diese Liebe getauft und lernt sein Leben lang, sie weiterzugeben."
+  },
+  {
+    "id": "roem-8-38",
+    "book": "Römer",
+    "chapter": 8,
+    "verse": 38,
+    "translations": {
+      "luther2017": "Denn ich bin gewiss, dass weder Tod noch Leben, weder Engel noch Mächte noch Gewalten uns scheiden kann von der Liebe Gottes.",
+      "gute_nachricht": "Ich bin ganz sicher: Nichts in der Welt kann uns von der Liebe trennen, die Gott uns in Christus Jesus geschenkt hat.",
+      "elberfelder": "Denn ich bin überzeugt, dass weder Tod noch Leben, weder Engel noch Fürstentümer uns zu trennen vermag von der Liebe Gottes in Christus Jesus."
+    },
+    "categories": [
+      "von-liebe-umgeben",
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "geborgen",
+      "vertrauend",
+      "hoffnungsvoll"
+    ],
+    "keywords": [
+      "Liebe Gottes",
+      "Untrennbarkeit",
+      "Gewissheit",
+      "Christus",
+      "Schutz"
+    ],
+    "tooltip": "Paulus zählt alles auf, was Menschen Angst macht — und sagt: nichts davon kann die Liebe Gottes überwältigen. Das Kind ist und bleibt geliebt, egal was kommt."
+  },
+  {
+    "id": "phil-4-6-7",
+    "book": "Philipper",
+    "chapter": 4,
+    "verse": 6,
+    "translations": {
+      "luther2017": "Sorgt euch um nichts, sondern in allen Dingen lasst eure Bitten in Gebet und Flehen mit Danksagung vor Gott kundwerden. Und der Friede Gottes, der allen Verstand übersteigt, wird eure Herzen und Sinne in Christus Jesus bewahren.",
+      "gute_nachricht": "Macht euch um nichts Sorgen, sondern bringt in allem durch Gebet und Bitte, mit Danksagung, eure Anliegen vor Gott. Und der Friede Gottes, der alles menschliche Verstehen übersteigt, wird eure Herzen und Gedanken in der Gemeinschaft mit Christus Jesus bewahren.",
+      "elberfelder": "Sorgt euch um nichts, sondern in allem lasst durch Gebet und Flehen mit Danksagung eure Anliegen vor Gott kundwerden! Und der Friede Gottes, der allen Verstand übersteigt, wird eure Herzen und eure Gedanken in Christus Jesus bewahren."
+    },
+    "categories": [
+      "von-guten-maechten-geborgen",
+      "mit-sich-anderen-im-reinen"
+    ],
+    "traits": [
+      "vertrauend",
+      "friedliebend",
+      "froehlich-dankbar"
+    ],
+    "keywords": [
+      "Sorge",
+      "Gebet",
+      "Frieden",
+      "Danksagung",
+      "Bewahrung"
+    ],
+    "tooltip": "Paulus schreibt diesen Brief aus dem Gefängnis — und spricht von Frieden. Das ist kein oberflächlicher Optimismus, sondern ein Friede, der von innen kommt und trägt."
+  },
+  {
+    "id": "1kor-13-4",
+    "book": "1. Korinther",
+    "chapter": 13,
+    "verse": 4,
+    "translations": {
+      "luther2017": "Die Liebe ist langmütig und freundlich, die Liebe eifert nicht, die Liebe treibt nicht Mutwillen, sie bläht sich nicht auf.",
+      "gute_nachricht": "Die Liebe ist geduldig und gütig. Die Liebe ist nicht neidisch, sie prahlt nicht und ist nicht eingebildet.",
+      "elberfelder": "Die Liebe ist langmütig, ist gütig; die Liebe ist nicht eifersüchtig, die Liebe tut sich nicht auf, sie bläht sich nicht auf."
+    },
+    "categories": [
+      "von-liebe-umgeben",
+      "mit-sich-anderen-im-reinen"
+    ],
+    "traits": [
+      "liebevoll",
+      "friedliebend",
+      "mitfuehlend"
+    ],
+    "keywords": [
+      "Liebe",
+      "Geduld",
+      "Güte",
+      "Neid",
+      "Charakter"
+    ],
+    "tooltip": "Das Hohelied der Liebe beschreibt keine Romantik, sondern einen Lebensstil. Diese Verse sind ein Spiegel und eine Einladung: So ist die Liebe, die aus Gott kommt — lernbar, täglich, echt."
+  },
+  {
+    "id": "1kor-13-7",
+    "book": "1. Korinther",
+    "chapter": 13,
+    "verse": 7,
+    "translations": {
+      "luther2017": "Sie erträgt alles, sie glaubt alles, sie hofft alles, sie duldet alles.",
+      "gute_nachricht": "Die Liebe erträgt alles, glaubt alles, hofft alles, hält alles durch.",
+      "elberfelder": "Sie erträgt alles, glaubt alles, hofft alles, duldet alles."
+    },
+    "categories": [
+      "von-liebe-umgeben",
+      "mit-sich-anderen-im-reinen"
+    ],
+    "traits": [
+      "liebevoll",
+      "hoffnungsvoll",
+      "mitfuehlend"
+    ],
+    "keywords": [
+      "Liebe",
+      "Ertragen",
+      "Hoffnung",
+      "Glaube",
+      "Ausdauer"
+    ],
+    "tooltip": "Diese Liebe gibt nicht auf — nicht bei Schwierigkeit, nicht bei Enttäuschung. Das Kind darf wissen: Es wird von einer Liebe getragen, die hält, was sie verspricht."
+  },
+  {
+    "id": "kol-3-15",
+    "book": "Kolosser",
+    "chapter": 3,
+    "verse": 15,
+    "translations": {
+      "luther2017": "Und der Friede Gottes, zu dem ihr auch berufen seid in einem Leib, regiere in euren Herzen; und seid dankbar.",
+      "gute_nachricht": "Und der Friede Christi soll in euren Herzen regieren; zu diesem Frieden seid ihr berufen als Glieder des einen Leibes. Seid dankbar!",
+      "elberfelder": "Und der Friede des Christus regiere in euren Herzen, zu dem ihr auch berufen worden seid in einem Leib; und seid dankbar."
+    },
+    "categories": [
+      "mit-sich-anderen-im-reinen",
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "friedliebend",
+      "froehlich-dankbar",
+      "vertrauend"
+    ],
+    "keywords": [
+      "Friede",
+      "Dankbarkeit",
+      "Berufung",
+      "Herz",
+      "Gemeinschaft"
+    ],
+    "tooltip": "Friede und Dankbarkeit gehören zusammen — wer dankbar ist, findet Frieden; wer Frieden hat, kann dankbar sein. Beides ist ein Geschenk, das bei der Taufe anfängt."
+  },
+  {
+    "id": "1joh-4-19",
+    "book": "1. Johannes",
+    "chapter": 4,
+    "verse": 19,
+    "translations": {
+      "luther2017": "Lasset uns ihn lieben, denn er hat uns zuerst geliebt.",
+      "gute_nachricht": "Wir lieben, weil Gott uns zuerst geliebt hat.",
+      "elberfelder": "Wir lieben, weil er uns zuerst geliebt hat."
+    },
+    "categories": [
+      "von-liebe-umgeben",
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "liebevoll",
+      "froehlich-dankbar",
+      "vertrauend"
+    ],
+    "keywords": [
+      "Liebe",
+      "Zuerst",
+      "Gott",
+      "Antwort",
+      "Dankbarkeit"
+    ],
+    "tooltip": "Alles Lieben ist Antwort — Gott macht den Anfang, wir folgen. Das Kind muss sich Gottes Liebe nicht verdienen, es lebt schon darin, bevor es selbst lieben kann."
+  },
+  {
+    "id": "offb-21-4",
+    "book": "Offenbarung",
+    "chapter": 21,
+    "verse": 4,
+    "translations": {
+      "luther2017": "Und Gott wird abwischen alle Tränen von ihren Augen, und der Tod wird nicht mehr sein, noch Leid noch Geschrei noch Schmerz wird mehr sein.",
+      "gute_nachricht": "Er wird alle Tränen von ihren Augen abwischen. Der Tod wird nicht mehr sein, kein Leid, kein Klagegeschrei, keinen Schmerz wird es mehr geben.",
+      "elberfelder": "Und er wird jede Träne von ihren Augen abwischen, und der Tod wird nicht mehr sein, noch Trauer, noch Schreien, noch Schmerz wird mehr sein."
+    },
+    "categories": [
+      "von-guten-maechten-geborgen",
+      "auf-festem-fundament"
+    ],
+    "traits": [
+      "hoffnungsvoll",
+      "vertrauend",
+      "geborgen"
+    ],
+    "keywords": [
+      "Tränen",
+      "Tod",
+      "Schmerz",
+      "Hoffnung",
+      "Vollendung"
+    ],
+    "tooltip": "Die letzte Vision der Bibel ist kein Gericht — es ist eine Umarmung. Gott wischt persönlich jede Träne ab. Das ist das Ziel, auf das dieses Kind zugehen darf."
+  },
+  {
+    "id": "jak-1-17",
+    "book": "Jakobus",
+    "chapter": 1,
+    "verse": 17,
+    "translations": {
+      "luther2017": "Alle gute Gabe und alle vollkommene Gabe kommt von oben herab, von dem Vater des Lichts.",
+      "gute_nachricht": "Jede gute Gabe und jedes vollkommene Geschenk kommt von oben, vom Vater des Lichts herab.",
+      "elberfelder": "Jede gute Gabe und jedes vollkommene Geschenk kommt von oben herab, von dem Vater der Lichter."
+    },
+    "categories": [
+      "von-guten-maechten-geborgen",
+      "in-weitem-raum-leben"
+    ],
+    "traits": [
+      "froehlich-dankbar",
+      "neugierig",
+      "hoffnungsvoll"
+    ],
+    "keywords": [
+      "Gabe",
+      "Geschenk",
+      "Licht",
+      "Vater",
+      "Dankbarkeit"
+    ],
+    "tooltip": "Jedes Talent, jede Fähigkeit, jede Freude dieses Kindes ist ein Geschenk von oben. Das Leben ist nicht Zufall, sondern Gabe — und Gaben wollen entdeckt und entfaltet werden."
+  },
+  {
+    "id": "hebr-11-1",
+    "book": "Hebräer",
+    "chapter": 11,
+    "verse": 1,
+    "translations": {
+      "luther2017": "Es ist aber der Glaube eine feste Zuversicht auf das, was man hofft, und ein Nichtzweifeln an dem, was man nicht sieht.",
+      "gute_nachricht": "Der Glaube ist die Grundlage für das, was wir erhoffen, und er gibt uns Gewissheit über das, was wir nicht sehen.",
+      "elberfelder": "Der Glaube aber ist die Verwirklichung von dem, was man erhofft, die Überzeugung von Dingen, die man nicht sieht."
+    },
+    "categories": [
+      "auf-festem-fundament",
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "vertrauend",
+      "hoffnungsvoll",
+      "mutig"
+    ],
+    "keywords": [
+      "Glaube",
+      "Hoffnung",
+      "Gewissheit",
+      "Zuversicht",
+      "Unsichtbares"
+    ],
+    "tooltip": "Glaube ist nicht Wissen — er ist Vertrauen ins Unsichtbare. Das Kind lernt, dass die tiefsten Dinge des Lebens nicht mit Augen gesehen, sondern mit dem Herzen erfasst werden."
+  },
+  {
+    "id": "rut-1-16",
+    "book": "Rut",
+    "chapter": 1,
+    "verse": 16,
+    "translations": {
+      "luther2017": "Wo du hingehst, da will ich auch hingehen; wo du bleibst, da bleibe ich auch. Dein Volk ist mein Volk, und dein Gott ist mein Gott.",
+      "gute_nachricht": "Wohin du gehst, dahin gehe ich; wo du bleibst, dort bleibe ich. Dein Volk soll mein Volk sein und dein Gott mein Gott.",
+      "elberfelder": "Wohin du gehst, werde ich gehen, und wo du bleibst, werde ich bleiben; dein Volk soll mein Volk sein und dein Gott mein Gott."
+    },
+    "categories": [
+      "mit-sich-anderen-im-reinen",
+      "von-liebe-umgeben"
+    ],
+    "traits": [
+      "liebevoll",
+      "mutig",
+      "vertrauend"
+    ],
+    "keywords": [
+      "Treue",
+      "Begleitung",
+      "Gemeinschaft",
+      "Zugehörigkeit",
+      "Hingabe"
+    ],
+    "tooltip": "Rut wählt Treue, obwohl niemand sie dazu zwingt — ein Bild für die tiefe Verbundenheit, die Menschen tragen können. Das Kind darf solche treuen Menschen im Leben finden."
+  },
+  {
+    "id": "ps-63-4",
+    "book": "Psalmen",
+    "chapter": 63,
+    "verse": 4,
+    "translations": {
+      "luther2017": "Denn deine Güte ist besser als Leben.",
+      "gute_nachricht": "Deine Güte ist mehr wert als das Leben selbst.",
+      "elberfelder": "Denn deine Gnade ist besser als das Leben."
+    },
+    "categories": [
+      "von-guten-maechten-geborgen",
+      "von-liebe-umgeben"
+    ],
+    "traits": [
+      "froehlich-dankbar",
+      "vertrauend",
+      "liebevoll"
+    ],
+    "keywords": [
+      "Güte",
+      "Leben",
+      "Gnade",
+      "Lob",
+      "Wert"
+    ],
+    "tooltip": "Der Psalmist sagt das Ungeheuerliche: Gottes Güte ist wertvoller als das Leben selbst. Das Kind darf ein Leben lang entdecken, wie tief diese Güte reicht."
+  },
+  {
+    "id": "ps-31-3",
+    "book": "Psalmen",
+    "chapter": 31,
+    "verse": 3,
+    "translations": {
+      "luther2017": "Sei mir ein starker Fels und eine Burg, dass du mir helfest!",
+      "gute_nachricht": "Sei für mich ein schützender Fels, eine sichere Burg, die mich rettet.",
+      "elberfelder": "Sei mir ein Felsenfundament, ein Haus der Zuflucht, um mich zu erretten."
+    },
+    "categories": [
+      "auf-festem-fundament",
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "vertrauend",
+      "geborgen",
+      "mutig"
+    ],
+    "keywords": [
+      "Fels",
+      "Burg",
+      "Schutz",
+      "Zuflucht",
+      "Hilfe"
+    ],
+    "tooltip": "Mitten in der Not wendet sich der Beter an Gott als Fels und Burg — das ist kein Flüchten, sondern Vertrauen auf festen Grund. Dieses Kind hat einen Felsen, der hält."
+  },
+  {
+    "id": "ps-91-11",
+    "book": "Psalmen",
+    "chapter": 91,
+    "verse": 11,
+    "translations": {
+      "luther2017": "Denn er hat seinen Engeln befohlen, dass sie dich behüten auf allen deinen Wegen.",
+      "gute_nachricht": "Denn Gott hat seinen Engeln befohlen, dich zu bewachen, auf allen deinen Wegen.",
+      "elberfelder": "Denn er gibt seinen Engeln deinetwegen Befehl, dich auf allen deinen Wegen zu behüten."
+    },
+    "categories": [
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "geborgen",
+      "vertrauend",
+      "hoffnungsvoll"
+    ],
+    "keywords": [
+      "Engel",
+      "Schutz",
+      "Behütung",
+      "Weg",
+      "Fürsorge"
+    ],
+    "tooltip": "Gottes Fürsorge reicht weiter als ein Mensch sehen kann — er beauftragt Engel, das Kind auf allen seinen Wegen zu begleiten. Kein Weg ist zu einsam, kein Schritt zu dunkel."
+  },
+  {
+    "id": "ps-121-1",
+    "book": "Psalmen",
+    "chapter": 121,
+    "verse": 1,
+    "translations": {
+      "luther2017": "Ich hebe meine Augen auf zu den Bergen. Woher kommt mir Hilfe? Meine Hilfe kommt vom HERRN, der Himmel und Erde gemacht hat.",
+      "gute_nachricht": "Ich schaue auf zu den Bergen. Woher wird mir Hilfe kommen? Meine Hilfe kommt von Gott, dem Herrn, der Himmel und Erde gemacht hat.",
+      "elberfelder": "Ich hebe meine Augen auf zu den Bergen: Woher kommt mir Hilfe? Meine Hilfe kommt von dem HERRN, dem Schöpfer des Himmels und der Erde."
+    },
+    "categories": [
+      "von-guten-maechten-geborgen",
+      "auf-festem-fundament"
+    ],
+    "traits": [
+      "vertrauend",
+      "hoffnungsvoll",
+      "mutig"
+    ],
+    "keywords": [
+      "Berge",
+      "Hilfe",
+      "HERR",
+      "Schöpfer",
+      "Zuversicht"
+    ],
+    "tooltip": "Das Wallfahrtslied fragt: Woher kommt Hilfe? Und gibt die Antwort selbst: vom Schöpfer. Dieses Kind darf in jedem Aufschauen zu Gottes Größe Halt und Hoffnung finden."
+  },
+  {
+    "id": "2mose-15-2",
+    "book": "2. Mose",
+    "chapter": 15,
+    "verse": 2,
+    "translations": {
+      "luther2017": "Der HERR ist meine Stärke und mein Lobgesang und ist mein Heil.",
+      "gute_nachricht": "Der HERR ist meine Stärke und mein Lied, er hat mir Rettung gebracht.",
+      "elberfelder": "Der HERR ist meine Stärke und mein Lied, und er ist mir zur Rettung geworden."
+    },
+    "categories": [
+      "von-guten-maechten-geborgen",
+      "auf-festem-fundament"
+    ],
+    "traits": [
+      "froehlich-dankbar",
+      "stark",
+      "vertrauend"
+    ],
+    "keywords": [
+      "Stärke",
+      "Lied",
+      "Heil",
+      "HERR",
+      "Lobgesang"
+    ],
+    "tooltip": "Das Mirjamlied ist Israels erstes großes Loblied — gesungen am anderen Ufer, nach der Rettung. Das Leben dieses Kindes darf ein Lobgesang werden, weil Gott stärkt und rettet."
+  },
+  {
+    "id": "matt-5-3",
+    "book": "Matthäus",
+    "chapter": 5,
+    "verse": 3,
+    "translations": {
+      "luther2017": "Selig sind, die da geistlich arm sind; denn das Himmelreich ist ihr.",
+      "gute_nachricht": "Glücklich zu preisen sind die, die wissen, dass sie Gott brauchen — ihnen gehört das Himmelreich.",
+      "elberfelder": "Glückselig die Armen im Geist, denn ihrer ist das Reich der Himmel."
+    },
+    "categories": [
+      "von-guten-maechten-geborgen",
+      "in-weitem-raum-leben"
+    ],
+    "traits": [
+      "vertrauend",
+      "hoffnungsvoll",
+      "geborgen"
+    ],
+    "keywords": [
+      "Selig",
+      "Armut",
+      "Himmelreich",
+      "Bergpredigt",
+      "Abhängigkeit"
+    ],
+    "tooltip": "Jesus nennt selig, wer weiß, dass er Gott braucht — nicht wer stark und unabhängig ist. Das Kind lernt: Bedürftigkeit ist kein Mangel, sondern der erste Schritt zur Fülle."
+  },
+  {
+    "id": "matt-5-7",
+    "book": "Matthäus",
+    "chapter": 5,
+    "verse": 7,
+    "translations": {
+      "luther2017": "Selig sind die Barmherzigen; denn sie werden Barmherzigkeit erlangen.",
+      "gute_nachricht": "Glücklich zu preisen sind die Barmherzigen — sie werden Erbarmen finden.",
+      "elberfelder": "Glückselig die Barmherzigen, denn sie werden Erbarmen finden."
+    },
+    "categories": [
+      "mit-sich-anderen-im-reinen",
+      "einen-unterschied-machen"
+    ],
+    "traits": [
+      "mitfuehlend",
+      "liebevoll",
+      "verantwortungsvoll"
+    ],
+    "keywords": [
+      "Barmherzigkeit",
+      "Erbarmen",
+      "Selig",
+      "Bergpredigt",
+      "Mitleid"
+    ],
+    "tooltip": "Barmherzigkeit ist kein Schwächezeichen — sie ist die Sprache, in der Gott selbst mit Menschen spricht. Das Kind darf diese Sprache von klein auf lernen."
+  },
+  {
+    "id": "matt-5-8",
+    "book": "Matthäus",
+    "chapter": 5,
+    "verse": 8,
+    "translations": {
+      "luther2017": "Selig sind, die reinen Herzens sind; denn sie werden Gott schauen.",
+      "gute_nachricht": "Glücklich zu preisen sind die, die ein reines Herz haben — sie werden Gott sehen.",
+      "elberfelder": "Glückselig die Reinherzigen, denn sie werden Gott schauen."
+    },
+    "categories": [
+      "von-guten-maechten-geborgen",
+      "in-weitem-raum-leben"
+    ],
+    "traits": [
+      "vertrauend",
+      "neugierig",
+      "froehlich-dankbar"
+    ],
+    "keywords": [
+      "Reines Herz",
+      "Gott schauen",
+      "Reinheit",
+      "Bergpredigt",
+      "Sehnsucht"
+    ],
+    "tooltip": "Das reine Herz sieht Gott überall — im Kleinen, im Alltag, in anderen Menschen. Das Kind trägt diese Fähigkeit in sich, Gott zu entdecken, wenn das Herz offen bleibt."
+  },
+  {
+    "id": "matt-18-3",
+    "book": "Matthäus",
+    "chapter": 18,
+    "verse": 3,
+    "translations": {
+      "luther2017": "Wenn ihr nicht umkehrt und werdet wie die Kinder, so werdet ihr nicht ins Himmelreich kommen.",
+      "gute_nachricht": "Ich sage euch: Wenn ihr nicht umkehrt und werdet wie die Kinder, kommt ihr nicht in das Himmelreich.",
+      "elberfelder": "Wenn ihr nicht umkehrt und werdet wie die Kinder, so werdet ihr keineswegs in das Reich der Himmel eingehen."
+    },
+    "categories": [
+      "in-weitem-raum-leben",
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "neugierig",
+      "vertrauend",
+      "froehlich-dankbar"
+    ],
+    "keywords": [
+      "Kinder",
+      "Himmelreich",
+      "Umkehr",
+      "Einfachheit",
+      "Vertrauen"
+    ],
+    "tooltip": "Jesus stellt das Kind als Modell hin — nicht Erwachsene, die alles wissen, sondern Kinder, die vertrauen und offen sind. Dieses Kind ist schon auf dem richtigen Weg."
+  },
+  {
+    "id": "roem-5-1",
+    "book": "Römer",
+    "chapter": 5,
+    "verse": 1,
+    "translations": {
+      "luther2017": "Da wir nun durch den Glauben gerecht geworden sind, haben wir Frieden mit Gott durch unsern Herrn Jesus Christus.",
+      "gute_nachricht": "Da wir nun durch den Glauben als gerecht anerkannt worden sind, haben wir Frieden mit Gott durch unseren Herrn Jesus Christus.",
+      "elberfelder": "Da wir nun gerechtfertigt worden sind aus Glauben, haben wir Frieden mit Gott durch unseren Herrn Jesus Christus."
+    },
+    "categories": [
+      "mit-sich-anderen-im-reinen",
+      "auf-festem-fundament"
+    ],
+    "traits": [
+      "friedliebend",
+      "vertrauend",
+      "froehlich-dankbar"
+    ],
+    "keywords": [
+      "Friede",
+      "Gerechtigkeit",
+      "Glaube",
+      "Gott",
+      "Christus"
+    ],
+    "tooltip": "Frieden mit Gott ist nicht etwas, das man sich erarbeitet — er ist durch Christus schon gegeben. Das Kind tritt in diesen Frieden hinein, noch bevor es die Worte dafür kennt."
+  },
+  {
+    "id": "eph-3-18-19",
+    "book": "Epheser",
+    "chapter": 3,
+    "verse": 18,
+    "translations": {
+      "luther2017": "damit ihr begreifen könnt mit allen Heiligen, was die Breite und die Länge und die Tiefe und die Höhe ist, und die Liebe Christi erkennen könnt, die alle Erkenntnis übertrifft.",
+      "gute_nachricht": "Dann seid ihr mit allen, die Gott gehören, in der Lage zu begreifen, wie umfassend Christi Liebe ist — ihre Weite und Länge, ihre Tiefe und Höhe. Ihr erfahrt diese Liebe, die alles Verstehen übersteigt.",
+      "elberfelder": "damit ihr imstande seid zusammen mit allen Heiligen zu begreifen, was die Breite und Länge und Höhe und Tiefe ist, und die Liebe des Christus zu erkennen, die das Erkennen übersteigt."
+    },
+    "categories": [
+      "von-liebe-umgeben",
+      "in-weitem-raum-leben"
+    ],
+    "traits": [
+      "neugierig",
+      "vertrauend",
+      "hoffnungsvoll"
+    ],
+    "keywords": [
+      "Liebe Christi",
+      "Weite",
+      "Tiefe",
+      "Erkenntnis",
+      "Fülle"
+    ],
+    "tooltip": "Die Liebe Christi ist so groß, dass sie ein Leben lang nicht ausgekostet werden kann — sie hat eine Breite, Länge, Tiefe und Höhe. Das Kind darf sein ganzes Leben in ihr forschen."
+  },
+  {
+    "id": "2kor-5-17",
+    "book": "2. Korinther",
+    "chapter": 5,
+    "verse": 17,
+    "translations": {
+      "luther2017": "Daher: Ist jemand in Christus, so ist er eine neue Kreatur; das Alte ist vergangen, siehe, Neues ist geworden.",
+      "gute_nachricht": "Wer also in der Gemeinschaft mit Christus lebt, ist ein neuer Mensch. Das Alte ist vergangen, etwas Neues ist da.",
+      "elberfelder": "Wenn also jemand in Christus ist, so ist er eine neue Schöpfung; das Alte ist vergangen, siehe, Neues ist geworden."
+    },
+    "categories": [
+      "in-weitem-raum-leben",
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "hoffnungsvoll",
+      "froehlich-dankbar",
+      "mutig"
+    ],
+    "keywords": [
+      "Neuschöpfung",
+      "Altes",
+      "Neues",
+      "Christus",
+      "Wandel"
+    ],
+    "tooltip": "Bei der Taufe wird dieses Wort Wirklichkeit: Das Kind ist eine neue Schöpfung. Nicht das Alte zählt, sondern was Gott neu macht — ein Anfang, der wirklich ein Anfang ist."
+  },
+  {
+    "id": "ps-23-4",
+    "book": "Psalmen",
+    "chapter": 23,
+    "verse": 4,
+    "translations": {
+      "luther2017": "Und ob ich schon wanderte im finstern Tal, fürchte ich kein Unglück; denn du bist bei mir, dein Stecken und Stab trösten mich.",
+      "gute_nachricht": "Muss ich auch durch das finstere Tal gehen – ich fürchte kein Unheil, denn du bist bei mir; dein Hirtenstab ist mein Schutz und mein Trost.",
+      "elberfelder": "Auch wenn ich gehe im Tal der Todesschatten, fürchte ich kein Unglück; denn du bist bei mir, dein Stab und dein Stecken, sie trösten mich."
+    },
+    "categories": [
+      "von-guten-maechten-geborgen",
+      "auf-festem-fundament"
+    ],
+    "traits": [
+      "geborgen",
+      "vertrauend",
+      "mutig"
+    ],
+    "keywords": [
+      "Finsteres Tal",
+      "Furcht",
+      "Begleitung",
+      "Trost",
+      "Schutz"
+    ],
+    "tooltip": "Gott begleitet nicht nur auf den Höhen, sondern besonders in den dunklen Tälern. Das Kind erfährt: Gott ist da, gerade wenn der Weg schwer wird."
+  },
+  {
+    "id": "jes-43-2",
+    "book": "Jesaja",
+    "chapter": 43,
+    "verse": 2,
+    "translations": {
+      "luther2017": "Wenn du durch Wasser gehst, will ich bei dir sein, dass dich die Ströme nicht ersäufen sollen; und wenn du durch Feuer gehst, sollst du nicht brennen.",
+      "gute_nachricht": "Wenn du durch tiefe Wasser gehst, bin ich bei dir; die Fluten werden dich nicht überschwemmen. Wenn du durch Feuer gehst, wirst du nicht verbrennen.",
+      "elberfelder": "Wenn du durch Wasser gehst, bin ich bei dir, und durch Flüsse, sie werden dich nicht überschwemmen. Wenn du durchs Feuer gehst, wirst du nicht verbrennen."
+    },
+    "categories": [
+      "von-guten-maechten-geborgen",
+      "auf-festem-fundament"
+    ],
+    "traits": [
+      "geborgen",
+      "vertrauend",
+      "stark"
+    ],
+    "keywords": [
+      "Wasser",
+      "Feuer",
+      "Schutz",
+      "Begleitung",
+      "Bestehen"
+    ],
+    "tooltip": "Gott verspricht nicht, das Feuer und Wasser wegzunehmen — er verspricht, dabei zu sein. Das Taufwasser ist ein Zeichen: Gott ist im Wasser dabei, jetzt und immer."
+  },
+  {
+    "id": "ps-139-1-2",
+    "book": "Psalmen",
+    "chapter": 139,
+    "verse": 1,
+    "translations": {
+      "luther2017": "HERR, du erforschest mich und kennest mich. Ich sitze oder stehe auf, so weißt du es; du verstehest meine Gedanken von ferne.",
+      "gute_nachricht": "HERR, du durchschaust mich und kennst mich. Ob ich sitze oder gehe, du weißt es; von weitem kennst du meine Gedanken.",
+      "elberfelder": "HERR, du hast mich erforscht und kennst mich. Du weißt, ob ich sitze oder stehe; du verstehst von ferne meinen Gedanken."
+    },
+    "categories": [
+      "von-guten-maechten-geborgen",
+      "von-liebe-umgeben"
+    ],
+    "traits": [
+      "geborgen",
+      "vertrauend",
+      "froehlich-dankbar"
+    ],
+    "keywords": [
+      "Kenntnis Gottes",
+      "Gedanken",
+      "Gegenwart",
+      "Erforschung",
+      "Offenbarung"
+    ],
+    "tooltip": "Gott kennt dieses Kind, bevor es sich selbst kennen kann. Diese Kenntnis ist keine Bedrohung — sie ist die tiefste Form von Geborgenheit: vollständig gesehen und trotzdem geliebt."
+  },
+  {
+    "id": "ps-139-5",
+    "book": "Psalmen",
+    "chapter": 139,
+    "verse": 5,
+    "translations": {
+      "luther2017": "Von allen Seiten umgibst du mich und hältst deine Hand über mir.",
+      "gute_nachricht": "Von allen Seiten umgibst du mich, du hast deine Hand auf mich gelegt.",
+      "elberfelder": "Von hinten und von vorne hast du mich eingeschlossen und deine Hand auf mich gelegt."
+    },
+    "categories": [
+      "von-guten-maechten-geborgen",
+      "von-liebe-umgeben"
+    ],
+    "traits": [
+      "geborgen",
+      "vertrauend",
+      "froehlich-dankbar"
+    ],
+    "keywords": [
+      "Umgebung",
+      "Hand Gottes",
+      "Schutz",
+      "Allgegenwart",
+      "Geborgenheit"
+    ],
+    "tooltip": "Gott umschließt von allen Seiten — das ist keine Einengung, sondern die sicherste Umarmung, die es gibt. Das Kind ist rundum versorgt, von Gott gehalten."
+  },
+  {
+    "id": "ps-23-2-3",
+    "book": "Psalmen",
+    "chapter": 23,
+    "verse": 2,
+    "translations": {
+      "luther2017": "Er weidet mich auf grüner Aue und führet mich zum frischen Wasser. Er erquicket meine Seele. Er führet mich auf rechter Straße um seines Namens willen.",
+      "gute_nachricht": "Er lässt mich lagern auf grünen Wiesen, er führt mich zu stillen Wassern. Er stärkt meine Seele, er leitet mich auf rechten Wegen, um seines Namens willen.",
+      "elberfelder": "Er lässt mich auf grünen Auen lagern, er führt mich an stillen Wassern. Er erquickt meine Seele, er leitet mich auf Pfaden der Gerechtigkeit um seines Namens willen."
+    },
+    "categories": [
+      "in-weitem-raum-leben",
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "geborgen",
+      "froehlich-dankbar",
+      "vertrauend"
+    ],
+    "keywords": [
+      "Grüne Aue",
+      "Stilles Wasser",
+      "Erquickung",
+      "Führung",
+      "Seele"
+    ],
+    "tooltip": "Der gute Hirte führt nicht durch Hetze, sondern zu stillen Wassern und grünen Auen. Das Kind darf ein Leben voller Erquickung kennen — Räume, wo die Seele atmen kann."
+  },
+  {
+    "id": "spr-3-17",
+    "book": "Sprüche",
+    "chapter": 3,
+    "verse": 17,
+    "translations": {
+      "luther2017": "Ihre Wege sind liebliche Wege, und alle ihre Pfade sind Friede.",
+      "gute_nachricht": "Ihre Wege sind angenehme Wege, und alle ihre Pfade führen zum Frieden.",
+      "elberfelder": "Ihre Wege sind liebliche Wege, und alle ihre Pfade sind Frieden."
+    },
+    "categories": [
+      "in-weitem-raum-leben",
+      "mit-sich-anderen-im-reinen"
+    ],
+    "traits": [
+      "friedliebend",
+      "froehlich-dankbar",
+      "hoffnungsvoll"
+    ],
+    "keywords": [
+      "Wege",
+      "Friede",
+      "Lieblichkeit",
+      "Weisheit",
+      "Pfade"
+    ],
+    "tooltip": "Die Wege der Weisheit Gottes sind keine trockenen Pflichten — sie sind lieblich und friedvoll. Das Kind darf entdecken, dass Gottes Weg der schönste Weg ist."
+  },
+  {
+    "id": "jer-31-3",
+    "book": "Jeremia",
+    "chapter": 31,
+    "verse": 3,
+    "translations": {
+      "luther2017": "Ich habe dich je und je geliebt, darum habe ich dich zu mir gezogen aus lauter Güte.",
+      "gute_nachricht": "Mit ewiger Liebe habe ich dich geliebt, darum halte ich dir die Treue.",
+      "elberfelder": "Mit ewiger Liebe habe ich dich geliebt, darum habe ich dir Güte bewahrt."
+    },
+    "categories": [
+      "von-liebe-umgeben",
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "liebevoll",
+      "geborgen",
+      "vertrauend"
+    ],
+    "keywords": [
+      "Ewige Liebe",
+      "Treue",
+      "Güte",
+      "Zuneigung",
+      "Gott"
+    ],
+    "tooltip": "Gottes Liebe ist nicht situationsbedingt — sie ist ewig. Das Kind wird geliebt, bevor es irgendetwas getan hat, und diese Liebe überdauert jeden Fehler."
+  },
+  {
+    "id": "jes-55-1",
+    "book": "Jesaja",
+    "chapter": 55,
+    "verse": 1,
+    "translations": {
+      "luther2017": "Wohlan, alle, die ihr durstig seid, kommt her zum Wasser! Und die ihr kein Geld habt, kommt her, kaufet und esset!",
+      "gute_nachricht": "Kommt alle her, die ihr Durst habt, zum Wasser! Auch ihr, die kein Geld habt — kommt, kauft und esst!",
+      "elberfelder": "Wohlan, alle Durstigen, kommt zum Wasser! Und wer kein Geld hat, komme, kaufe und esse!"
+    },
+    "categories": [
+      "in-weitem-raum-leben",
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "froehlich-dankbar",
+      "hoffnungsvoll",
+      "neugierig"
+    ],
+    "keywords": [
+      "Durst",
+      "Wasser",
+      "Einladung",
+      "Kostenlos",
+      "Fülle"
+    ],
+    "tooltip": "Gottes Einladung gilt bedingungslos — auch wer nichts mitbringt, ist willkommen. Das Taufwasser erinnert daran: Gottes Gnade ist umsonst, für alle, immer."
+  },
+  {
+    "id": "spr-22-6",
+    "book": "Sprüche",
+    "chapter": 22,
+    "verse": 6,
+    "translations": {
+      "luther2017": "Gewöhne den Knaben an seinen Weg, so lässt er auch nicht davon, wenn er alt wird.",
+      "gute_nachricht": "Erziehe das Kind auf dem richtigen Weg; noch wenn es alt ist, weicht es nicht davon ab.",
+      "elberfelder": "Erziehe den Knaben seinem Weg gemäß; dann weicht er auch im Alter nicht davon ab."
+    },
+    "categories": [
+      "auf-festem-fundament",
+      "einen-unterschied-machen"
+    ],
+    "traits": [
+      "verantwortungsvoll",
+      "hoffnungsvoll",
+      "stark"
+    ],
+    "keywords": [
+      "Erziehung",
+      "Kind",
+      "Weg",
+      "Prägung",
+      "Beständigkeit"
+    ],
+    "tooltip": "Was Kindern von Anfang an mitgegeben wird, trägt sie durch das Leben. Die Taufe setzt den ersten Schritt auf diesem Weg — ein Fundament für das ganze Leben."
+  },
+  {
+    "id": "ps-128-3",
+    "book": "Psalmen",
+    "chapter": 128,
+    "verse": 3,
+    "translations": {
+      "luther2017": "Deine Frau wird sein wie ein fruchtbarer Weinstock innen in deinem Hause; deine Kinder wie Ölzweige um deinen Tisch her.",
+      "gute_nachricht": "Deine Frau wird sein wie ein fruchtbarer Weinstock in deinem Haus, deine Kinder wie junge Ölbaumzweige rings um deinen Tisch.",
+      "elberfelder": "Deine Frau wird wie ein fruchtbarer Weinstock im Inneren deines Hauses sein, deine Kinder wie Ölzweige rings um deinen Tisch."
+    },
+    "categories": [
+      "von-liebe-umgeben",
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "froehlich-dankbar",
+      "geborgen",
+      "liebevoll"
+    ],
+    "keywords": [
+      "Familie",
+      "Kinder",
+      "Segen",
+      "Haus",
+      "Gedeihen"
+    ],
+    "tooltip": "Das Bild der jungen Ölzweige steht für Fülle und Gedeihen. Das Kind ist ein Segen für die Familie — und die Familie ist der erste Raum, in dem Gottes Segen konkret wird."
+  },
+  {
+    "id": "zef-3-17",
+    "book": "Zefanja",
+    "chapter": 3,
+    "verse": 17,
+    "translations": {
+      "luther2017": "Der HERR, dein Gott, ist bei dir, ein Held, der hilft. Er wird sich über dich freuen und dir freundlich sein, er wird dir vergeben in seiner Liebe und sich über dich mit Jauchzen freuen.",
+      "gute_nachricht": "Der HERR, dein Gott, ist bei dir, er ist mächtig und er hilft. Er jubelt über dich in Freude, er liebt dich und ist dir zugetan, er jauchzt über dich mit lautem Jubel.",
+      "elberfelder": "Der HERR, dein Gott, ist in deiner Mitte, ein Held, der rettet. Er wird sich über dich freuen in Freude, wird schweigen in seiner Liebe, wird über dich jubeln mit Jubel."
+    },
+    "categories": [
+      "von-liebe-umgeben",
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "geborgen",
+      "froehlich-dankbar",
+      "vertrauend"
+    ],
+    "keywords": [
+      "Jubel",
+      "Freude",
+      "Liebe",
+      "Gegenwart",
+      "Gott jubelt"
+    ],
+    "tooltip": "Gott jubelt über das Kind — das ist kein frommer Gedanke, sondern Verheißung. Dieses Kind darf wissen: Gott ist nicht nur da, er freut sich, dass es das gibt."
+  },
+  {
+    "id": "hoh-2-16",
+    "book": "Hohelied",
+    "chapter": 2,
+    "verse": 16,
+    "translations": {
+      "luther2017": "Mein Freund ist mein, und ich bin sein.",
+      "gute_nachricht": "Mein Geliebter gehört mir, und ich gehöre ihm.",
+      "elberfelder": "Mein Geliebter ist mein und ich bin sein."
+    },
+    "categories": [
+      "von-liebe-umgeben",
+      "auf-festem-fundament"
+    ],
+    "traits": [
+      "liebevoll",
+      "geborgen",
+      "vertrauend"
+    ],
+    "keywords": [
+      "Zugehörigkeit",
+      "Liebe",
+      "Gemeinschaft",
+      "Verbundenheit",
+      "Verheißung"
+    ],
+    "tooltip": "Diese wenigen Worte enthalten alles: Gegenseitigkeit, Zugehörigkeit, Liebe. Das Kind gehört Gott — und Gott gehört zu ihm. Einfacher und tiefer lässt sich Heil nicht sagen."
+  },
+  {
+    "id": "roem-12-10",
+    "book": "Römer",
+    "chapter": 12,
+    "verse": 10,
+    "translations": {
+      "luther2017": "Liebt einander mit brüderlicher Zuneigung; einer komme dem andern mit Ehrerbietung zuvor.",
+      "gute_nachricht": "Liebt einander in geschwisterlicher Zuneigung und übertrefft euch darin, einander Wertschätzung entgegenzubringen.",
+      "elberfelder": "Seid einander in geschwisterlicher Liebe zugetan, übertrefft euch in gegenseitiger Achtung."
+    },
+    "categories": [
+      "mit-sich-anderen-im-reinen",
+      "einen-unterschied-machen"
+    ],
+    "traits": [
+      "liebevoll",
+      "mitfuehlend",
+      "verantwortungsvoll"
+    ],
+    "keywords": [
+      "Zuneigung",
+      "Geschwisterlichkeit",
+      "Achtung",
+      "Liebe",
+      "Wertschätzung"
+    ],
+    "tooltip": "Paulus beschreibt eine Gemeinschaft, in der sich Menschen gegenseitig in der Achtung überbieten — nicht in Konkurrenz, sondern in Zuneigung. Das Kind wächst in diese Gemeinschaft hinein."
+  },
+  {
+    "id": "ps-145-9",
+    "book": "Psalmen",
+    "chapter": 145,
+    "verse": 9,
+    "translations": {
+      "luther2017": "Der HERR ist gut an allen dingen, und seine Güte waltet über alle seine Werke.",
+      "gute_nachricht": "Der HERR ist gut zu allen; sein Erbarmen gilt all seinen Geschöpfen.",
+      "elberfelder": "Gütig ist der HERR für alle, und sein Erbarmen ist über allen seinen Werken."
+    },
+    "categories": [
+      "von-guten-maechten-geborgen",
+      "von-liebe-umgeben"
+    ],
+    "traits": [
+      "froehlich-dankbar",
+      "vertrauend",
+      "hoffnungsvoll"
+    ],
+    "keywords": [
+      "Güte",
+      "Erbarmen",
+      "Schöpfung",
+      "Gott",
+      "Alle"
+    ],
+    "tooltip": "Gottes Güte hat keine Ausnahmen — sie gilt allen seinen Werken. Dieses Kind ist Gottes Werk, und Gottes Güte gilt ihm vollständig, von Anfang an."
+  },
+  {
+    "id": "kl-3-25",
+    "book": "Klagelieder",
+    "chapter": 3,
+    "verse": 25,
+    "translations": {
+      "luther2017": "Der HERR ist freundlich denen, die auf ihn harren, und dem Menschen, der nach ihm fragt.",
+      "gute_nachricht": "Der HERR ist gütig zu denen, die auf ihn hoffen, zu den Menschen, die ihn suchen.",
+      "elberfelder": "Gütig ist der HERR denen, die auf ihn warten, der Seele, die ihn sucht."
+    },
+    "categories": [
+      "von-guten-maechten-geborgen",
+      "auf-festem-fundament"
+    ],
+    "traits": [
+      "vertrauend",
+      "hoffnungsvoll",
+      "neugierig"
+    ],
+    "keywords": [
+      "Güte",
+      "Harren",
+      "Suchen",
+      "HERR",
+      "Geduld"
+    ],
+    "tooltip": "Wer Gott sucht, findet Güte — das ist die Verheißung aus den Klageliedern, geschrieben in dunkelster Zeit. Das Kind darf Zeit seines Lebens suchen und wird finden."
+  },
+  {
+    "id": "ps-68-20",
+    "book": "Psalmen",
+    "chapter": 68,
+    "verse": 20,
+    "translations": {
+      "luther2017": "Gelobt sei der Herr täglich. Gott legt uns eine Last auf, aber er hilft uns auch.",
+      "gute_nachricht": "Gepriesen sei der Herr täglich! Er trägt unsere Last, unser Gott ist unsere Rettung.",
+      "elberfelder": "Gepriesen sei der Herr täglich! Er legt uns eine Last auf; Gott ist unser Heil."
+    },
+    "categories": [
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "froehlich-dankbar",
+      "vertrauend",
+      "stark"
+    ],
+    "keywords": [
+      "Lob",
+      "Last",
+      "Hilfe",
+      "Heil",
+      "Täglich"
+    ],
+    "tooltip": "Jeden Tag neu — gepriesen sei der Herr. Nicht nur an guten Tagen. Das Kind lernt: Dankbarkeit ist eine tägliche Übung, und Gott trägt mit an jeder Last."
+  },
+  {
+    "id": "jes-26-3",
+    "book": "Jesaja",
+    "chapter": 26,
+    "verse": 3,
+    "translations": {
+      "luther2017": "Den Sinnigen erhältst du im Frieden, im Frieden; denn er vertraut auf dich.",
+      "gute_nachricht": "Du schenkst tiefen Frieden denen, die fest auf dich vertrauen; denn sie vertrauen auf dich.",
+      "elberfelder": "Die feste Gesinnung behütest du im Frieden, im Frieden, weil man auf dich vertraut."
+    },
+    "categories": [
+      "mit-sich-anderen-im-reinen",
+      "auf-festem-fundament"
+    ],
+    "traits": [
+      "friedliebend",
+      "vertrauend",
+      "geborgen"
+    ],
+    "keywords": [
+      "Friede",
+      "Vertrauen",
+      "Gesinnung",
+      "Bewahrung",
+      "Tiefe"
+    ],
+    "tooltip": "Vollständiger Friede — nicht Abwesenheit von Schwierigkeiten, sondern eine innere Ausrichtung. Das Kind darf diesen Frieden kennenlernen, der tiefer ist als alle Umstände."
+  },
+  {
+    "id": "ps-145-14",
+    "book": "Psalmen",
+    "chapter": 145,
+    "verse": 14,
+    "translations": {
+      "luther2017": "Der HERR hält alle die aufrecht, die fallen, und richtet auf alle Niedergedrückten.",
+      "gute_nachricht": "Der HERR hält alle, die fallen, aufrecht, und alle, die gebeugt sind, richtet er auf.",
+      "elberfelder": "Der HERR stützt alle Gefallenen und richtet alle Niedergebeugten auf."
+    },
+    "categories": [
+      "von-guten-maechten-geborgen",
+      "auf-festem-fundament"
+    ],
+    "traits": [
+      "vertrauend",
+      "hoffnungsvoll",
+      "stark"
+    ],
+    "keywords": [
+      "Aufrichten",
+      "Fallen",
+      "Hilfe",
+      "Schutz",
+      "HERR"
+    ],
+    "tooltip": "Wer fällt, wird aufgefangen — das ist Gottes Versprechen. Das Kind darf mit dem Wissen aufwachsen: Scheitern ist kein Ende, denn Gott richtet auf."
+  },
+  {
+    "id": "lk-15-20",
+    "book": "Lukas",
+    "chapter": 15,
+    "verse": 20,
+    "translations": {
+      "luther2017": "Und er machte sich auf und kam zu seinem Vater. Als er aber noch weit entfernt war, sah ihn sein Vater, und es jammerte ihn; er lief und fiel ihm um den Hals und küsste ihn.",
+      "gute_nachricht": "Er machte sich auf den Weg zu seinem Vater. Aber als er noch weit weg war, sah ihn sein Vater schon. Er hatte Mitleid, lief auf ihn zu, fiel ihm um den Hals und küsste ihn.",
+      "elberfelder": "Und er machte sich auf und kam zu seinem Vater. Als er aber noch weit entfernt war, sah ihn sein Vater und wurde von Mitleid bewegt; er lief hin und fiel ihm um den Hals und küsste ihn."
+    },
+    "categories": [
+      "von-liebe-umgeben",
+      "mit-sich-anderen-im-reinen"
+    ],
+    "traits": [
+      "geborgen",
+      "liebevoll",
+      "hoffnungsvoll"
+    ],
+    "keywords": [
+      "Vater",
+      "Heimkehr",
+      "Umarmung",
+      "Vergebung",
+      "Liebe"
+    ],
+    "tooltip": "Der Vater läuft dem Sohn entgegen — er wartet nicht, bis der Sohn angekommen ist. So ist Gottes Liebe: Sie kommt uns entgegen, lange bevor wir ankommen."
+  },
+  {
+    "id": "lk-11-13",
+    "book": "Lukas",
+    "chapter": 11,
+    "verse": 13,
+    "translations": {
+      "luther2017": "Wenn nun ihr, die ihr böse seid, dennoch euren Kindern gute Gaben zu geben wisst, wie viel mehr wird der Vater im Himmel den Heiligen Geist geben denen, die ihn bitten!",
+      "gute_nachricht": "Wenn ihr also, so unvollkommen ihr auch seid, euren Kindern gute Dinge gebt, wie viel mehr wird der Vater im Himmel denen den Heiligen Geist geben, die ihn darum bitten.",
+      "elberfelder": "Wenn also ihr, die ihr böse seid, euren Kindern gute Gaben zu geben wisst, wie viel mehr wird der Vater, der vom Himmel her ist, den Heiligen Geist denen geben, die ihn bitten!"
+    },
+    "categories": [
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "vertrauend",
+      "froehlich-dankbar",
+      "hoffnungsvoll"
+    ],
+    "keywords": [
+      "Vater",
+      "Heiliger Geist",
+      "Gabe",
+      "Gebet",
+      "Fürsorge"
+    ],
+    "tooltip": "Wenn irdische Eltern ihren Kindern Gutes geben wollen, wie viel mehr Gott? Das Kind hat den besten Vater — und Eltern, die sich in dieser Fürsorge Gottes aufgehoben wissen."
+  },
+  {
+    "id": "jes-54-10",
+    "book": "Jesaja",
+    "chapter": 54,
+    "verse": 10,
+    "translations": {
+      "luther2017": "Denn es sollen wohl Berge weichen und Hügel hinfallen, aber meine Gnade soll nicht von dir weichen und der Bund meines Friedens soll nicht hinfallen, spricht der HERR, dein Erbarmer.",
+      "gute_nachricht": "Die Berge mögen weichen und die Hügel wanken, aber meine Güte wird nicht von dir weichen und mein Friedensbund nicht wanken — so spricht der HERR, dein Erbarmer.",
+      "elberfelder": "Denn die Berge mögen weichen und die Hügel wanken, aber meine Gnade wird nicht von dir weichen, noch der Bund meines Friedens wanken, spricht der HERR, der dich erbarmt."
+    },
+    "categories": [
+      "auf-festem-fundament",
+      "von-liebe-umgeben"
+    ],
+    "traits": [
+      "geborgen",
+      "vertrauend",
+      "hoffnungsvoll"
+    ],
+    "keywords": [
+      "Berge",
+      "Gnade",
+      "Friedensbund",
+      "Beständigkeit",
+      "Erbarmen"
+    ],
+    "tooltip": "Wenn selbst Berge weichen — Gottes Gnade weicht nicht. Das ist das ultimative Sicherheitsversprechen: Gottes Liebe ist stabiler als alles, was wir als fest kennen."
+  },
+  {
+    "id": "ps-16-5-6",
+    "book": "Psalmen",
+    "chapter": 16,
+    "verse": 5,
+    "translations": {
+      "luther2017": "Der HERR ist mein Teil und mein Becher; du erhältst mir mein Los. Die Lose sind mir gefallen auf liebliches Land; mir ist ein schönes Erbteil geworden.",
+      "gute_nachricht": "Der HERR ist mein Anteil und mein Becher; du erhältst mir mein Los. Das Los hat mir ein herrliches Land zugeteilt, ein schönes Erbe ist mir zugefallen.",
+      "elberfelder": "Der HERR ist der Anteil meines Erbes und meines Bechers; du erhältst mein Los. Teile sind mir in liebliche Orte gefallen; ja, mir ist ein schönes Erbteil zugefallen."
+    },
+    "categories": [
+      "von-guten-maechten-geborgen",
+      "in-weitem-raum-leben"
+    ],
+    "traits": [
+      "froehlich-dankbar",
+      "geborgen",
+      "hoffnungsvoll"
+    ],
+    "keywords": [
+      "Erbteil",
+      "Schönheit",
+      "Gott",
+      "Zufriedenheit",
+      "Anteil"
+    ],
+    "tooltip": "Der Psalmist ist zufrieden, nicht weil er alles hat, sondern weil er Gott hat. Das Kind darf wissen: Wer Gott hat, hat das Schönste — alles andere ist Zugabe."
+  },
+  {
+    "id": "mk-9-23",
+    "book": "Markus",
+    "chapter": 9,
+    "verse": 23,
+    "translations": {
+      "luther2017": "Jesus sprach zu ihm: Wenn du kannst glauben! Alle Dinge sind möglich dem, der da glaubt.",
+      "gute_nachricht": "Da sagte Jesus zu ihm: Du sagst: Wenn du kannst. Dem, der glaubt, ist alles möglich.",
+      "elberfelder": "Jesus aber sprach zu ihm: Das ‚Wenn du kannst!' Alles ist möglich dem Glaubenden."
+    },
+    "categories": [
+      "in-weitem-raum-leben",
+      "auf-festem-fundament"
+    ],
+    "traits": [
+      "mutig",
+      "hoffnungsvoll",
+      "vertrauend"
+    ],
+    "keywords": [
+      "Glaube",
+      "Möglich",
+      "Kraft",
+      "Vertrauen",
+      "Jesus"
+    ],
+    "tooltip": "Dem Glaubenden ist alles möglich — nicht weil Glaube eine Magie ist, sondern weil er eine Tür öffnet zur Kraft Gottes. Das Kind darf ein Leben voller Möglichkeiten entdecken."
+  },
+  {
+    "id": "1joh-4-4",
+    "book": "1. Johannes",
+    "chapter": 4,
+    "verse": 4,
+    "translations": {
+      "luther2017": "Ihr Kindlein seid von Gott und habt jene überwunden; denn der in euch ist, ist größer als der, der in der Welt ist.",
+      "gute_nachricht": "Kinder, ihr gehört zu Gott und habt jene besiegt; denn der Geist in euch ist mächtiger als der, der in der Welt am Werk ist.",
+      "elberfelder": "Ihr seid aus Gott, ihr Kinder, und habt sie überwunden, weil größer ist der in euch, als der in der Welt ist."
+    },
+    "categories": [
+      "auf-festem-fundament",
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "stark",
+      "mutig",
+      "vertrauend"
+    ],
+    "keywords": [
+      "Gott",
+      "Überwinden",
+      "Stärke",
+      "Geist",
+      "Sieg"
+    ],
+    "tooltip": "Der in uns ist größer als alles, was uns entgegentritt. Das Kind muss nicht mit eigener Kraft bestehen — es trägt eine Kraft in sich, die keine Welt überwinden kann."
+  },
+  {
+    "id": "ps-5-3",
+    "book": "Psalmen",
+    "chapter": 5,
+    "verse": 3,
+    "translations": {
+      "luther2017": "HERR, höre mein Reden des Morgens; des Morgens will ich dir bereiten und aufschauen.",
+      "gute_nachricht": "HERR, am Morgen hörst du meine Stimme; am Morgen bringe ich mein Gebet vor dich und warte.",
+      "elberfelder": "HERR, am Morgen vernimmst du meine Stimme; am Morgen stelle ich mich vor dir auf und halte Ausschau."
+    },
+    "categories": [
+      "auf-festem-fundament",
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "vertrauend",
+      "froehlich-dankbar",
+      "hoffnungsvoll"
+    ],
+    "keywords": [
+      "Morgen",
+      "Gebet",
+      "Aufschauen",
+      "Anfang",
+      "Ausrichtung"
+    ],
+    "tooltip": "Jeden Morgen neu beginnen — mit dem Gesicht zu Gott. Das Kind darf lernen: Jeder Morgen ist ein neuer Anfang, und Gott ist schon da, bevor wir aufwachen."
+  },
+  {
+    "id": "roem-8-17",
+    "book": "Römer",
+    "chapter": 8,
+    "verse": 17,
+    "translations": {
+      "luther2017": "Sind wir aber Kinder, so sind wir auch Erben, nämlich Gottes Erben und Miterben Christi.",
+      "gute_nachricht": "Und da wir Kinder sind, sind wir auch Erben: Erben Gottes und Miterben Christi.",
+      "elberfelder": "Wenn aber Kinder, dann auch Erben: Erben Gottes, Miterben aber Christi."
+    },
+    "categories": [
+      "von-guten-maechten-geborgen",
+      "in-weitem-raum-leben"
+    ],
+    "traits": [
+      "froehlich-dankbar",
+      "geborgen",
+      "hoffnungsvoll"
+    ],
+    "keywords": [
+      "Erben",
+      "Kinder Gottes",
+      "Miterben",
+      "Christus",
+      "Zugehörigkeit"
+    ],
+    "tooltip": "Als Kinder Gottes sind wir Erben — nicht weil wir es verdient haben, sondern weil wir dazugehören. Das Kind tritt in ein Erbe ein, das reicher ist als alles Irdische."
+  },
+  {
+    "id": "ps-107-1",
+    "book": "Psalmen",
+    "chapter": 107,
+    "verse": 1,
+    "translations": {
+      "luther2017": "Danket dem HERRN, denn er ist freundlich, und seine Güte währet ewiglich.",
+      "gute_nachricht": "Dankt dem HERRN, denn er ist gut; seine Güte währt ewig.",
+      "elberfelder": "Danket dem HERRN, denn er ist gut; denn ewig währt seine Gnade."
+    },
+    "categories": [
+      "von-guten-maechten-geborgen",
+      "auf-festem-fundament"
+    ],
+    "traits": [
+      "froehlich-dankbar",
+      "vertrauend",
+      "hoffnungsvoll"
+    ],
+    "keywords": [
+      "Dankbarkeit",
+      "Güte",
+      "Ewig",
+      "Lob",
+      "HERR"
+    ],
+    "tooltip": "Die ewig währende Güte Gottes ist der Grund aller Dankbarkeit. Das Kind wächst in eine Geschichte der Dankbarkeit hinein, die von Generation zu Generation weitergeht."
+  },
+  {
+    "id": "jes-43-5",
+    "book": "Jesaja",
+    "chapter": 43,
+    "verse": 5,
+    "translations": {
+      "luther2017": "Fürchte dich nicht, denn ich bin mit dir.",
+      "gute_nachricht": "Hab keine Angst, denn ich bin mit dir.",
+      "elberfelder": "Fürchte dich nicht, denn ich bin mit dir."
+    },
+    "categories": [
+      "von-guten-maechten-geborgen",
+      "auf-festem-fundament"
+    ],
+    "traits": [
+      "geborgen",
+      "mutig",
+      "vertrauend"
+    ],
+    "keywords": [
+      "Furcht",
+      "Gegenwart",
+      "Gott",
+      "Begleitung",
+      "Trost"
+    ],
+    "tooltip": "Drei Worte — und sie tragen ein Leben. Fürchte dich nicht, denn ich bin mit dir. Das Kind muss nie alleine gehen, auf keinem Weg dieser Welt."
+  },
+  {
+    "id": "lk-6-38",
+    "book": "Lukas",
+    "chapter": 6,
+    "verse": 38,
+    "translations": {
+      "luther2017": "Gebet, so wird euch gegeben. Volles, gedrücktes, gerütteltes und überfließendes Maß wird man in euren Schoß geben.",
+      "gute_nachricht": "Gebt, dann wird auch euch gegeben werden: ein volles, gedrücktes, gerütteltes, überfließendes Maß wird man euch in den Schoß schütten.",
+      "elberfelder": "Gebt, und es wird euch gegeben werden: ein gutes, gedrücktes, gerütteltes und überlaufendes Maß wird man in euren Schoß geben."
+    },
+    "categories": [
+      "einen-unterschied-machen",
+      "in-weitem-raum-leben"
+    ],
+    "traits": [
+      "kreativ",
+      "verantwortungsvoll",
+      "froehlich-dankbar"
+    ],
+    "keywords": [
+      "Geben",
+      "Empfangen",
+      "Fülle",
+      "Großzügigkeit",
+      "Überfluss"
+    ],
+    "tooltip": "Geben und Empfangen gehören zusammen — wer großzügig gibt, erfährt Fülle. Das Kind lernt: Leben in Fülle beginnt mit der Haltung des Gebens."
+  },
+  {
+    "id": "ps-4-9",
+    "book": "Psalmen",
+    "chapter": 4,
+    "verse": 9,
+    "translations": {
+      "luther2017": "Ich liege und schlafe in Frieden; denn allein du, HERR, hilfst mir, dass ich sicher wohne.",
+      "gute_nachricht": "In Frieden lege ich mich nieder und schlafe sogleich ein; denn du allein, HERR, lässt mich in Sicherheit wohnen.",
+      "elberfelder": "In Frieden lege ich mich nieder und schlafe, denn du allein, HERR, lässt mich in Sicherheit wohnen."
+    },
+    "categories": [
+      "von-guten-maechten-geborgen",
+      "mit-sich-anderen-im-reinen"
+    ],
+    "traits": [
+      "geborgen",
+      "friedliebend",
+      "vertrauend"
+    ],
+    "keywords": [
+      "Frieden",
+      "Schlaf",
+      "Sicherheit",
+      "HERR",
+      "Ruhe"
+    ],
+    "tooltip": "Ein Kind, das ruhig einschläft, ist umgeben von Frieden. Dieser Friede hat einen Grund: Gott wacht. Das Kind darf sein Leben lang so schlafen — in Gottes Geborgenheit."
+  },
+  {
+    "id": "ps-18-2",
+    "book": "Psalmen",
+    "chapter": 18,
+    "verse": 2,
+    "translations": {
+      "luther2017": "Herzlich lieb habe ich dich, HERR, meine Stärke! Der HERR ist mein Fels, meine Burg, mein Erretter.",
+      "gute_nachricht": "Ich liebe dich, HERR, meine Stärke! HERR, mein Fels, meine Burg, mein Retter.",
+      "elberfelder": "Ich liebe dich herzlich, HERR, meine Stärke! HERR, mein Fels und meine Burg und mein Retter."
+    },
+    "categories": [
+      "auf-festem-fundament",
+      "von-liebe-umgeben"
+    ],
+    "traits": [
+      "stark",
+      "vertrauend",
+      "froehlich-dankbar"
+    ],
+    "keywords": [
+      "Liebe",
+      "Stärke",
+      "Fels",
+      "Burg",
+      "Retter"
+    ],
+    "tooltip": "Liebe und Stärke gehören hier zusammen — Gott ist Liebesobjekt und Fels zugleich. Das Kind darf lernen: Wen man liebt, auf den kann man sich stützen."
+  },
+  {
+    "id": "joh-20-21",
+    "book": "Johannes",
+    "chapter": 20,
+    "verse": 21,
+    "translations": {
+      "luther2017": "Da sprach Jesus zu ihnen abermals: Friede sei mit euch! Wie mich der Vater gesandt hat, so sende ich euch.",
+      "gute_nachricht": "Jesus sagte noch einmal zu ihnen: Friede sei mit euch! Wie der Vater mich gesandt hat, sende ich euch.",
+      "elberfelder": "Da sagte Jesus wieder zu ihnen: Friede euch! Wie der Vater mich gesandt hat, so sende auch ich euch."
+    },
+    "categories": [
+      "einen-unterschied-machen",
+      "mit-sich-anderen-im-reinen"
+    ],
+    "traits": [
+      "verantwortungsvoll",
+      "mutig",
+      "friedliebend"
+    ],
+    "keywords": [
+      "Sendung",
+      "Friede",
+      "Vater",
+      "Christus",
+      "Auftrag"
+    ],
+    "tooltip": "Die erste Botschaft des Auferstandenen ist Frieden — und dann eine Sendung. Das Kind wird in eine Welt gesandt, der Frieden fehlt, und trägt den Frieden Christi mit sich."
+  },
+  {
+    "id": "ps-139-16",
+    "book": "Psalmen",
+    "chapter": 139,
+    "verse": 16,
+    "translations": {
+      "luther2017": "Deine Augen sahen mich, als ich noch nicht bereitet war, und alle Tage waren in dein Buch geschrieben, die noch werden sollten.",
+      "gute_nachricht": "Schon als ich noch ungeformt im Mutterleib war, sahen deine Augen mich. Alle Tage meines Lebens waren in dein Buch eingetragen, bevor einer von ihnen gekommen war.",
+      "elberfelder": "Deine Augen sahen mich, als ich noch ungeformt war, und in dein Buch waren alle Tage eingeschrieben, die gebildet werden sollten, als noch keiner von ihnen da war."
+    },
+    "categories": [
+      "von-guten-maechten-geborgen",
+      "von-liebe-umgeben"
+    ],
+    "traits": [
+      "geborgen",
+      "vertrauend",
+      "hoffnungsvoll"
+    ],
+    "keywords": [
+      "Mutterleib",
+      "Buch des Lebens",
+      "Tage",
+      "Gott sieht",
+      "Lebensplan"
+    ],
+    "tooltip": "Jeder Tag dieses Kindes war schon in Gottes Buch, bevor das Kind geboren wurde. Das Leben ist nicht zufällig — es ist gesehen, gekannt und getragen von Anfang an."
+  },
+  {
+    "id": "ps-36-8",
+    "book": "Psalmen",
+    "chapter": 36,
+    "verse": 8,
+    "translations": {
+      "luther2017": "Wie köstlich ist deine Güte, Gott, dass Menschenkinder unter dem Schatten deiner Flügel Zuflucht nehmen!",
+      "gute_nachricht": "Wie kostbar ist deine Güte, Gott! Menschen finden Zuflucht im Schatten deiner Flügel.",
+      "elberfelder": "Wie kostbar ist deine Gnade, Gott! Und die Menschenkinder finden Zuflucht im Schatten deiner Flügel."
+    },
+    "categories": [
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "geborgen",
+      "froehlich-dankbar",
+      "vertrauend"
+    ],
+    "keywords": [
+      "Güte",
+      "Flügel",
+      "Zuflucht",
+      "Schatten",
+      "Kostbarkeit"
+    ],
+    "tooltip": "Unter Gottes Flügeln — das Bild vereint Schutz und Wärme, Kraft und Zärtlichkeit. Das Kind kommt unter diesen Schutz, und hier ist es sicher und geborgen."
+  },
+  {
+    "id": "1kor-12-27",
+    "book": "1. Korinther",
+    "chapter": 12,
+    "verse": 27,
+    "translations": {
+      "luther2017": "Ihr aber seid der Leib Christi und jeder von euch ein Glied.",
+      "gute_nachricht": "Ihr seid der Leib Christi, und jede und jeder von euch ist ein Teil davon.",
+      "elberfelder": "Ihr aber seid der Leib Christi und jeder ein Glied im Besonderen."
+    },
+    "categories": [
+      "mit-sich-anderen-im-reinen",
+      "einen-unterschied-machen"
+    ],
+    "traits": [
+      "verantwortungsvoll",
+      "kreativ",
+      "liebevoll"
+    ],
+    "keywords": [
+      "Leib Christi",
+      "Glied",
+      "Gemeinschaft",
+      "Aufgabe",
+      "Einheit"
+    ],
+    "tooltip": "Jedes Glied am Leib ist nötig — dieses Kind hat einen Platz in der Gemeinschaft, den niemand sonst füllen kann. Die Kirche braucht es, genau so, wie es ist."
+  },
+  {
+    "id": "ps-119-73",
+    "book": "Psalmen",
+    "chapter": 119,
+    "verse": 73,
+    "translations": {
+      "luther2017": "Deine Hände haben mich gemacht und bereitet; lass mich verstehen, dass ich deine Gebote lerne.",
+      "gute_nachricht": "Deine Hände haben mich geformt und mich fest gegründet; lass mich weise werden, damit ich deine Gebote begreife.",
+      "elberfelder": "Deine Hände haben mich gemacht und bereitet; lass mich verstehen und deine Gebote lernen."
+    },
+    "categories": [
+      "auf-festem-fundament",
+      "in-weitem-raum-leben"
+    ],
+    "traits": [
+      "neugierig",
+      "vertrauend",
+      "kreativ"
+    ],
+    "keywords": [
+      "Hände Gottes",
+      "Schöpfung",
+      "Lernen",
+      "Verständnis",
+      "Gebot"
+    ],
+    "tooltip": "Gott hat dieses Kind mit eigenen Händen geformt — und es ist gemacht, um zu verstehen und zu lernen. Neugier und Glauben schließen sich nicht aus, sie gehören zusammen."
+  },
+  {
+    "id": "ps-145-16",
+    "book": "Psalmen",
+    "chapter": 145,
+    "verse": 16,
+    "translations": {
+      "luther2017": "Du tust deine Hand auf und sättigst alles, was lebt, mit Wohlgefallen.",
+      "gute_nachricht": "Du öffnest deine Hand und sättigst alles Lebende mit deinem Segen.",
+      "elberfelder": "Du tust deine Hand auf und sättigst alles Lebende mit Wohlgefallen."
+    },
+    "categories": [
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "froehlich-dankbar",
+      "vertrauend",
+      "geborgen"
+    ],
+    "keywords": [
+      "Hand Gottes",
+      "Sättigung",
+      "Leben",
+      "Fülle",
+      "Versorgung"
+    ],
+    "tooltip": "Gott öffnet die Hand — und alles, was lebt, wird satt. Das Kind kommt in eine Welt, in der Gott der Versorger ist, großzügig, täglich, für alle."
+  },
+  {
+    "id": "esra-8-22",
+    "book": "Esra",
+    "chapter": 8,
+    "verse": 22,
+    "translations": {
+      "luther2017": "Die Hand unseres Gottes waltet zum Besten über alle, die ihn suchen.",
+      "gute_nachricht": "Die Hand unseres Gottes hilft allen, die ihn suchen.",
+      "elberfelder": "Die Hand unseres Gottes ist zum Guten über alle, die ihn suchen."
+    },
+    "categories": [
+      "auf-festem-fundament",
+      "von-guten-maechten-geborgen"
+    ],
+    "traits": [
+      "vertrauend",
+      "hoffnungsvoll",
+      "stark"
+    ],
+    "keywords": [
+      "Hand Gottes",
+      "Suchen",
+      "Gutes",
+      "Schutz",
+      "Führung"
+    ],
+    "tooltip": "Gottes Hand waltet zum Besten — nicht immer sichtbar, aber immer wirksam. Das Kind darf suchen und darf darauf vertrauen: Wer sucht, wird Gottes gute Hand erfahren."
   }
 ]

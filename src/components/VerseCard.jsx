@@ -16,12 +16,22 @@ export default function VerseCard({ verse, isFavorite, onToggleFavorite }) {
       aria-label={`Vers ${ref}`}
     >
       {/* Vers-Text */}
-      <blockquote className="verse-text text-forest-900 text-base leading-relaxed">
-        „{text}“
+      <blockquote className="verse-text text-gray-800 text-base leading-relaxed">
+        {'„'}{text}{'“'}
       </blockquote>
 
       {/* Referenz */}
-      <p className="text-sm text-forest-600 font-semibold">{ref}</p>
+      <p className="text-sm text-baby-mint-500 font-semibold">{ref}</p>
+
+      {/* Tooltip */}
+      {verse.tooltip && (
+        <details className="text-xs text-gray-500 leading-relaxed">
+          <summary className="cursor-pointer text-baby-lavender-400 font-semibold hover:text-baby-lavender-500">
+            Bedeutung &#9660;
+          </summary>
+          <p className="mt-1 pl-2 border-l-2 border-baby-lavender-200">{verse.tooltip}</p>
+        </details>
+      )}
 
       {/* Übersetzungs-Toggle */}
       <div className="flex flex-wrap gap-1.5" role="group" aria-label="Übersetzung wählen">
@@ -32,8 +42,8 @@ export default function VerseCard({ verse, isFavorite, onToggleFavorite }) {
             aria-pressed={localTranslation === key}
             className={`text-xs px-2.5 py-1 rounded-full border transition-colors ${
               localTranslation === key
-                ? 'bg-forest-600 text-white border-forest-600'
-                : 'bg-white text-gray-500 border-gray-200 hover:border-forest-300'
+                ? 'bg-baby-mint-500 text-white border-baby-mint-500'
+                : 'bg-white text-gray-500 border-gray-200 hover:border-baby-mint-300'
             }`}
           >
             {label}

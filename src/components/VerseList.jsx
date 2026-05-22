@@ -8,21 +8,32 @@ export default function VerseList({ verses, filters, query, semanticIds, isFavor
   const keywordFiltered = useVerseFilter(verses, filters, debouncedQuery)
 
   const filtered = useMemo(() => {
+    let pool
     if (semanticIds) {
       const byId = Object.fromEntries(verses.map((v) => [v.id, v]))
-      const semantic = semanticIds
-        .map((id) => byId[id])
-        .filter(Boolean)
+      pool = semanticIds.map((id) => byId[id]).filter(Boolean)
       if (filters.categories.length > 0 || filters.traits.length > 0) {
-        return semantic.filter(
+        pool = pool.filter(
           (v) =>
             (filters.categories.length === 0 || filters.categories.some((c) => v.categories.includes(c))) &&
             (filters.traits.length === 0 || filters.traits.some((t) => v.traits.includes(t)))
         )
       }
-      return semantic
+    } else {
+      pool = keywordFiltered
     }
-    return keywordFiltered
+
+    if (filters.categories.length === 0 && filters.traits.length === 0) return pool
+
+    return [...pool].sort((a, b) => {
+      const scoreA =
+        filters.categories.filter((c) => a.categories.includes(c)).length * 2 +
+        filters.traits.filter((t) => a.traits.includes(t)).length
+      const scoreB =
+        filters.categories.filter((c) => b.categories.includes(c)).length * 2 +
+        filters.traits.filter((t) => b.traits.includes(t)).length
+      return scoreB - scoreA
+    })
   }, [semanticIds, keywordFiltered, verses, filters])
 
   if (filtered.length === 0) {

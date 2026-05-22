@@ -10,7 +10,7 @@ export default function SearchBar({ value, onChange }) {
         onChange={(e) => onChange(e.target.value)}
         placeholder="Vers oder Stichwort suchen …"
         aria-label="Bibelverse suchen"
-        className="w-full pl-10 pr-4 py-2.5 rounded-xl border border-gray-200 bg-white shadow-sm focus:outline-none focus:ring-2 focus:ring-forest-400 focus:border-transparent text-sm"
+        className="w-full pl-10 pr-4 py-2.5 rounded-xl border border-gray-200 bg-white shadow-sm focus:outline-none focus:ring-2 focus:ring-baby-mint-400 focus:border-transparent text-sm"
       />
       {value && (
         <button

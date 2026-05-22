@@ -15,13 +15,13 @@ export default function FilterPanel({ filters, onChange }) {
   return (
     <section aria-label="Filter">
       <div className="mb-3 flex items-center justify-between">
-        <h2 className="text-sm font-semibold text-forest-700 uppercase tracking-wide">
+        <h2 className="text-sm font-semibold text-baby-mint-400 uppercase tracking-wide">
           Lebenseinstellungen
         </h2>
         {hasFilters && (
           <button
             onClick={reset}
-            className="text-xs text-forest-500 hover:text-forest-700 underline"
+            className="text-xs text-baby-mint-400 hover:text-baby-mint-400 underline"
           >
             Zurücksetzen
           </button>
@@ -39,12 +39,12 @@ export default function FilterPanel({ filters, onChange }) {
               aria-pressed={active}
               className={`text-left p-3 rounded-xl border-2 transition-all ${
                 active
-                  ? 'border-forest-600 bg-forest-50 shadow-sm'
-                  : 'border-gray-200 bg-white hover:border-forest-300'
+                  ? 'border-baby-mint-500 bg-baby-mint-50 shadow-sm'
+                  : 'border-gray-200 bg-white hover:border-baby-mint-300'
               }`}
             >
               <div className="text-lg mb-1">{icon}</div>
-              <div className="text-sm font-semibold text-forest-800">{label}</div>
+              <div className="text-sm font-semibold text-baby-mint-500">{label}</div>
               <div className="text-xs text-gray-500 mt-0.5 leading-snug">{description}</div>
             </button>
           )
@@ -52,7 +52,7 @@ export default function FilterPanel({ filters, onChange }) {
       </div>
 
       {/* Charaktereigenschaften-Chips */}
-      <h2 className="text-sm font-semibold text-forest-700 uppercase tracking-wide mb-2">
+      <h2 className="text-sm font-semibold text-baby-mint-400 uppercase tracking-wide mb-2">
         Charaktereigenschaften
       </h2>
       <div className="flex flex-wrap gap-2">
@@ -65,8 +65,8 @@ export default function FilterPanel({ filters, onChange }) {
               aria-pressed={active}
               className={`flex items-center gap-1.5 px-3 py-1.5 rounded-full text-sm border transition-all ${
                 active
-                  ? 'bg-forest-600 border-forest-600 text-white font-medium'
-                  : 'bg-white border-gray-200 text-forest-700 hover:border-forest-400'
+                  ? 'bg-baby-mint-500 border-baby-mint-500 text-white font-medium'
+                  : 'bg-white border-gray-200 text-baby-mint-400 hover:border-baby-mint-400'
               }`}
             >
               <span>{icon}</span>

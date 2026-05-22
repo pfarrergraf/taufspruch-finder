@@ -32,7 +32,7 @@ export default function FavoritesDrawer({ open, onClose, favorites, allVerses, o
         }`}
       >
         <header className="flex items-center justify-between px-4 py-4 border-b border-gray-100">
-          <h2 className="font-serif font-semibold text-forest-800 text-lg">
+          <h2 className="font-serif font-semibold text-baby-mint-500 text-lg">
             Meine Favoriten ({favVerses.length})
           </h2>
           <button
@@ -52,12 +52,12 @@ export default function FavoritesDrawer({ open, onClose, favorites, allVerses, o
             </p>
           ) : (
             favVerses.map((verse) => (
-              <div key={verse.id} className="bg-parchment-50 rounded-xl p-3 border border-parchment-200">
-                <blockquote className="verse-text text-forest-900 text-sm leading-relaxed mb-2">
+              <div key={verse.id} className="bg-baby-cream-50 rounded-xl p-3 border border-baby-cream-200">
+                <blockquote className="verse-text text-baby-mint-500 text-sm leading-relaxed mb-2">
                   „{verse.translations[translation]}“
                 </blockquote>
                 <div className="flex items-center justify-between">
-                  <span className="text-xs text-forest-600 font-semibold">
+                  <span className="text-xs text-baby-mint-500 font-semibold">
                     {verse.book} {verse.chapter},{verse.verse}
                   </span>
                   <button
